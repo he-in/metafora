@@ -1,3 +1,6 @@
+import random
+
+
 class Migrant:
     def __init__(self, uid, size, node_location=None, link_location=None, destination=None, financial_capital=None, aspiration=None,
                  risk_perception=None, agency=None, mobility=None, capability=None, positive_liberty=None,
@@ -32,6 +35,26 @@ class Migrant:
         self.passed_nodes = passed_nodes  # Array of nodes
         self.settled = False
         self.leaving_fleeing = 'fleeing'  # 'leaving', 'fleeing'
+        self.dest_plan = 'since_beg'  # 'since_beg', 'throughout', 'none'
+        self.plan = 'long_term'  # 'long_term', 'aspirations_only', 'short_term', 'none'
+        self.routing = 'key_transit'  # 'key_transit', 'optimisation', 'next_stop_only', 'random'
+
+    def plan(self):
+        if self.leaving_fleeing == 'leaving':
+            self.dest_plan = 'since_beg'
+            self.routing = 'key_transit'
+        elif self.leaving_fleeing == 'fleeing':
+            random_e = 0.3
+            random_f = 0.6
+            if random.random() < random_e:
+                self.dest_plan = 'since_beg'
+                self.routing = 'optimisation'
+            elif random.random() < random_f:
+                self.dest_plan = 'throughout'
+                self.routing = 'next_stop_only'
+            else:
+                self.dest_plan = 'none'
+                self.routing = 'random'
 
 
 class MigrantKPIs:

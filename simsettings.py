@@ -1,5 +1,9 @@
 import sys
 import csv
+import random
+
+seed = 12345
+random.seed(seed)
 
 class Parameters:
   Softening = 0.0
