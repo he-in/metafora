@@ -1,0 +1,550 @@
+﻿Country,pcode,gis_name,name_alt,name_fr,name_sp,loc_type,address_1,address_2,address_3,address_4,city,ds_code,x,y
+Aruba (K. of the Netherlands),ABWp000001,Oranjestad,,,,UNHCR Field Office,,,,,Oranjestad,ABWOR,-7796013.211200001,1405208.3396000005
+Afghanistan,AFGp000432,Kabul CO,,Kaboul,,UNHCR Country Office,"41, Jadi Solh (Peace Avenue)",Shar-e-Naw,,,Kabul,AFGKA,7700445.736900002,4100402.2990000024
+Afghanistan,AFGp000004,Kabul,Kabul,Kaboul,,UNHCR Field Unit,41 Jadi Solh (Peace Avenue),,,,Kabul,AFGKS,7700445.736900002,4100402.2990000024
+Afghanistan,AFGp000002,Herat,,Herat,,UNHCR Field Office,"Mahbas Street, Mohammada Residence",,,,Herat,AFGHE,6926824.367800001,4075259.1895999983
+Afghanistan,AFGp000006,Mazar-i-Sharif,,Mazar-i-Sharif,,UNHCR Sub-Office,Dash-e-Shor,,,,Mazar-i-Sharif,AFGMA,7470042.443500001,4399958.558499999
+Afghanistan,AFGp000005,Kandahar,,Kandahar,,UNHCR Field Office,Shar-e-Now,,,,Kandahar,AFGKD,7312169.141600002,3712434.379900001
+Afghanistan,AFGp000001,Bamyan,,Bamyan,,UNHCR Field Unit,North Stern Air Strip Sarasyab,Shahr-e-Ghul Ghula Bamyan,,,Bamyan,AFGBA,7550952.2324,4138777.3945000023
+Afghanistan,AFGp000405,Kunduz,,Kunduz,,UNHCR Field Unit,,,,,,AFGKU,7666674.743000001,4401990.213299997
+Afghanistan,AFGp000003,Jalalabad,,Jalalabad,,UNHCR Sub-Office,Near Public Health Hospital,,,,Jalalabad,AFGJA,7841159.361900002,4087400.0556000024
+Afghanistan,AFGp000440,Gardez,,Gardez,,UNHCR Field Office,Ghazni Station Road,,,,Gardez,AFGGA,7705048.129900001,3975161.4302999973
+Angola,AGOp000027,Dundo,,,,UNHCR Field Office,,,,,,ANGDU,2317857.367899999,-820451.6055000015
+Angola,AGOp000019,Luanda,,Luanda,,UNHCR Country Office,Rua Eduard Mondlaine/SN,,,,Luanda,ANGLU,1473088.0386999995,-986858.4560000002
+Albania,ALBp000015,Gjirokastra,,,,UNHCR Field Unit,,,,,,ALBGJ,2238137.1143999994,4875941.918099999
+Albania,ALBp000014,Tirana,,Tirana,,UNHCR Country Office,"rruga Skenderbej, UN House",,,,Tirana,ALBTI,2205060.1253999993,5060806.544100001
+United Arab Emirates,AREp000367,Abu Dhabi,,Abu Dhabi,,UNHCR Field Unit,PO Box No. 3490,"Bainuna Str., near Bahrain Embassy","Street No. 14, Bateeen Area",,Abu Dhabi,UAEAB,6052329.394900002,2811641.3002999984
+Argentina,ARGp000027,Buenos Aires,,Buenos Aires,,UNHCR Multi-Country Office,Cerrito 836,10  piso,,,Buenos Aires,ARGBU,-6499118.742799999,-4109479.601399999
+Armenia,ARMp000028,Yerevan,,Erevan,,UNHCR Country Office,14 Adamyan str,,,,Yerevan,ARMYE,4955101.7095,4891457.206299998
+Australia,AUSp000029,Canberra (MCO),,Canberra,,UNHCR Multi-Country Office,3 Lyons Place,,,,Lyons,AULCA,16595096.1356,-4210077.7861
+Austria,AUTp000031,Vienna,,Vienne,,UNHCR Country Office,"Vienna International Centre, E-11",P.O. Box 550,Wagramer Strasse 5,,Vienna,AUSVI,1827582.2853999995,6145820.786600001
+Austria,AUTp000032,Vienna (LO-OSCE),,Vienna (LO-OSCE),,UNHCR Liaison Office,,,,,Vienna,AUSLO,1827582.2853999995,6145820.786600001
+Azerbaijan,AZEp000032,Baku,,Bakou,,UNHCR Country Office,"3, Azer Aliyev St.",,,,Baku,AZEBA,5546348.802099999,4926675.761100002
+Burundi,BDIp000072,Muyinga,,Muyinga,,UNHCR Field Office,Muyinga,,,,Muyinga,BDIMU,3378106.8335999995,-316652.16589999944
+Burundi,BDIp000073,Ruyigi,,Ruyigi,,UNHCR Sub-Office,,,,,Ruyigi,BDIRU,3367115.9263000004,-386975.9158000015
+Burundi,BDIp000070,Bujumbura,,Bujumbura,,UNHCR Country Office,"No. 1, Avenue du Large",,,,Bujumbura,BDIBU,3267592.5166999996,-377489.40150000155
+Burundi,BDIp000535,Makamba,,Makamba,,UNHCR Field Office,Quartier Kigwati,,,,Makamba,BDIMA,3317320.8255999982,-460482.9734000005
+Belgium,BELp000036,Brussels (MCO - EU Affairs),,Bruxelles (MCO - EU Affairs),,UNHCR Multi-Country Office,Rue Van Eyck 11b,,,,B-1050 Bruxelles,BELBR,486179.74969999865,6589587.6022000015
+Burkina Faso,BFAp000856,Bobo-Dioulasso,,Bobo-Dioulasso,,UNHCR Field Office,,,,,,BKFBD,-477757.998300001,1252310.0073000006
+Burkina Faso,BFAp000848,Dori,,Dori,,UNHCR Sub-Office,,,,,,BKFDO,-3086.898400001228,1578080.8599000014
+Burkina Faso,BFAp000069,Ouagadougou,,Ouagadougou,,UNHCR Country Office,,,,,,BKFOU,-170318.82090000063,1387048.2624000013
+Burkina Faso,BFAp000857,Djibo,,Djibo,,UNHCR Field Unit,,,,,,BKFDJ,-181093.87079999968,1585610.294300001
+Burkina Faso,BFAp000859,Kaya,,Kaya,,UNHCR Sub-Office,,,,,,BKFKA,-120336.36950000003,1468644.9921000004
+Burkina Faso,BFAp002327,Ouahigouya     ,,Ouahigouya        ,,UNHCR Field Office,,,,,,BKFOA,-268927.85229999945,1526393.1959000006
+Burkina Faso,BFAp002328,Fada Ngourma,,,,UNHCR Field Office,,,,,,BKFFA,39827.66620000079,1352790.4376999997
+Bangladesh,BGDp000034,Dhaka,,Dacca,,UNHCR Country Office,P.O. Box 3474,House N/E (N) 8,,,Dhaka,BGDDA,10065044.4892,2728920.9373000003
+Bangladesh,BGDp000033,Cox's Bazar,Cox's Bazaar,Cox's Bazar,,UNHCR Sub-Office,New Cottage,Motel Road,,,Cox's Bazaar,BGDCO,10239723.360599998,2444302.2919000015
+Bulgaria,BGRp000068,Sofia*,,Sofia,,UNHCR Liaison Office,19 Denkoglu str.,,,,Sofia,BULSO,2596063.2544,5265746.576499999
+Bahamas,BHSp002489,Nassau*,,Nassau*,,UNHCR Liaison Office,,,,,,BHSNA,-8611119.2103,2883116.0736999996
+Bosnia and Herzegovina,BIHp000058,Sarajevo,,Sarajevo,,UNHCR Country Office,Unis Building,Fra Andjela Zvizdovica 1,,,Sarajevo,BSNSA,2049391.8255000003,5443647.973099999
+Bosnia and Herzegovina,BIHp000063,Tuzla,,Tuzla,,UNHCR Field Unit,Rudarska 72,,,,Tuzla,BSNTU,2077889.6151,5549236.107299998
+Bosnia and Herzegovina,BIHp000040,Bihac,,Bihac,,UNHCR Field Unit,Becira Islamovica 22,,,,Bihac,BSNBI,1766640.3189000003,5593699.366899997
+Belarus,BLRp000035,Minsk,,Minsk,,UNHCR Country Office,Prospekt Partizanskij 6 A,6th Floor,,,Minsk,BLRMI,3067631.207800001,7151618.070799999
+Belize,BLZp000037,Belmopan**,,Belmopan**,,UNHCR National Office,,,,,,BZEBE,-9883946.268,1951811.1097999997
+Brazil,BRAp000902,Belem,,Belem,,UNHCR Field Unit,,,,,Belem,BRABE,-5396988.0896000005,-161214.17330000177
+Brazil,BRAp000900,Boa Vista,,Boa Vista,,UNHCR Sub-Office,,,,,Boa Vista,BRABO,-6756782.609999999,315390.87220000103
+Brazil,BRAp000901,Paracaima,,Paracaima,,UNHCR Field Unit,,,,,Paracaima,BRAPA,-6806928.9717,498585.33630000055
+Brazil,BRAp000067,Brasilia,,Brasilia,,UNHCR Country Office,SHIS QL 24 conjunto 04 casa 16,Lago Sul,,,Brasilia,BRABR,-5335512.2469,-1779227.327399999
+Brazil,BRAp000899,São Paulo,São Paulo,São Paulo,,UNHCR Field Office,,,,,,BRASA,-5190037.264699999,-2702470.171599999
+Brazil,BRAp000637,Manaus,,Manaus,,UNHCR Field Office,,,,,,BRAMA,-6680797.1612,-347745.5590999983
+Botswana,BWAp000596,Dukwi,,Dukwi,,UNHCR Field Office,,,,,,BOTDU,2941602.7386999987,-2343406.5716000013
+Central African Republic,CAFp000885,Bouar,Bouar,Bouar,,UNHCR Sub-Office,,,,,,CARBR,1734373.4371999986,662367.3288000003
+Central African Republic,CAFp000650,Paoua,,Paoua,,UNHCR Field Office,,,,,,CARPA,1829412.1429999992,808482.4516000003
+Central African Republic,CAFp000577,Kaga Bandoro,,Kaga Bandoro,,UNHCR Field Office,,,,,,CARKA,2135066.7074999996,781876.9596000016
+Central African Republic,CAFp000080,Bangui,,Bangui,,UNHCR Country Office,Rue Joseph Degrain,,,,Bangui,CARBA,2065867.110100001,486603.57939999923
+Central African Republic,CAFp006577,Obo,,Obo,,UNHCR Field Office,,,,,,CAROB,2941611.3592999987,602187.9917000011
+Central African Republic,CAFp017780,Berberati,,Berbérati,,UNHCR Field Office,,,,,,CARBE,1734373.4371999986,492942.3867000006
+Central African Republic,CAFp017781,Bria,,Bria,,UNHCR Field Unit,,,,,,CARBI,2447656.398499999,729452.1559000015
+Central African Republic,CAFp017782,Bangassou,,,,UNHCR Field Unit,,,,,,CARBN,2540094.3258000016,528133.1853
+Central African Republic,CAFp017783,Mongoumba,,,,UNHCR Field Office,,,,,,CARMN,2069985.7087000012,404125.5549999997
+Canada,CANp000079,Ottawa,,Ottawa,,UNHCR Country Office,280 Albert Street,,,,Ottawa,CANOT,-8427036.0683,5687802.601499997
+Canada,CANp000657,Montreal,,Montréal,,UNHCR Field Unit,,,,,,CANMO,-8191222.091,5700582.7324
+Canada,CANp000658,Toronto,,Toronto,,UNHCR Field Unit,,,,,,CANTO,-8840660.0003,5414053.453400001
+Switzerland,CHEp000663,Bern (LO),,Bern (BL),,UNHCR Liaison Office,4 Weltpoststrasse,,,,Bern,SWIBE,831898.5780000016,5932130.2238000035
+Switzerland,CHEp000332,Geneva (HQ),Geneva,Genève (QG),,UNHCR HeadQuarter,94 Rue Montbrillant,,,,Geneva,SWIGE,683635.0208999999,5815743.929099999
+Switzerland,CHEp000664,Geneva (RO - Europe),Geneva,Genève (BR - Europe),,UNHCR Regional Office,94 Rue Montbrillant,,,,Geneva,SWIRB,683635.0208999999,5815743.929099999
+Chile,CHLp000721,Santiago*,,Santiago**,,UNHCR Liaison Office,,,,,,CHLSA,-7864443.837099999,-3958522.3929000013
+Chile,CHLp000722,Arica,,Arica,,UNHCR Field Unit,,,,,Arica,CHLAR,-7825850.635299999,-2093883.6598999985
+Chile,CHLp000723,Antofagasta,,Antofagasta,,UNHCR Field Unit,,,,,,CHLAN,-7836613.369000001,-2710993.293299999
+China,CHNp000085,Beijing,,Beijing,,UNHCR Country Office,22314 DPBJG CN1-2-1,,,,Beijing,CHIBE,12963499.348000001,4858105.216499999
+Cote d'Ivoire,CIVp000095,Abidjan,,Abidjan,,UNHCR Country Office,Angle Rue Des Jardins-Boulevard Latrille,"Cocody, II Plateaux",,,Abidjan,ICOAB,-444904.1523000002,599513.7655999996
+Cote d'Ivoire,CIVp000098,Guiglo,,Guiglo,,UNHCR Sub-Office,P.O. Box 623,,,,Guiglo,ICOGU,-833139.7820000015,729973.4362000003
+Cameroon,CMRp003305,Touboro,,Touboro,,UNHCR Field Unit,,,,,Touboro,CMRTO,1708431.168299999,867542.069600001
+Cameroon,CMRp003304,Djohong,,Djohong,,UNHCR Field Unit,,,,,,CMRDJ,1635896.3561999984,762791.9217000008
+Cameroon,CMRp003306,Buea,,,,UNHCR Field Office,,,,,Buea,CMRBU,1027590.6105999984,462938.7664999999
+Cameroon,CMRp003307,Bamenda,,,,UNHCR Sub-Office,,,,,Bamenda,CMRBM,1129894.5934000015,664662.0947000012
+Cameroon,CMRp010049,Douala,,Douala,,UNHCR Field Office,,,,,Douala,CMRDO,1080508.6110999994,450939.28929999843
+Cameroon,CMRp000633,Meiganga,,Meiganga,,UNHCR Field Office,,,,,,CMRME,1590171.0960999988,727539.4409000017
+Cameroon,CMRp000890,Maroua,Maroua,Maroua,,UNHCR Sub-Office,,,,,,CMRMA,1594620.7410000004,1186272.6915999986
+Cameroon,CMRp000078,Yaounde,,Yaoundé,,UNHCR Multi-Country Office,Quartier Nlongkak,Rue No 1032,Batiment no 46,,Yaounde,CMRYA,1281460.2181999981,432433.3284999989
+Cameroon,CMRp000893,Batouri,Batouri,Batouri,,UNHCR Field Office,,,,,,CMRBA,1599290.0414999984,494009.55970000103
+Cameroon,CMRp000672,Kousséri,,Kousséri,,UNHCR Field Unit,,,,,,CMRKO,1673243.2661000006,1354586.5976000018
+Cameroon,CMRp000668,Bertoua,,Bertoua,,UNHCR Sub-Office,,,,,,CMRBE,1521575.7089999989,509608.37779999897
+Democratic Republic of the Congo,CODp006580,Tshikapa,,,,UNHCR Field Office,,,,,,CODTS,2315084.8176000006,-716522.5405000001
+Democratic Republic of the Congo,CODp000554,Libenge,,Libenge,,UNHCR Field Office,Quartier Administrative,,,,Libenge,CODLI,2073861.9646999985,405764.58150000125
+Democratic Republic of the Congo,CODp000107,Goma,,Goma,,UNHCR Sub-Office,"27, Avenue du Golf",Katindo Gauche,,,Goma,CODGO,3253817.2863,-187817.77560000122
+Democratic Republic of the Congo,CODp000109,Bukavu,,Bukavu,,UNHCR Field Office,"102, Avenue Patrice Emery Lumumba",Ibanda,,,Bukavu,CODBU,3215698.4869999997,-278204.44959999993
+Democratic Republic of the Congo,CODp000553,Uvira,,Uvira,,UNHCR Field Unit,,,,,Uvira,CODUV,3216020.9125000015,-379096.7837000005
+Democratic Republic of the Congo,CODp000666,Beni,,Beni,,UNHCR Field Office,,,,,Beni,CODBE,3280251.4351999983,55660.451900001615
+Democratic Republic of the Congo,CODp000105,Aru,,Aru,,UNHCR Sub-Office,Avenue de l'ONU,,,,Aru,CODAR,3387652.6213999987,322021.18250000104
+Democratic Republic of the Congo,CODp000556,Baraka,,Baraka,,UNHCR Field Office,Av. Commercial 33,Baraka Centre,,,Baraka,CODBA,3238383.1728000008,-457376.92880000174
+Democratic Republic of the Congo,CODp000587,Bunia,,Bunia,,UNHCR Field Office,UNHCR Bunia,,,,Bunia,CODBN,3367096.6680000015,172372.27109999955
+Democratic Republic of the Congo,CODp004149,Bili,Bili,Bili,,UNHCR Field Unit,,,,,,CODBI,2218163.3143999986,508495.33570000157
+Democratic Republic of the Congo,CODp000108,Gbadolite,,,,UNHCR Sub-Office,,,,,,CODGB,2338321.5593999997,476795.13589999825
+Democratic Republic of the Congo,CODp000112,Kinshasa,,Kinshasa,,UNHCR Country Office,"6729, Avenue de l'Oua Kinshasa 1",Kinshasa 1,,,Kinshasa,CODKI,1700602.1460000016,-481866.0044
+Democratic Republic of the Congo,CODp000588,Kalemie,,Kalemie,,UNHCR Sub-Office,"175, avenue industrielle",Quartier industriel,,,Kalemie,CODKL,3251387.8497,-659108.6810000017
+Democratic Republic of the Congo,CODp006582,Faradje,,,,UNHCR Field Office,,,,,,CODFA,3308044.5725000016,415886.78599999845
+Democratic Republic of the Congo,CODp006584,Yakoma,Yakoma,,,UNHCR Field Office,,,,,,CODYA,2498600.9252000004,457906.9464999996
+Democratic Republic of the Congo,CODp006579,Kananga,,,,UNHCR Sub-Office,,,,,,CODKK,2494578.5099,-658102.4235999994
+Republic of the Congo,COGp000442,Betou,Bétou,Betou,,UNHCR Field Office,,,,,Bétou,COBBE,2027988.2577,343016.3878000006
+Republic of the Congo,COGp000090,Brazzaville,,Brazzaville,,UNHCR Country Office,"6, Rue 18 Mars 1977",Quartier Cathedrale,B. P. 1093,,Brazzaville,COBBR,1700091.881000001,-476064.0714999996
+Republic of the Congo,COGp000522,Gamboma,,Gamboma,,UNHCR Field Office,"6, Rue 18 Mars 1977",Quartier Cathedrale,B. P. 1093,,Brazzaville,COBGA,1769084.442499999,-208665.14559999853
+Colombia,COLp000822,Buenaventura,,Buenaventura,,UNHCR Field Office,,,,,Buenaventura,COLBN,-8579478.8625,432488.89880000055
+Colombia,COLp000652,Arauca,,Arauca,,UNHCR Field Office,Cll 20 No. 24-68,,,,Arauca,COLAR,-7877180.210899999,790594.8115000017
+Colombia,COLp000625,Medellín,Medellin,Medellín,,UNHCR Sub-Office,Cll 7 No. 39-215,,,,Medellin,COLME,-8412378.9649,692956.3000000007
+Colombia,COLp000552,Mocoa,,Mocoa,,UNHCR Field Office,Calle 117 No 07-22,Barrio Villa Diana,,,Mocoa,COLMO,-8529199.4197,127875.14249999821
+Colombia,COLp000479,Quibdó,,Quibdò,,UNHCR Field Office,Carrera 4 No 24-86,,,,Quibdó,COLQU,-8533059.5343,634567.8564000018
+Colombia,COLp000470,Cúcuta,Cucuta,Cúcuta,,UNHCR Sub-Office,Avenida 1 No 12-35,Biblioteca Publica Julio Perez Ferrero,,,Cucuta,COLCU,-8070996.818299999,881254.4547000006
+Colombia,COLp000468,Pasto,,Pasto,,UNHCR Field Office,Carrera 32B No 19-10,Barrio Palermo,,,Pasto,COLPS,-8603243.3563,136958.21049999818
+Colombia,COLp000088,Bogota,,Bogotá,,UNHCR Country Office,Calle 113 No.7-21,Torre A Oficina 601,,,Bogota,COLBO,-8244417.3466,519002.1378999986
+Colombia,COLp000464,Barranquilla,,Barranquilla,,UNHCR Field Office,Cra. 54 No. 68 - 196  Edificio Prado,Office Center Ofic 90,,,Barranquilla,COLBR,-8326631.453600001,1231883.1719000004
+Colombia,COLp000469,Cali,,Cali,,UNHCR Sub-Office,,,,,,COLCA,-8518438.8324,385049.01410000026
+Colombia,COLp000828,Bogota FU,Bogota,Bogota,,UNHCR Field Unit,,,,,,COLBG,-8244417.3466,519002.1378999986
+Colombia,COLp000826,Riohacha,,Riohacha,,UNHCR Sub-Office,,,,,Riohacha,COLRI,-8116556.9087000005,1292166.001600001
+Colombia,COLp000827,Ipiales,Ipiales,Ipiales,,UNHCR Field Office,,,,,Ipiales,COLIP,-8642982.2232,91894.7100000009
+Colombia,COLp000086,Apartadó,,Apartadò,,UNHCR Field Office,Calle 100D No 111-56,Barrio Los Almendros,,,Apartadó,COLAP,-8531071.6569,880694.2617000006
+Colombia,COLp000829,Popayán,,,Popayán,UNHCR Field Unit,,,,,Popayán,COLPO,-8527745.742,271914.77490000054
+Colombia,COLp000830,Maicao,,,Maicao,UNHCR Field Unit,,,,,Maicao,COLMA,-8041601.4549,1274987.8871
+Colombia,COLp000831,Montería,,,Montería,UNHCR Field Unit,,,,,Montería,COLMN,-8446700.5305,977933.0234000012
+Colombia,COLp000832,Bucaramanga,,,Bucaramanga,UNHCR Field Unit,,,,,Bucaramanga,COLBU,-8139427.505000001,793662.4277000017
+Comoros,COMp000001,Moroni,,Moroni,,UNHCR Field Unit,,,,Approximate location,Moroni,,4815126.960099999,-1311137.7518000007
+Costa Rica,CRIp000096,San José (FU),,San José (FU),,UNHCR Field Unit,Apartado Postal 12,,,,San José,,-9363434.8081,1112219.1490999982
+Costa Rica,CRIp000094,San José,,San José,,UNHCR Country Office,Apartado Postal 12,,,,San José,COSSA,-9363434.8081,1112219.1490999982
+Costa Rica,CRIp000095,Upala,,,,UNHCR Field Office,,,,,Upala,COSUP,-9463591.568,1220664.8915
+Cuba,CUBp004526,Havana,La Habana,La Havane,,UNHCR National Office,,,,,,CUBHA,-9169030.2343,2648146.997299999
+Cyprus,CYPp000101,Nicosia*,,Nicosie,,UNHCR Liaison Office,P.O. Box 21642,,,,Nicosia,CYPNI,3714731.4078,4186871.351800002
+Czech Republic,CZEp000102,Praha,Prague,Prague,,UNHCR National Office,in the Czech Republic,Namesti Kinskych 6,,,Praha,CZEPR,1603535.8915,6459840.662100002
+Germany,DEUp000169,Nuremberg,Nürnberg,Nuremberg,,UNHCR Sub-Office,Frankenstrasse 210,,,,Nurnberg,GFRNU,1235421.5938000008,6348333.600199997
+Germany,DEUp000398,Berlin*,,Berlin,,UNHCR Liaison Office,Wallstr. 9-13,,,,Berlin,GFRBE,1492238.107999999,6893098.090099998
+Djibouti,DJIp000838,Obock,,Obock,,UNHCR Field Unit,,,,,Obock,DJBOB,4818547.018800002,1341572.5557999983
+Djibouti,DJIp000121,Djibouti,,Djibouti,,UNHCR Country Office,Boite postale: 1885,Rue de l'IGAD,Lotissement du Heron,,Djibouti,DJBDJ,4802545.4717999995,1299651.010400001
+Djibouti,DJIp000733,Ali Sabieh,,Ali Sabieh,,UNHCR Field Office,,,,,,DJBAL,4754678.0907999985,1249348.5276000015
+Denmark,DNKp000001,Copenhagen,Copenhagen,Copenhague,,UNHCR HeadQuarter,,,,,,DENCO,1402341.6706000008,7499850.520300001
+Dominican Republic,DOMp000813,Santo Domingo***,,Saint Domingue***,,UNHCR Field Office,Calle Cayetano Rodriguez 55,,,,Santo Domingo,DOMSA,-7782008.953400001,2092024.9952999987
+Algeria,DZAp000017,Tindouf,,Tindouf,,UNHCR Sub-Office,Mussani area or (Zone Mussani),,,,Tindouf,ALGTI,-906793.7664999999,3206922.6350999996
+Algeria,DZAp000015,Algiers,,Alger,,UNHCR Country Office,UNHCR Algeria / Algérie,128 Chemin Bachir El-Ibrahimi,"Poirson, El Biar",,Algiers,ALGAL,337800.21930000186,4405728.146899998
+Algeria,DZAp000415,Rabouni,,Rabouni,,UNHCR Field Unit,,,,,,ALGRA,-900276.5665000007,3183348.593899999
+Ecuador,ECUp000819,Tulcán,Tulcán Field-Office,,Oficina de terreno de Tulcán,UNHCR Field Office,,Holanda,,Entre Italia y Av. Tulcanaza,Tulcán,ECUTU,-8653124.3491,88762.15729999915
+Ecuador,ECUp000428,Ibarra,North Sub-Office,,Sub-Oficina del Norte,UNHCR Sub-Office,Calle Juan de la Roca 350,Av. José Tobar y Tobar,,Sector Pilanquí,Ibarra,ECUIB,-8697551.1415,38314.64660000056
+Ecuador,ECUp000128,Quito,Country Office,,Oficina de País,UNHCR Country Office,N28 - 39,Calle Whymper,,Entre Coruña y Orellana,Quito,ECUQU,-8736515.518,-22095.57589999959
+Ecuador,ECUp000674,Esmeraldas,Field-Office Esmeraldas,,Oficina de terreno de Esmeraldas,UNHCR Field Office,1-02,Bastidas,,"Barbisotty, Las Palmas",Esmeraldas,ECUES,-8867162.7957,110114.82770000026
+Ecuador,ECUp000399,Lago Agrio,Field-Office Lago Agrio,,Oficina de terreno de Lago Agrio,UNHCR Field Office,,Guayas,,"Venezuela y Loja, esquina",Lago Agrio,ECULA,-8559480.3006,9699.289900001138
+Ecuador,ECUp000714,Cuenca,Cuenca Field Unit,,Unidad de Terreno de Cuenca,UNHCR Field Unit,N 6-15,Luis Moreno Mora,,Cornelio Merchan,Cuenca,ECUCU,-8794542.3991,-324127.694600001
+Ecuador,ECUp000821,Guayaquil,Guayaquil Sub-Office,,Sub-Oficina del Sur,UNHCR Sub-Office,Mz. 94 SI.22,Calle Vicente Norero,,Nahím Isaías,Guayaquil,ECUGU,-8894156.5896,-240531.45230000094
+Ecuador,ECUp000820,Pichincha,Sub-Oficina Sierra Centro (SOPI),,Sub-Oficina Sierra Centro,UNHCR Field Office,N36-174,Carlos Arroyo Del Río,,Manuel María Sánchez.,Quito,ECUQS,-8735744.3784,-19889.07800000161
+Ecuador,ECUp000823,Ambato,,,Unidad de Terreno de Ambato,UNHCR Field Unit,1281,Manuela Sáenz,,López de Ayala,Ambato,ECUAM,-8754096.3529,-140522.8585000001
+Ecuador,ECUp000822,Huaquillas,Huaquillas Field-Office,,Oficina de terreno de Huaquillas,UNHCR Field Office,,Panamericana Norte,,Eje vial Nro. 1 Puente Internacional de la Paz,Huaquillas,ECUHU,-8929810.9982,-389620.02430000156
+Ecuador,ECUp000825,Manta,Manta Field Unit,,Unidad de Terreno de Manta,UNHCR Field Unit,,Av. Circunvalación,,Calle 23,Manta,ECUMA,-8987138.2053,-104856.2564000003
+Egypt,EGYp000129,Cairo,,Le Caire,,UNHCR Country Office,17 Makka El Mokarama St.,"3rd Proximity , 7th District, 6 October City",,,Cairo,ARECA,3444528.2749999985,3500971.9723000005
+Egypt,EGYp000898,Alexandria,Alexandria,Alexandrie,,UNHCR Field Office,,,,,,AREAL,3334877.899700001,3662394.820799999
+Eritrea,ERIp000131,Asmara,,Asmara,,UNHCR Country Office,House Number 108,Emperor Yohannes Avenue,,,Asmara,ERTAS,4334088.0077,1727465.1195
+Western Sahara,ESHp000379,Laayoune*,Laayoune,Laayoune,,UNHCR Liaison Office,"Villa 04,Quartier Moulay Rachid",165 Rue El Zarktouni,P.O. Box 755,,Laayoune,WSHLA,-1469595.3896999992,3143763.663899999
+Spain,ESPp000318,Madrid,,Madrid,,UNHCR Multi-Country Office,Avenida General Peron 32,,,,Madrid,SPAMA,-412550.03290000185,4926872.127599999
+Estonia,ESTp000001,Tallinn,,,,UNHCR Field Unit,,,,,Tallinn,ESTTA,2756324.2479999997,8274628.7754999995
+Ethiopia,ETHp000869,Melkadida,,Melkadida,,UNHCR Sub-Office,,,,,,ETHMK,4644538.5821,503977.1581000015
+Ethiopia,ETHp030016,Mekelle,,Mekelle,,UNHCR Sub-Office,,,,,,ETHME,4391823.243099999,1514307.5452000014
+Ethiopia,ETHp000874,Sheder,,Sheder,,UNHCR Field Unit,,,,,,ETHSD,4800241.176199999,1083978.0353000015
+Ethiopia,ETHp000697,Shire,,Shire,,UNHCR Sub-Office,,,,,Shire,ETHSH,4262265.5999,1586294.3781999983
+Ethiopia,ETHp000136,Gambella,,Gambella,,UNHCR Sub-Office,c/o UNHCR Representation in Ethiopia,P.O. Box 60,Addis Ababa,,Gambela,ETHGA,3850570.2408999987,920357.4283999987
+Ethiopia,ETHp000138,Jijiga,,Jijiga,,UNHCR Sub-Office,Gerbassaa Road,,,,Jijiga,ETHJI,4766255.3178,1045036.6187000014
+Ethiopia,ETHp000756,Aw Barre,Teferiber,Aw Barre,Aw Barre,UNHCR Field Unit,,,,,Tefferi-Ber,ETHTE,4810560.475099999,1094030.2382999994
+Ethiopia,ETHp000134,Addis Ababa,Addis Ababa,Addis-Abeba,,UNHCR Country Office,"Bole Road, Wereda 1",Kebele 23,House No. 1255/01-02,,Addis Ababa,ETHAD,4317337.2073,1005208.4525999986
+Ethiopia,ETHp000757,Kebribeyah,,Kebribeyah,,UNHCR Field Unit,,,,,,ETHKE,4806330.3345,1017293.3368000016
+Ethiopia,ETHp000135,Assosa,Asosa,Assosa,,UNHCR Sub-Office,P.O. Box 111,Addis Ababa,,,Asosa,ETHAO,3845420.4899999984,1125932.8423999995
+Ethiopia,ETHp000472,Shiraro,,Shiraro,,UNHCR Field Unit,,,,,,ETHSR,4204748.6743,1619395.0797000006
+Ethiopia,ETHp004106,Embamadre,,Embamadre,,UNHCR Field Office,,,,,,ETHEB,4249550.749499999,1539187.5788000003
+Ethiopia,ETHp000661,Pugnido,,Fugnido,,UNHCR Field Office,,,,,,ETHFU,3813162.3279,853842.5119000003
+Ethiopia,ETHp000759,Sherkole,,Sherkole,,UNHCR Field Office,,,,,,ETHSK,3853880.771299999,1160737.7018
+Ethiopia,ETHp000662,Dimma,,Dimma,,UNHCR Field Office,,,,,,ETHDM,3916664.9640999995,725469.9052000009
+Ethiopia,ETHp004105,Samara,,Samara,,UNHCR Field Office,,,,,,ETHSA,4565100.997900002,1322070.9921999983
+Ethiopia,ETHp000804,UNHCR Rep. to AU & ECA,Addis Ababa UNHCR Representation to AU & ECA,Addis-Abeba Bureau Régional de liaison (AU & ECA),,UNHCR Regional Office,,,,,,ETHADRAU,4311231.024,1005828.5218999982
+Ethiopia,ETHp030017,Aysaita,,,,UNHCR Field Unit,,,,,,ETHAS,4612077.823100001,1297378.3209999986
+Ethiopia,ETHp030020,Bahir Dar,,Bahir Dar,Bahir Dar,UNHCR Field Unit,,,,,Bahir Dar,ETHBH,4162016.9464999996,1298831.7325000018
+Ethiopia,ETHp030031,Dire Dawa,,Dire Dawa,Dire Dawa,UNHCR Field Unit,,,,,Dire Dawa,ETHDI,4660512.699000001,1072950.8649999984
+Ethiopia,ETHp030030,Maichew,,Maichew,Maichew,UNHCR Field Unit,,,,,Maichew,ETHMC,4401690.1197,1435424.0174000002
+Ethiopia,ETHp030029,Axum,,Axum,Axum,UNHCR Field Unit,,,,,Axum,ETHAX,4310990.053100001,1588381.7120000012
+Ethiopia,ETHp030028,Aby adi,,Aby adi,Aby adi,UNHCR Field Unit,,,,,Aby adi,ETHAB,4340240.6526999995,1531620.3680999987
+Ethiopia,ETHp030027,Adigrat,,Adigrat,Adigrat,UNHCR Field Unit,,,,,Adigrat,ETHAI,4392736.352000002,1606149.0425000004
+Ethiopia,ETHp030026,Debark,,Debark,Debark,UNHCR Field Unit,,,,,Debark,ETHDB,4219207.5242,1476823.7448999994
+Ethiopia,ETHp030025,Gondar,,Gondar,Gondar,UNHCR Field Office,,,,,Gondar,ETHGO,4171478.927000001,1416919.877700001
+Ethiopia,ETHp030024,Dessie,,Dessie,Dessie,UNHCR Field Unit,,,,,Dessie,ETHDS,4411624.9606,1246568.0168999992
+Ethiopia,ETHp030022,Debre Birhan,,Debre Birhan,Debre Birhan,UNHCR Field Unit,,,,,Debre Birhan,ETHDR,4400134.9739000015,1081505.6382
+Ethiopia,ETHp030021,Nekemte,,Nekemte,Nekemte,UNHCR Field Office,,,,,Nekemte,ETHNE,4069327.775199998,1016096.566300001
+Ethiopia,ETHp030034,Bokh,Bokh,,,UNHCR Field Office,,,,,Bokh,ETHBB,5193094.0978999995,830488.2679000013
+Ethiopia,ETHp030033,Dilla,Dilla,,,UNHCR Field Unit,,,,,Dilla,ETHDL,4264034.986099999,716078.1169999987
+France,FRAp000158,Strasbourg (LO-CE),,Strasbourg (LO-CE),,UNHCR Liaison Office,Palais d'Europe,Bureau 1.018-1.020,,,Strasbourg,FRAST,867512.5691,6205694.9711000025
+France,FRAp000157,Paris,,Paris,,UNHCR Country Office,"9, rue Keppler",F-75116 Paris,,,Paris,FRAPA,256812.95949999988,6254844.831200004
+Gabon,GABp000159,Libreville,,Libreville,,UNHCR Liaison Office,Quartier SOTEGA,,,,Libreville,GABLI,1052303.1464999989,43637.58080000058
+United Kingdom of Great Britain and Northern Ireland,GBRp000368,London,,Londres,,UNHCR Country Office,Strand Bridge House,138-142 Strand,,,London,GBRLO,-12022.504999998957,6713438.520199999
+Georgia,GEOp000162,Gali,,Gali,,UNHCR Field Office,c/o UNHCR Tbilisi,"2a, Al. Kazbegi ave",4th floor,,Gali,GEOGA,4646506.4925,5256158.778099999
+Georgia,GEOp000164,Sukhumi,,Sukhumi,,UNHCR Field Unit,UNHCR SO,,,,Sukhumi,GEOSU,4569127.09,5310449.868799999
+Georgia,GEOp000165,Tbilisi,,Tbilisi,,UNHCR Country Office,"2a, Kazbegi ave.",4th floor,,,Tbilisi,GEOTB,4983588.0331999995,5119998.621299997
+Ghana,GHAp000170,Accra,Accra,Accra,,UNHCR Country Office,No. 25 Sir Arku Korsah Street,Roman Ridge,,,Accra,GHAAC,-19511.18980000168,621606.6733000018
+Ghana,GHAp000509,Takoradi,,Takoradi,,UNHCR Field Office,,,,,Takoradi,GHATA,-195031.7479000017,544679.185800001
+Guinea,GINp000180,Conakry**,,Conakry**,,UNHCR National Office,B.P. 4158 Conakry,Coleah Corniche-Sud,,,Conakry,GUICO,-1521984.4571000002,1066311.254900001
+Greece,GRCp000184,Ioannina,,Ioannina,,UNHCR Field Unit,,,,,,,2322275.0819000006,4818381.799999997
+Greece,GRCp000177,Kos,,Kos,,UNHCR Field Office,,,,,,GREKO,3038187.2025000006,4424062.260499999
+Greece,GRCp000174,Chios,,Chios,,UNHCR Field Office,,,,,,GRECH,2909466.137600001,4631815.285499997
+Greece,GRCp000178,Lesvos,Mytilena,Mytilene,,UNHCR Sub-Office,,,,,,GRELE,2956296.1323000006,4736984.622100003
+Greece,GRCp000175,Samos,,Samos,,UNHCR Field Office,,,,,,GRESA,3003127.7967999987,4544439.744400002
+Greece,GRCp000180,Thessaloniki,,Thessalonique,,UNHCR Sub-Office,,,,,,GRETH,2555056.6048999988,4956591.182999998
+Greece,GRCp000182,Leros,,Leros,,UNHCR Field Unit,,,,,,GRELR,2989620.8464,4458296.1668
+Greece,GRCp000183,Rhodes,,Rhodes,,UNHCR Field Unit,,,,,Rhodes,GRERH,3141351.5386999995,4360227.883100003
+Greece,GRCp000181,Evros-Orestiada,Orestias,Evros-Orestiada,,UNHCR Field Unit,,,,,,GREEV,2953125.641899999,5086870.0961000025
+Greece,GRCp000173,Athens,,Athènes,,UNHCR Country Office,Taygetou Street,Palaio Psychico,,,Athens,GREAT,2644703.7492999993,4576774.439400002
+Guatemala,GTMp000180,Peten,El Petèn,Peten,,UNHCR Field Office,,,,,Peten,GUASA,-10005674.5393,1912709.5251000002
+Guatemala,GTMp000177,Guatemala**,,Guatemala**,,UNHCR National Office,,,,,,GUAGU,-10077308.2236,1646710.5689000003
+Guatemala,GTMp000183,Tecun Uman,,Tecun Uman,,UNHCR Field Office,,,,,,GUATE,-10257307.0102,1652239.2029
+Guatemala,GTMp000182,Esquipulas,,Esquipulas,,UNHCR Field Office,,,,,,GUAES,-9946605.2904,1639168.8966000006
+Guatemala,GTMp000181,Puerto Barrios,,Puerto Barrios,,UNHCR Field Office,,,,,,GUAIZ,-9862045.5978,1772845.5868000016
+Guyana,GUYp000001,Georgetown,,Georgetown,,UNHCR Field Office,,,,,Georgetown,GUYGE,-6475124.0099,758977.1455999985
+Hong Kong,HKGp000186,Hong-Kong,Hong Kong,Hong Kong,,UNHCR Sub-Office,Kowloon Central Post Office; 9 Floor,Kowloon,,,Hong Kong,CHIHO,12709568.902800001,2546138.3779999986
+Honduras,HNDp000877,Tegucigalpa**,,Tegucigalpa**,,UNHCR Country Office,,,,,,HONTE,-9707399.7851,1585565.25
+Honduras,HNDp000878,Ocotepeque,,Ocotepeque,,UNHCR Field Unit,,,,,,HONOC,-9928116.7502,1623972.3429999985
+Honduras,HNDp000001,San Pedro Sula,,San Pedro Sula,,UNHCR Field Office,,,,,San Pedro Sula,HONSN,-9798521.3478,1747535.8425999992
+Honduras,HNDp000879,Choluteca,,Choluteca,,UNHCR Field Unit,,,,,,HONCH,-9705958.9101,1493564.2487999983
+Croatia,HRVp000286,Zagreb,,Zagreb,,UNHCR Country Office,Radnicka cesta 41,10000 Zagreb,,,Zagreb,HRVZA,1781626.1361999996,5748813.537600003
+Croatia,HRVp000282,Knin,,Knin,,UNHCR Field Unit,Ulica Gojka Suska 13,22 300 Knin,,,Knin,HRVKN,1802707.833900001,5471464.3222
+Croatia,HRVp000284,Sisak,,Sisak,,UNHCR Field Unit,Ulica Stjepana i Ante Radica 50,44 000 Sisak,,,Sisak,HRVSI,1822673.6323000006,5699148.234200001
+Haiti,HTIp030001,Port-au-Prince*,,Port-au-Prince*,,UNHCR Liaison Office,,,,,Port-au-Prince,HAIPO,-8052452.117699999,2100766.6788999997
+Hungary,HUNp000749,Budapest,Budapest,Budapest,,UNHCR Multi-Country Office,Felvinic ut 27,,,,Budapest,HUNBU,2121709.602600001,6029890.095200002
+Hungary,HUNp000187,Budapest (GSC),UNHCR Global Service Centre,Budapest (CSG),,Global Hub / Service Center,Ipoly utca. 5A,,,,Budapest,HUNHQ,2121192.563099999,6027385.364100002
+Hungary,HUNp000750,Zahony,,,,UNHCR Field Unit,,,,,Zahony,,2468458.3154999986,6174865.289999999
+Indonesia,IDNp000607,Pekanbaru,,Pekanbaru,,UNHCR Field Unit,,,,,Pekanbaru,INSPE,11291469.6116,61337.75860000029
+Indonesia,IDNp000608,Makassar,,Makassar,,UNHCR Field Unit,,,,,Makassar,INSMK,13327479.8316,-578587.4868000001
+Indonesia,IDNp000193,Jakarta,,Djakarta,,UNHCR Country Office,"Menara Ravindo,14th floor",Jalan Kebon Sirih Kav.75,P.O. Box 6602,,Jakarta,INSJA,11891748.4639,-689710.9558999985
+Indonesia,IDNp000557,Medan,,Medan,,UNHCR Field Unit,Jl. Panglima Nyak Makam No. 88,,,,Medan,INSME,10984517.3231,399368.0225000009
+Indonesia,IDNp000197,Tanjung Pinang,,Tanjung Pinang,,UNHCR Field Unit,,,,,,INSTA,11627543.452300001,100970.99529999867
+India,INDp000189,Chennai,,Chennai,,UNHCR Field Office,23 Bishop Garden,,,,Chennai,INDCH,8935464.576699998,1459380.2771000005
+India,INDp000190,New Delhi***,,New Delhi***,,UNHCR Charge de Mission,14 Jor Bagh,,,,New Delhi,INDNE,8595468.9144,3323497.681900002
+Ireland,IRLp000212,Dublin*,,Dublin,,UNHCR Liaison Office,Suite 4,Merrion House,1/3 Lower Fitzwilliam Street,,Dublin 2,IREDU,-695623.4754999988,7045698.402400002
+Islamic Republic of Iran,IRNp000199,Dogharoun,Dogharoon,Dogharoun,,UNHCR Field Unit,Ansar Camp,,,,Dogharoon,IRNDO,6784700.324900001,4127926.7630999982
+Islamic Republic of Iran,IRNp000699,Kerman,,Kerman,,UNHCR Sub-Office,No. 42,Between first and 3rd Alley of Hezar-o-Yekshab Str,Jomhouri-e-Islami Boulevard,,Kerman,IRNKM,6352669.381099999,3539630.918300003
+Islamic Republic of Iran,IRNp000205,Shiraz,,Shiraz,,UNHCR Sub-Office,,,,,,IRNSH,5855030.180399999,3449032.8753999993
+Islamic Republic of Iran,IRNp000206,Tehran,,Téhéran ,,UNHCR Country Office,"No 5, East Emdad Street",Vanak Sq North Shiraz Ave,,,Tehran,IRNTE,5721714.5601,4267890.382799998
+Islamic Republic of Iran,IRNp005769,Tehran (FO),,Téhéran (FO),,UNHCR Field Office,"No 5, East Emdad Street",Vanak Sq North Shiraz Ave,,,Tehran,,5721714.5601,4267890.382799998
+Islamic Republic of Iran,IRNp000202,Mashad,Mashhad,Mashad,,UNHCR Sub-Office,"45, Sajjad Blvd",,,,Mashhad,IRNMA,6629832.743000001,4344399.544200003
+Islamic Republic of Iran,IRNp000200,Esfahan,,Isfahan,,UNHCR Field Unit,,,,,,IRNES,5752273.234700002,3856513.3082000017
+Iraq,IRQp000706,Samarra,,Samarra,,UNHCR Field Unit,,,,,,IRQSM,4885322.645199999,4054719.8286999986
+Iraq,IRQp000705,Ba'qubah,,Baquba,,UNHCR Field Unit,,,,,,IRQBQ,4969688.458999999,3994498.8740999997
+Iraq,IRQp000704,Ramadi,,Ramadi,,UNHCR Field Unit,,,,,,IRQRA,4821414.2368,3952763.583899997
+Iraq,IRQp000703,Kerbala,,Kerbala,,UNHCR Field Unit,,,,,,IRQKA,4900821.657900002,3844219.9333000034
+Iraq,IRQp000209,Duhok,Dohuk,Duhok,,UNHCR Sub-Office,,,,,Dohuk,IRQDO,4788151.728100002,4419924.8330999985
+Iraq,IRQp000500,Al Ramadi (FO),,Al Ramadi (FO),,UNHCR Field Unit,,,,,,,4821414.2368,3952763.583899997
+Iraq,IRQp000208,Baghdad***,,Bagdad***,,UNHCR Charge de Mission,P.O.Box 10141 Karrada,Masbah Hay Babil,Mahalla 929,,Baghdad,IRQBA,4943181.284499999,3937781.311800003
+Iraq,IRQp000495,Mosul,,Mosul,,UNHCR Sub-Office,,,,,Mosul,IRQMO,4802003.457199998,4346894.209700003
+Iraq,IRQp000498,Kirkuk,,Kirkuk,,UNHCR Field Office,,,,,Kirkuk,IRQKI,4938957.774799999,4227332.9903
+Iraq,IRQp000210,Erbil,,Erbil,,UNHCR Sub-Office,100,Peshawa Qazi,44001,,Erbil,IRQER,4894825.158,4329715.660899997
+Iraq,IRQp000211,Sulaymaniyah,Suleimaniyah,Sulaymaniyah,,UNHCR Field Office,,,,,Suleimaniyah,IRQSU,5049693.371599998,4240360.761500001
+Israel,ISRp000675,Tel Aviv,,Tel Aviv,,UNHCR Country Office,Ben Yehuda St. 21,,,,Tel Aviv,ISRTE,3870244.7364000008,3772108.6350999996
+Italy,ITAp000215,Rome (MCO),,Rome (MCO),,UNHCR Multi-Country Office,Via Caroncini 19,,,,Rome,ITARO,1390241.8724000007,5150174.8125
+Jordan,JORp004111,Azraq,Azraq,Azraq,,UNHCR Field Office,,,,,Azraq,JORAZ,4071987.5,3751594.9751999974
+Jordan,JORp004517,Zaatari,Zaatari,Zaatari,,UNHCR Field Unit,,,,,Mafraq,,4043904.2551999986,3803072.4288000017
+Jordan,JORp030017,Irbid,,Irbid,,UNHCR Field Office,,,,,,JORIR,3990803.7316000015,3836517.6023999974
+Jordan,JORp004518,Raba Al Sarhan,,Raba Al Sarhan,,UNHCR Field Unit,,,,,Mafraq,JORRA,4034255.1931000017,3825396.6199999973
+Jordan,JORp000455,Ruwayshed,,Ruwayshed,,UNHCR Field Unit,,,,,,JORRU,4253431.248,3830087.8012999967
+Jordan,JORp000876,Amman (ICT),,Amman (ICT),,Global Hub / Service Center,,,,,,JORRH,3990264.642499998,3751666.0481999964
+Jordan,JORp000217,Amman,Amman,Amman,,UNHCR Country Office,P.O. Box 17101,,,,Amman,JORAM,3989745.8156999983,3762797.175300002
+Jordan,JORp004110,Mafraq,Mafraq,Mafraq,,UNHCR Sub-Office,,,,,Mafraq,JORMA,4031669.782900002,3807269.7496000007
+Jordan,JORp030018,Amman (RB),,,,UNHCR Regional Office,177,Princess Basmah Street,,,Amman,JORRB,3995382.150199998,3757039.2739999965
+Japan,JPNp000216,Tokyo,,Tokyo,,UNHCR Country Office,"UNU Bldg., 6F5-53-70",Jingumae,Shibuya-ku,,Tokyo,JPNTO,15552276.630500004,4254256.738499999
+Kazakhstan,KAZp000599,Astana,,Astana,,UNHCR National Office,"""26, Bukey Khan Street""",,,,Astana,KAZAS,7951902.662999999,6654513.350100003
+Kazakhstan,KAZp000218,Almaty (MCO),Alma-Ata,Almaty (MCO),,UNHCR Multi-Country Office,67 Tole bi,,,,Almaty,KAZAL,8563808.4267,5354382.465800002
+Kenya,KENp000846,Alinjugur,,Alinjugur,,UNHCR Field Office,,,,,Alinjugur,KENAL,4503702.0693,-3361.5124000012875
+Kenya,KENp000219,Dadaab,,Dadaab,,UNHCR Sub-Office,c/o UNHCR Nairobi,P.O. Box 43801,Nairobi,,Dadaab,KENDA,4487388.861400001,5374.50569999963
+Kenya,KENp000220,Kakuma,,Kakuma,,UNHCR Sub-Office,c/o UNHCR Nairobi,P.O Box 43801,Nairobi,,Kakuma,KENKA,3881265.3660000004,414288.1983000003
+Kenya,KENp000222,Nairobi (CO),Nairobi,Nairobi (BP),,UNHCR Country Office,,,,,Nairobi,KENNA,4095981.7531000003,-140458.2901000008
+Kenya,KENp000753,Somalia (LO),,Somalie (BL),,UNHCR Liaison Office,UNHCR Representation in Somalia,"Lion Place, 1st Floor, Waiyaki Way",P.O. Box 43801-00100,,Nairobi,KENSM,4095981.713300001,-140437.91420000046
+Kenya,KENp000579,Nairobi (RO),Nairobi (Regional Sevice Center),Nairobi (BR),,UNHCR Regional Office,,,,Gituru,Nairobi,KENRB,4092249.9976000004,-136744.43100000173
+Kyrgyzstan,KGZp000224,Bishkek,,Bichkek,,UNHCR National Office,UN House (3rd floor),160 Chui Ave.,,,Bishkek,KGZBI,8301539.7064,5291749.751500003
+Kyrgyzstan,KGZp000599,Osh,,,,UNHCR Field Unit,93,Lenin Avenue,,,Osh,,8105785.829,4939222.286399998
+Republic of Korea,KORp000397,Séoul,Seoul,Séoul,,UNHCR Country Office,"7F, Kumsegi Bldg., Euljiro 1 ga",Joong-ku,,,Seoul,KORSE,14130339.5638,4514957.4553999975
+Kuwait,KWTp000458,Kuwait City*,,Koweït,,UNHCR Liaison Office,"Mishref, Diplomatic Square, Block 7A, UN House",,,,Kuwait City,KUWKU,5349786.633900002,3410635.9569000006
+Lebanon,LBNp004519,Tripoli,,Tripoli,,UNHCR Sub-Office,,,,,Qoubaiyat,LEBTR,3988113.4868,4087251.7233000025
+Lebanon,LBNp030015,Mt Lebanon,Mont Lebanon,Mont Liban,,UNHCR Sub-Office,,,,,Beirut,LEBMT,3952903.1319000013,4013507.8139000013
+Lebanon,LBNp000228,Beirut,,Beyrouth,,UNHCR Country Office,Khater bldg,Dr. Philippe Hitti Street,Ramlet El Baida,P.O. Box 11 - 7332,Beirut,LEBBE,3950928.474100001,4011689.342799999
+Lebanon,LBNp000850,Zahle,,Zahle,,UNHCR Sub-Office,,20120612,,,Zahle,LEBZA,3998589.305399999,4006931.2007
+Lebanon,LBNp000840,Qobayat,,Qoubaiyat,,UNHCR Field Office,,,,,Qoubaiyat,LEBQT,4038776.211599998,4106169.245099999
+Lebanon,LBNp000624,Tyre,,Tyre,,UNHCR Field Office,,,,,,LEBTY,3922611.3172999993,3927693.654100001
+Liberia,LBRp000236,Zwedru,,Zwedru,,UNHCR Field Office,Zwedru City,Grand Gedeh County,,,Zwedru,LBRZW,-906176.9362999983,676658.2901000008
+Liberia,LBRp000486,Saclepea,,Saclepea,,UNHCR Field Unit,Saclepea City,Nimba County,,,Saclepea,LBRSC,-983878.7289999984,776758.5399999991
+Liberia,LBRp000231,Harper,,Harper,,UNHCR Field Unit,Harper City,Maryland County,,,Harper,LBRHA,-857135.700100001,488391.7943999991
+Liberia,LBRp000233,Monrovia,,Monrovia,,UNHCR Country Office,P.O. Box 9077,Haider Building,Mamba Point,,Monrovia,LBRMO,-1201584.9888000004,702151.382100001
+Libya,LBYp000833,Benghazi,,Benghazi,,UNHCR Field Office,,,,,Benghazi,LBYBE,2233962.7694999985,3779317.4289999977
+Libya,LBYp000237,Tripoli*,,Tripoli,,UNHCR Liaison Office,Next to Tarek Ben Zeyad School,Gergarish Area,,,Tripoli,LBYTR,1453883.5544999987,3870985.5063000023
+Sri Lanka,LKAp000320,Jaffna,,Jaffna,,UNHCR Sub-Office,"No 223, Temple Road",Nallur,,,Jaffna,LKAJA,8906270.1497,1081418.318500001
+Sri Lanka,LKAp000459,Colombo,,Colombo,,UNHCR Country Office,97 Rosmead Place,Colombo 07,,,Colombo,LKACO,8888678.553199999,773047.9827999994
+Lithuania,LTUp030019,Vilnius,,Vilnius,,UNHCR Field Unit,,,,,,LTUVI,2821561.8200000003,7297518.993600003
+Latvia,LVAp000227,Riga,,Riga,,UNHCR Field Unit,Pils iela 21,LV-1167 Riga,,,Riga,LVARI,2685805.3544000015,7750722.4782000035
+Morocco,MARp000584,Rabat,,Rabat,,UNHCR Country Office,"""26, Avenue Tariq Ibn Zyad, Hassan""",,,,Rabat,MORRA,-759185.9398999996,4030579.0779
+Republic of Moldova,MDAp000254,Chisinau, Chişinău,Chisinau,,UNHCR Country Office,"Strada Sfatul Țării 29, 2012, Chișinău, MDA","Strada Sfatul Țării 29, 2012, Chișinău, MDA",,"Le Roi Business Centre, Floor 8", Chişinău,MDACH,3208561.3669999987,5946366.292199999
+Mexico,MEXp006585,Leon,,Leon,,UNHCR Field Unit,,,,,,MEXLE,-11318993.102,2405911.390999999
+Mexico,MEXp006584,Cancun,,Cancun,,UNHCR Field Unit,,,,,,MEXCN,-9668037.7324,2412373.0802000016
+Mexico,MEXp006583,Torreon,,Torreon,,UNHCR Field Unit,,,,,,MEXTO,-11512448.8747,2943674.212299999
+Mexico,MEXp006587,San Luis Potosi,,San Luis Potosi,,UNHCR Field Unit,,,,,,MEXSN,-11241775.1736,2530588.247200001
+Mexico,MEXp006586,Puebla,,Puebla,,UNHCR Field Unit,,,,,,MEXPU,-10931370.5676,2160478.418400001
+Mexico,MEXp006582,Queretaro,,Queretaro,,UNHCR Field Unit,,,,,,MEXQU,-11176714.0018,2344823.917300001
+Mexico,MEXp006580,Ciudad Juarez,,Ciudad Juarez,,UNHCR Field Unit,,,,,,MEXCI,-11847834.506900001,3720811.6076000035
+Mexico,MEXp006588,Mexicali,,Mexicali,,UNHCR Field Unit,,,,,,MEXMX,-12851185.0205,3848197.713100001
+Mexico,MEXp010038,Tenosique,,Tenosique,,UNHCR Field Office,,,,,,MEXTE,-10177106.147,1976253.4937000014
+Mexico,MEXp006575,Saltillo,,Saltillo,,UNHCR Field Unit,,,,,,MEXSA,-11241449.721,2928900.0934999995
+Mexico,MEXp000481,Tapachula,,Tapachula,,UNHCR Sub-Office,Prolongacion Central Oriente s/n,"Plaza Kamico, local 5 y 6",,,Tapachula,MEXTA,-10270412.0292,1678455.7490999997
+Mexico,MEXp000253,Mexico,Mexico City,México,,UNHCR Country Office,"Presidente Masaryk 29,sexto piso",Colonia Chapultepec Morales,"11570 Mexico, D.F",,Mexico City,MEXME,-11041903.9677,2202873.368999999
+Mexico,MEXp006579,Mexico (RO),Mexico City,México (RO),,UNHCR Regional Office,"Presidente Masaryk 29,sexto piso",Colonia Chapultepec Morales,"11570 Mexico, D.F",,Mexico City,MEX RCH,-11041903.9677,2202873.368999999
+Mexico,MEXp006578,Mexico (SO),Mexico City,México (SO),,UNHCR Sub-Office,"Presidente Masaryk 29,sexto piso",Colonia Chapultepec Morales,"11570 Mexico, D.F",,Mexico City,MEX PSP,-11041903.9677,2202873.368999999
+Mexico,MEXp006576,Aguas Calientes,,Aguas Calientes,,UNHCR Field Unit,,,,,Aguascalientes,MEXAG,-11390913.7258,2497820.9538000003
+Mexico,MEXp000001,Tijuana,,Tijuana,,UNHCR Field Office,,,,,Tijuana,MEXTI,-13018570.3246,3828696.1037999988
+Mexico,MEXp000255,Acayucan,,Acayucan,,UNHCR Field Unit,,,,,,MEXAC,-10565863.1455,2031598.7492999993
+Mexico,MEXp000254,Monterrey,,,,UNHCR Field Office,,,,,Monterrey,MEXMO,-11167021.5312,2962526.3169
+Mexico,MEXp006577,Palenque,,Palenque,,UNHCR Field Unit,,,,,Palenque,MEXPA,-10240224.2979,1980067.3471000008
+Mexico,MEXp006581,Guadalajara,,Guadalajara,,UNHCR Field Unit,,,,,,MEXGU,-11505198.405,2351557.0461999997
+North Macedonia,MKDp000158,Gevgelija,,,,UNHCR Field Unit,,,,,,MCDGE,2505000.237399999,5033013.614600003
+North Macedonia,MKDp000154,Skopje,,Skopje,,UNHCR Country Office,Urosh Dzudovikj 2A-1000 Skopje,,,,Skopje,MCDSK,2380812.1022000015,5160979.443999998
+Mali,MLIp000864,Mopti,,Mopti,,UNHCR Field Office,,,,,,MLIMO,-465652.89869999886,1629710.6860999987
+Mali,MLIp000241,Gao,,Gao,,UNHCR Sub-Office,,,,,Gao,MLIGA,-5788.613499999046,1836591.3647000007
+Mali,MLIp000244,Tombouctou,,Tombouctou,,UNHCR Field Office,,,,,,MLITO,-335071.6673000008,1894765.6290999986
+Mali,MLIp000240,Bamako,,Bamako,,UNHCR Country Office,Faso Kanu,Magnabougou,,,Bamako,MLIBA,-888133.4904999994,1416195.4644999988
+Mali,MLIp030013,Menaka,Menaka,Menaka,,UNHCR Field Unit,,,,,,MLIME,266087.8515999988,1794989.8533000015
+Malta,MLTp000601,Valetta,Valletta,La Vallette,,UNHCR Country Office,156/1 Strait Street,,,,Valetta,MTAVA,1615673.0555999987,4286830.2456
+Malta,MLTp000602,Valetta (LO-EASO),,Valetta (LO-EASO),,UNHCR Liaison Office,,,,,Valetta,MTALO,1615673.0555999987,4286830.2456
+Myanmar,MMRp000853,Bhamo,,Bhamo,,UNHCR Field Unit,,,,,Bhamo,MYABH,10823064.204599999,2784960.004900001
+Myanmar,MMRp000867,Sittwe,,Sittwe,,UNHCR Field Office,,,,,,MYASI,10341966.9555,2291173.0218
+Myanmar,MMRp000854,Loikaw,,Loikaw,,UNHCR Field Unit,,,,,Loikaw,MYALO,10821439.162700001,2235375.3938000016
+Myanmar,MMRp000852,Myitkyina,,Myitkyina,,UNHCR Field Office,,,,,Myitkyina,MYAMK,10840019.4648,2924750.3687000014
+Myanmar,MMRp000259,Yangon,,Yangon,,UNHCR Country Office,No. 287 Pyay Road Sanchaung Township,P.O. Box 1485,,,Yangon,MYAYA,10701848.420000002,1898198.1295000017
+Myanmar,MMRp000258,Maungdaw,,Maungdaw,,UNHCR Sub-Office,Mile 3,Northern Rakhine State,,,Maungdaw,MYAMA,10286549.0183,2371541.403900001
+Myanmar,MMRp000855,Hpa-An,,Hpa-An,,UNHCR Field Office,,,,,Hpa-An,MYAHA,10871838.0647,1905662.622299999
+Myanmar,MMRp007782,Lashio,,Lashio,,UNHCR Field Unit,,,,,,,10881532.0999,2624643.384399999
+Myanmar,MMRp007781,Nay Pyi Taw,Nayppyidaw,Nay Pyi Taw,,UNHCR Field Unit,,,,,Hakha,MYANA,10696059.2454,2244266.350499999
+Myanmar,MMRp000496,Buthidaung,,Buthidaung,,UNHCR Field Unit,,,,,Buthidaung,MYABU,10300705.833500002,2376088.668900002
+Montenegro,MNEp000147,Podgorica,,Podgorica,,UNHCR Country Office,Nikca od Rovina 51,,,,Podgorica,MNEPO,2145015.268100001,5228627.436399996
+Mongolia,MNGp000433,Ulaanbaatar*,Ulan Bator,Oulan-Bator,,UNHCR Liaison Office,,,,,Ulan Bator,MNGUL,11901758.6736,6094256.087800004
+Mozambique,MOZp000595,Nampula,,Nampula,,UNHCR Field Office,"Rue 1024, Nampula",,,,Nampula,MOZNA,4370062.459600002,-1702503.1752000004
+Mozambique,MOZp000256,Maputo,,Maputo,,UNHCR Country Office,Avenida dos Presidentes No. 33,,,,Maputo,MOZMA,3626121.0931,-2994251.4277000017
+Mozambique,MOZp000597,Pemba,,Pemba,,UNHCR Sub-Office,,,,,Pemba,MOZPE,4513819.819200002,-1458177.2769999988
+Mauritania,MRTp000247,Nouakchott,,Nouakchott,,UNHCR Country Office,"Ilot K 159, 160",161Route de la Corniche,,,Nouakchott,MAUNO,-1778249.4946000017,2049234.3258000016
+Mauritania,MRTp030010,Bassikounou,,Bassikounou,,UNHCR Sub-Office,,,,,,MAUBA,-664153.3530000001,1792294.2073
+Mauritania,MRTp000246,Nouadhibou,,Nouadhibou,,UNHCR Field Unit,,,,,,MAUNU,-1902494.625500001,2372739.0238000005
+Mauritania,MRTp000902,Nema,,Néma,,UNHCR Field Unit,,,,,,MAUNE,-807734.6704999991,1876271.6526999995
+Malawi,MWIp000238,Lilongwe,,Lilongwe,,UNHCR Country Office,Kang'ombe Building,7th Floor,City CenterLilongwe 3,,Lilongwe,MLWLI,3759704.4820999987,-1572036.8178999983
+Malaysia,MYSp000239,Kuala Lumpur,,Kuala Lumpur,,UNHCR Country Office,P.O. Box 10185,570 Jalan Bukit Petaling,,,Kuala Lumpur,MLSLU,11321132.212499999,348672.44900000095
+Namibia,NAMp000260,Windhoek,,Windhoek,,UNHCR Field Unit,"UN House, Ground Floor",38-44 Stein Street,,,Windhoek,NAMWI,1901002.9442999996,-2578653.0121
+Niger,NERp008584,Agadez,,Agadez,,UNHCR Sub-Office,,,,,,NGRAG,888329.5364999995,1917333.0271000005
+Niger,NERp000883,Diffa,Diffa,Diffa,,UNHCR Sub-Office,,,,,,NGRDI,1404587.5366000012,1495748.2008000016
+Niger,NERp010006,Ouallam,,Ouallam,,UNHCR Field Unit,,,,,,NGROU,232649.17749999836,1610733.362300001
+Niger,NERp000268,Tahoua,,Tahoua,,UNHCR Field Office,,,,,,NGRTA,586197.7072999999,1676591.6028000005
+Niger,NERp000847,Abala,,Abala,,UNHCR Field Unit,,,,,,NGRAB,382240.7589999996,1680866.9257999994
+Niger,NERp000267,Niamey,,Niamey,,UNHCR Country Office,,,,,,NGRNI,235774.68149999902,1518746.2292999998
+Niger,NERp010007,Tillabéri,,Tillabéri,,UNHCR Sub-Office,,,,,,NGRTL,162028.33150000125,1598165.9250999987
+Niger,NERp010009,Maradi,Maradi,Maradi,,UNHCR Sub-Office,,,,,,NGRMA,791147.621100001,1516211.4164000005
+Nigeria,NGAp004563,Monguno,,Monguno,,UNHCR Field Unit,,,,,,NIGMO,1515718.3942999989,1422391.517099999
+Nigeria,NGAp004566,Gwoza/Pulka,,Gwoza/Pulka,,UNHCR Field Unit,,,,,,NIGGW,1523782.3781999983,1242284.0084999986
+Nigeria,NGAp000270,Maiduguri,,Maiduguri,,UNHCR Sub-Office,,,,,Maiduguri,NIGMA,1464994.5551000014,1328237.361200001
+Nigeria,NGAp000269,Lagos,,Lagos,,UNHCR Field Unit,13 Awolowo Road,Ikoyi,"P.O. Box 53874, Falomo",,Lagos,NIGLA,371526.5740999989,735691.1592999995
+Nigeria,NGAp004567,Gembu,,Gembu,,UNHCR Field Unit,,,,,,NIGGE,1253109.0362999998,749873.1607000008
+Nigeria,NGAp004560,Ogoja,,Ogoja,,UNHCR Sub-Office,10,Hon Paul Adah Way,,,Ogoja,NIGOG,978955.5108000003,741354.8310000002
+Nigeria,NGAp004559,Adikpo,,Adikpo,,UNHCR Field Office,,,,,,NIGAD,1027530.3519000001,768577.1229000017
+Nigeria,NGAp004556,Yola,,Yola,,UNHCR Field Office,,,,,,NIGYO,1389637.9389999993,1035009.5859000012
+Nigeria,NGAp000575,Abuja,,Abuja,,UNHCR Country Office,UN House Plot No 617/618,Diplomatic Zone,Central Area District,,Abuja,NIGAB,837748.4422999993,1012391.1807000004
+Nigeria,NGAp004555,Makurdi,,Makurdi,,UNHCR Field Unit,,,,,,NIGMK,948489.9288999997,864091.5494000018
+Nigeria,NGAp004562,Ngala,,Ngala,,UNHCR Field Unit,,,,,,NIGNG,1579159.3720999993,1384663.1292000003
+Nigeria,NGAp004557,Calabar,,Calabar,,UNHCR Field Office,,,,,,NIGCA,926951.2148999982,552711.4519000016
+Nigeria,NGAp004561,Bama,,Bama,,UNHCR Field Unit,,,,,,NIGBM,1523734.5108000003,1291181.5218999982
+Nigeria,NGAp004568,Takum,,,,UNHCR Field Office,,,,,,NIGTA,1118179.7947000004,827363.933699999
+Nigeria,NGAp004564,Bani,,Bani,,UNHCR Field Unit,,,,,,NIGBN,1572070.5469000004,1266128.1612000018
+Nigeria,NGAp004570,Benin,,,,UNHCR Field Unit,,,,,,NIGBE,627886.4558999985,704624.1352999993
+Nigeria,NGAp004569,Sokoto,,,,UNHCR Field Unit,,,,,,NIGSO,581484.0392999984,1468656.420400001
+Netherlands (Kingdom of the),NLDp000264,The Hague*,,La Haye,,UNHCR Liaison Office,"P.O. Box 17111, 2502 CC The Hague",,President Kennedylaan 19,,The Hague,NETTH,478100.18239999935,6815466.148900002
+Nepal,NPLp000261,Damak,,Damak,,UNHCR Sub-Office,"P.O. Box 2374, Kathmandu",Bhrikuti Chowk Damak - 11,,,Damak,NEPDA,9762474.4397,3080845.3288000003
+Nepal,NPLp000263,Kathmandu,,Kathmandou,,UNHCR Country Office,"P.O Box 2374, Kathmandu","Dhara Marga, Anil Kuti Maharajgunj",,,Kathmandu,NEPKA,9496888.3986,3212334.639800001
+Pakistan,PAKp030014,Haripur,,Haripur,,UNHCR Field Office,,,,,,PAKHR,8121313.4597,4027190.8249000013
+Pakistan,PAKp000272,Peshawar,,Peshawar,,UNHCR Sub-Office,House No. 1,Gul Mohar Lane,University Town,,Peshawar,PAKPE,7957915.1534,4027860.378200002
+Pakistan,PAKp000273,Quetta,,Quetta,,UNHCR Sub-Office,House No. 36,,,,Quetta,PAKQU,7457643.3445999995,3526728.3008999974
+Pakistan,PAKp000270,Islamabad,Islamabad,Islamabad,,UNHCR Country Office,No.2 Diplomatic Enclave,QUAID-E-AZAM,,,Islamabad,PAKIS,8140740.817000002,3993564.3400000036
+Pakistan,PAKp000462,Karachi,,Karachi,,UNHCR Field Office,,,,,Karachi,PAKKA,7461529.619399998,2862654.3079999983
+Pakistan,PAKp000527,Kohat,,Kohat,,UNHCR Field Office,,,,,,PAKKO,7953137.752700001,3974612.0129999965
+Pakistan,PAKp000531,Loralai,,Loralai,,UNHCR Field Office,,,,,,PAKLO,7643245.441100001,3554538.1850000024
+Pakistan,PAKp000532,Dalbandin,,Dalbandin,,UNHCR Field Office,,,,,,PAKDA,7173669.438700002,3360403.310800001
+Pakistan,PAKp000530,Chaman,,Chaman,,UNHCR Field Unit,,,,,,PAKCM,7397823.033300001,3620269.4290999994
+Panama,PANp000747,Panamá,Panamá,Panamá,,UNHCR Country Office,,,,,,PANPA,-8851816.4397,1006345.5478000008
+Panama,PANp000274,Panamá (RO),,Panamá,,UNHCR Regional Office,La Ciudad del Saber,Calle ,,,Panama City,PANRB,-8858720.2774,1005674.2217000015
+Peru,PERp000001,Lima**,,Lima**,,UNHCR National Office,,,,,Lima,PERLI,-8575236.9785,-1359936.1587000005
+Peru,PERp000004,Cusco,,Cusco,,UNHCR Field Unit,,,,,,PERCU,-8011903.6448,-1519779.9206999987
+Peru,PERp000002,Tacna,,Tacna,,UNHCR Field Unit,,,,,Tacna,PERTA,-7819956.025,-2038418.6862999983
+Peru,PERp000003,Tumbes,,Tumbes,,UNHCR Field Unit,,,,,Tumbes,PERTU,-8956388.3747,-397052.5491000004
+Peru,PERp000005,Arequipa,,Arequipa,,UNHCR Field Unit,,,,,,PERAR,-7962901.0614,-1853186.2144999988
+Philippines,PHLp000810,Cotabato,,Cotabato,,UNHCR Field Office,,,,,,PHICO,13830704.601099998,804335.0298000015
+Philippines,PHLp000276,Manila*,,Manille,,UNHCR Liaison Office,P.O. Box 2074 (MCPO),"G. Puyat Avenue,1260 Makati",150 Legaspi Street,"3rd Floor, JAKA II Building, 1200 Makati",Manila,PHIMA,13465650.884300001,1642684.1303000003
+Poland,POLp000278,Warsaw (LO-Frontex),,Varsovie (BL-Frontex),,UNHCR Liaison Office,,,,,Warsaw,POLWA,2340160.5997,6839220.8222
+Poland,POLp000277,Warsaw*,,Varsovie,,UNHCR Liaison Office,"2, Aleja Roz",PL-00 556   Warsaw,,,Warsaw*,POLWS,2340160.5997,6839220.8222
+Poland,POLp000279,Warsaw (FO),,Varsovie (BT),,UNHCR Field Office,,,,,Warsaw,POLWR,2344514.0513999984,6844896.805799998
+Poland,POLp000280,Lublin,,,,UNHCR Field Office,,,,"Przyjaźni 20-003, Lublin",Lublin,POLLU,2514410.583799999,6664164.880199999
+Poland,POLp000281,Kraków,,,,UNHCR Sub-Office,,,,radisson blue krakow,Kraków,POLKR,2218972.8808999993,6456379.563199997
+Poland,POLp000282,Rzeszów,,,,UNHCR Sub-Office,,,,"3 Maja 11 35-030 Rzeszów, Poland",Rzeszów,POLRZ,2449172.5505000018,6452584.153800003
+Romania,ROUp010055,Timișoara,,Timisoara,,UNHCR Field Office,,,,,Timișoara,ROMTI,2363069.8387,5741108.7575
+Romania,ROUp000288,Bucharest,,Bucarest,,UNHCR Country Office,"25, Armeneasca Street",Sector 2,,,Bucharest,ROMBU,2904500.2754000016,5538248.601499997
+Romania,ROUp000001,Galați,,,,UNHCR Field Office,,,,,Galați,ROMTU,3121558.821899999,5691188.607900001
+Romania,ROUp000002,Suceava,,,,UNHCR Field Office,,,,,Suceava,ROMSU,2924523.3231999986,6051031.549800001
+Romania,ROUp000003,Iași,,,,UNHCR Field Unit,,,,,Suceava,ROMIA,3071472.8434000015,5967371.5295
+Russian Federation,RUSp000290,Moscow,,Moscou,,UNHCR Country Office,UNHCR RO Russian Federation,6 Obukh Pereulok,,,Moscow,RUSMO,4185851.3374000005,7510624.960500002
+Rwanda,RWAp002901,Huye,,Huye,,UNHCR Field Office,,,,,Byumba,RWABU,3304967.2564999983,-287973.5560999997
+Rwanda,RWAp004147,Nyamata,Nyamata,Nyamata,,UNHCR Field Office,,,,,,RWANY,3345538.0901999995,-232757.2479000017
+Rwanda,RWAp004148,Kirehe,Kirehe,Kirehe,,UNHCR Sub-Office,,,,,,RWAKR,3415749.134399999,-253108.9252000004
+Rwanda,RWAp000302,Kigali,,Kigali,,UNHCR Country Office,Bd de l'Umuganda,"Commune Kacyiru, Secteur Kimihu",Cellule Kamukina,,Kigali,RWAKI,3351063.2408000007,-216208.8060999997
+Rwanda,RWAp000301,Karongi,Kibuye,Karongi,,UNHCR Field Office,c/o UNHCR Kigali,"BP 867, Kigali",,,Kibuye,RWAKY,3268562.888700001,-228922.00730000064
+Rwanda,RWAp004149,Kabarore,,Kabarore,,UNHCR Field Unit,,,,,Kabarore,RWAKA,3382416.9499000013,-180238.34970000014
+Saudi Arabia,SAUp000306,Riyadh,,Riyad,,UNHCR Multi-Country Office,building of  Arab Red Crescent and Red Cross Organ,,,,Riyadh,SAURI,5201848.485300001,2832325.9406999983
+Sudan,SDNp010024,Kadugli,,Kadugli,,UNHCR Field Office,,,,,Kadugli,SUDKD,3309461.7809000015,1233721.507199999
+Sudan,SDNp000540,Damazin,,Damazin,,UNHCR Field Unit,Ryad Center,,,,Damazin,SUDDM,3823601.8698000014,1322273.1860999987
+Sudan,SDNp010027,Kosti,,Kosti,,UNHCR Sub-Office,,,,,,SUDKO,3636650.069699999,1476626.8024999984
+Sudan,SDNp000545,El Fasher,,El Fasher,,UNHCR Sub-Office,,,,,El Fasher,SUDEF,2821949.091600001,1531457.624400001
+Sudan,SDNp000568,Zalingei,Zalengei,Zalingei,,UNHCR Field Office,,,,,Zalengei,SUDZA,2613433.213799998,1448292.6719000004
+Sudan,SDNp000328,Port Sudan,,Port Sudan,,UNHCR Field Unit,P.O. Box 220,Port Sudan,,,Port Sudan,SUDPO,4142866.169399999,2227714.0876
+Sudan,SDNp000546,Nyala,,Nyala,,UNHCR Field Office,,,,,Nyala,SUDNY,2770787.6554999985,1352059.4657999985
+Sudan,SDNp000544,El Geneina,,El Geneina,,UNHCR Field Office,Hay El Madaris,"Block 2, Plot# 23",,,El Geneina,SUDEL,2498553.7256999984,1509134.1653000005
+Sudan,SDNp000427,Kassala,,Kassala,,UNHCR Sub-Office,Turaa Shimal,House No. 48/1,P.O. Box 2560,,Kassala,SUDKA,4052920.020799998,1743426.1805000007
+Sudan,SDNp000327,Khartoum,,Khartoum,,UNHCR Country Office,Mohammed Nageeb Road,(North of Farouk Cemetery),Khartoum No. 2,P.O. Box 2560,Khartoum,SUDKH,3622343.0209,1756695.5252999999
+Sudan,SDNp000326,Gedaref,,Gedaref,,UNHCR Sub-Office,,,,,,SUDGE,3938817.5427,1578387.4481999986
+Sudan,SDNp008984,Ed Daein,,Ed Daein,,UNHCR Field Office,P.O. Box 220,Port Sudan,,,Port Sudan,SUDED,2910893.3647999987,1280513.320700001
+Sudan,SDNp030014,El Fula,,,,UNHCR Field Unit,,,,,,SUDEU,3153619.268199999,1313764.3154999986
+Sudan,SDNp030015,Abu Jubeiha,,,,UNHCR Field Unit,,,,,,SUDAU,3476542.234099999,1283676.6031000018
+Sudan,SDNp030013,El Radom,,,,UNHCR Field Unit,,,,,,SUDER,2765248.2380999997,1098825.820700001
+Sudan,SDNp008985,El Obeid,,El Obeid,,UNHCR Field Unit,P.O. Box 220,Port Sudan,,,Port Sudan,SUDEO,3366857.9990000017,1478892.2758999988
+Sudan,SDNp030016,Um Rakuba,,,,UNHCR Field Unit,,,,,Doka,SUDUM,3970552.285599999,1515484.6088999994
+Senegal,SENp000307,Dakar (RB),Dakar,Dakar,,UNHCR Regional Office,"FAALO, route du King Fahd Palace, 3125",,,,Dakar,SENRB,-1950279.8959,1659497.8293000013
+El Salvador,SLVp000130,San Salvador**,,San Salvador**,,UNHCR Country Office,,,,,,SALSA,-9930032.5372,1540164.3627000004
+Somalia,SOMp003303,Luuq,,Luuq,,UNHCR Field Unit,,,,,,,4736463.661699999,424519.15520000085
+Somalia,SOMp000837,Dhobley,,Dhobley,,UNHCR Field Unit,,,,,,SOMDB,4576574.2392,45988.70659999922
+Somalia,SOMp005770,Berbera,,Berbera,,UNHCR Field Unit,,,,,,SOMBB,5010322.633499999,1168999.9307999983
+Somalia,SOMp004927,South-Central Mogadishu,,Mogadiscio,,UNHCR Sub-Office,Lion Place,,,,Mogadishu,SOMMG,5041536.221299998,224834.1997999996
+Somalia,SOMp000688,Baidoa,,Baidoa,,UNHCR Field Unit,,,,,,SOMBD,4858750.682700001,347174.19999999925
+Somalia,SOMp000313,Bossaso,Boosaaso,Bossaso,,UNHCR Field Office,P.O. Box 43801,,,,Bossaso,SOMBS,5474204.6439,1262852.9316000007
+Somalia,SOMp000317,Mogadishu***,,Mogadiscio***,,UNHCR Charge de Mission,Lion Place,Waiyaki Way,,,Mogadishu,SOMMO,5047448.351500001,227696.7082999982
+Somalia,SOMp000562,Garoowe,,Garoowe,,UNHCR Field Unit,,,,,,SOMGR,5396063.927299999,938411.5273000002
+Somalia,SOMp000315,Hargeysa,Hargeisa,Hargeisa,,UNHCR Sub-Office,BP 852,Djibouti,,,Hargeisa North West (Boroma),SOMHA,4906033.636399999,1064970.8425000012
+Somalia,SOMp000314,Gaalkacyo,Galkayo,Gaalkacyo,,UNHCR Sub-Office,P.O. Box 43801,,,,Galkayo,SOMGK,5279596.466699999,760331.0201999992
+Somalia,SOMp000316,Kismaayo,,Kismaayo,,UNHCR Field Office,,,,,,SOMKI,4736199.055300001,-40075.28040000051
+Somalia,SOMp000685,Belet Weyne,,Belet Weyne,,UNHCR Field Unit,,,,,,SOMBE,5036202.856600001,529847.0502999984
+Serbia,SRBp000678,Preševo,,,,UNHCR Field Unit,,,,,,SRBPS,2413707.0117000006,5207067.681199998
+Serbia,SRBp000140,Belgrade,,Belgrade,,UNHCR Country Office,Krunska 58,,,,Belgrade,SRBBE,2273169.271499999,5592819.573600002
+Serbia,SRBp000412,Priština***,Pristina*,Pristina***,,UNHCR Charge de Mission,Rr. e. Kragujevcit 8,,,,Pristina,SRBPR,2355743.064199999,5262633.641900003
+South Sudan,SSDp000754,Bunj,,Bunj,,UNHCR Sub-Office,,,,,,SSDBU,3751040.1521000005,1114320.4081000015
+South Sudan,SSDp000593,Bor,,Bor,,UNHCR Field Office,,,,,,SSDBO,3514055.7617000006,694573.9439999983
+South Sudan,SSDp030007,Yida,,Yida,,UNHCR Field Office,,,,,,SSDYI,3349600.9294999987,1130572.9659999982
+South Sudan,SSDp010025,Wau,,Wau,,UNHCR Field Unit,,,,,,SSDWU,3117760.1556,861459.7716000006
+South Sudan,SSDp000894,Jam Jang,Jam Jang,Jam Jang,,UNHCR Sub-Office,,,,,,SSDJM,3372008.6777999997,1110550.7283000015
+South Sudan,SSDp010026,Bentiu,,Bentiu,,UNHCR Field Office,,,,,,SSDBT,3316004.4514000006,1034549.0056000017
+South Sudan,SSDp000570,Yambio,,Yambio,,UNHCR Field Office,,,,,Yambio,SSDYA,3161028.2606000006,508823.65089999884
+South Sudan,SSDp000572,Malakal,,Malakal,,UNHCR Field Office,,,,,Malakal,SSDMA,3523039.2446000017,1067945.2102999985
+South Sudan,SSDp000542,Juba,,Juba,,UNHCR Country Office,Ministries Road,Buluk Area,,,Juba,SSDJU,3517454.6796999983,540669.5709000006
+South Sudan,SSDp000536,Yei,,Yei,,UNHCR Field Office,,,,,Yei,SSDYE,3413278.2267000005,455014.2646000013
+Slovakia,SVKp000312,Bratislava,,,,UNHCR National Office,,,,,Bratislava,,1904346.8577999994,6131460.454999998
+Slovakia,SVKp000313,Humene,,,,UNHCR Field Unit,,,,,Humene,,2438748.75,6263424.352600001
+Slovakia,SVKp000314,Kosice,,,,UNHCR Field Unit,,,,,Kosice,SVKKO,2365902.2716000006,6226882.990999997
+Sweden,SWEp000331,Stockholm (MCO),,Stockholm (MCO),,UNHCR Multi-Country Office,Ynglingagatan 14,6th Floor,,,Stockholm,SWEST,2011209.2402000017,8252275.233400002
+Syrian Arab Republic,SYRp000900,Qamishli,,Qamishly,,UNHCR Sub-Office,,,,,,SYRHA,4588730.415199999,4445589.883599997
+Syrian Arab Republic,SYRp000621,Homs,,Homs,,UNHCR Sub-Office,,,,,,SYRHM,4085516.841499999,4128784.325199999
+Syrian Arab Republic,SYRp000333,Damascus,,Damas,,UNHCR Country Office,PO BOX 30891,ABDULLAH BIN RAWTHA STREET,KAFAR SUSEH,,DAMASCUS,SYRDA,4038969.2148,3961504.9782000035
+Syrian Arab Republic,SYRp000623,Tartous,,Tartous,,UNHCR Field Office,,,,,,SYRTA,3993433.9771,4149694.7190999985
+Syrian Arab Republic,SYRp000622,Aleppo,,Alep,,UNHCR Sub-Office,c/o UNHCR,,,,Aleppo,SYRAL,4131781.2217999995,4330043.915100001
+Syrian Arab Republic,SYRp004107,Sweida,,Sweida,,UNHCR Field Office,,,,,,,4071268.8346999995,3856682.8783000037
+Rep. of Chad,TCDp004116,Baga-Sola,,Bagassola,,UNHCR Sub-Office,,,,,,CHDBS,1593200.1473999992,1521275.5366999991
+Rep. of Chad,TCDp000866,Amdjarass,,Amdjarass,,UNHCR Field Office,,,,,,CHDAJ,2542759.808699999,1813236.0483999997
+Rep. of Chad,TCDp000517,Goz Beïda,Goz Beida,Goz Beïda,,UNHCR Field Office,Chateau deau,,,,Goz Beida,CHDGB,2384628.5782000013,1370747.9519000016
+Rep. of Chad,TCDp000489,Gore,,Goré,,UNHCR Sub-Office,,,,,Gore,CHDGO,1852294.4820999987,886063.7886000015
+Rep. of Chad,TCDp000511,Maro,,Maro,,UNHCR Field Office,,,,,,CHDMA,2091626.440299999,940952.0003000014
+Rep. of Chad,TCDp000510,Iriba,,Iriba,,UNHCR Field Office,Département de Kobe,,,,Iriba,CHDIR,2477328.6609999985,1703671.0513999984
+Rep. of Chad,TCDp000084,N'Djamena,,N'Djamena,,UNHCR Country Office,Quartier Sabangali,3eme Arrondissement,"Rue 2083, Porte 1262",,N'Djamena,CHDND,1676342.2894000001,1356221.1486999989
+Rep. of Chad,TCDp000515,Farchana,,Farchana,,UNHCR Field Office,Farchana,,,,Farchana,CHDFA,2429077.8957,1527547.4926999994
+Rep. of Chad,TCDp000801,Haraze,,Haraze,,UNHCR Field Office,,,,,,CHDHA,2334081.4045,1119143.178100001
+Rep. of Chad,TCDp004117,Moissala,,Moissala,,UNHCR Field Office,,,,,,CHDMI,1977034.1565000005,931362.9825000018
+Rep. of Chad,TCDp000516,Guéréda,Guereda,Guéréda,,UNHCR Field Office,,,,,Guereda,CHDGU,2458871.332899999,1633080.7818000019
+Rep. of Chad,TCDp000512,Abéché,Abeche,Abéché,,UNHCR Sub-Office,Grand Marché du Bétail,,,,Abeche,CHDAB,2319525.2677999996,1556352.6422000006
+Togo,TGOp000353,Lome**,,Lomé**,,UNHCR National Office,"Rue de la Pature, 182 SJO",Quartier Saint Joseph,UNICEF,,Lome,TOGLO,137637.31080000103,686129.2241999991
+Thailand,THAp000849,Bangkok,,Bangkok,,UNHCR Country Office,P.O. Box 2-121,,,,Bangkok,THABA,11188495.360800002,1546956.3630999997
+Thailand,THAp000346,Bangkok (RO),,Bangkok,,UNHCR Regional Office,P.O. Box 2-121,,,,Bangkok,THARB,11192936.6992,1544837.1204999983
+Thailand,THAp000348,Mae Hong Son,,Mae Hong Son,,UNHCR Field Office,23 Nivespisan Road,Jongkham Sub-district,Muang District,,Mae Hong Son,THAMH,10905787.169799998,2190515.8522000015
+Thailand,THAp000349,Mae Sot,,Mae Sot,,UNHCR Field Office,34/5 Mae Sot - Mae Tao Road,,,,Mae Sot,THABM,10972998.7614,1886360.7153000012
+Thailand,THAp000851,Bangkok (MCO),,Bangkok (MCO),,UNHCR Multi-Country Office,,,,,Bangkok,THARO,11190868.2419,1543611.8150000013
+Tajikistan,TJKp000335,Dushanbe,,Douchanbé,,UNHCR Country Office,Pr-t Druzhba Narodov 106,,,,Dushanbe,TJKDU,7656443.257300001,4660263.5973000005
+Trinidad and Tobago,TTOp002498,Port of Spain***,,Port of Spain***,,UNHCR Field Office,,,,,,TRTPO,-6848291.4727,1193685.0425999984
+Tunisia,TUNp002093,Gabès,,,,UNHCR Field Unit,,,,,Gabès,,1124556.3462000005,4012979.4092999995
+Tunisia,TUNp002092,Sfax,,,,UNHCR Field Unit,,,,,,,1197906.8139999993,4129093.123800002
+Tunisia,TUNp002091,Medenine,,,,UNHCR Field Unit,,,,,,,1167741.4584,3940920.4777000025
+Tunisia,TUNp000354,Tunis,,Tunis,,UNHCR Country Office,20 rue des Lacs Mazouries,1006,,,Tunis,TUNTU,1140575.3282999992,4416790.180100001
+Tunisia,TUNp000830,Zarzis,,Zarzis,,UNHCR Field Office,,,,,,TUNZA,1232427.4334000014,3973448.313199997
+Turkey,TURp000885,Izmir,,,,UNHCR Field Unit,,,,,,TURIZ,3028671.902399998,4644366.862000003
+Turkey,TURp000882,Hatay,Hatay,Hatay,,UNHCR Field Unit,,,,,,TURHA,4027119.9120999984,4328207.259499997
+Turkey,TURp000880,Gaziantep,Gaziantep,Gaziantep,,UNHCR Sub-Office,,,,,,TURGA,4162188.9888000004,4448696.924900003
+Turkey,TURp000881,Sanliurfa,Sanliurfa,Sanliurfa,,UNHCR Field Unit,,,,,,TURSA,4318755.4265,4460373.101599999
+Turkey,TURp000356,Istanbul,,Istanbul,,UNHCR Field Office,Firuzaga Mah. Defterdar Yokusu,Safir Apt. No. 129/1,Cihangir-Beyoglu,,Istanbul,TURIS,3226637.074099999,5017242.251500003
+Turkey,TURp000358,Van,,Van,,UNHCR Field Office,Iskele Caddesi Eski Sanayi,Anadolu Kalkinma Vakfi Kat 1,,,Van,TURVA,4831265.900400002,4650301.8367
+Turkey,TURp000355,Ankara,,Ankara,,UNHCR Country Office,"12. Cadde, 212. Sokak No:3","Sancak Mahallesi, Cankaya",,,Ankara,TURAN,3657426.4488000013,4850589.473399997
+United Republic of Tanzania,TZAp010040,Dodoma,,Dodoma,,UNHCR Field Unit,,Hombolo Road,,,Dodoma,TANDO,3981831.1713000014,-686440.5975000001
+United Republic of Tanzania,TZAp000342,Kigoma,,Kigoma,,UNHCR Sub-Office,Plot No.287,Kheri Avenue,P.O. Box 1213,,Kigoma,TANKI,3297493.265900001,-544294.0683999993
+United Republic of Tanzania,TZAp000340,Kasulu,,Kasulu,,UNHCR Field Office,P.O. Box 332,Kimobwa (mlimani area),,,Kasulu,TANKS,3350200.2617999986,-508653.0133000016
+United Republic of Tanzania,TZAp000343,Mwanza,,Mwanza,,UNHCR Field Unit,P.O. 2273,Airport,,,Mwanza,TANMW,3665966.0124000013,-272161.6394999996
+United Republic of Tanzania,TZAp000339,Dar Es Salam,Dar es Salaam,Dar Es Salaam,,UNHCR Country Office,Plot 18 Kalenga Street,PO Box 2666,,,Dar-es-Salaam,TANDA,4372406.959399998,-760549.6378000006
+United Republic of Tanzania,TZAp000341,Kibondo,,Kibondo,,UNHCR Field Office,P.O. Box 49,,,,Kibondo,TANKB,3417619.6867999993,-399229.49269999936
+Uganda,UGAp006979,Lamwo,,,,UNHCR Field Office,,,,,Lamwo,UGALA,3621773.517499998,362145.03009999916
+Uganda,UGAp000863,Rwamwanja,,Rwamwanja,,UNHCR Field Unit,,,,,,UGARW,3412419.2098000012,38304.342099998146
+Uganda,UGAp006978,Yumbe,,Yumbe,,UNHCR Sub-Office,,,,,,UGAYU,3478555.3082000017,386626.51029999927
+Uganda,UGAp000603,Moyo,,Moyo,,UNHCR Sub-Office,Plot No: 14/16,Lopirigo Road,,,Moyo,UGAMO,3531499.525899999,406591.2437000014
+Uganda,UGAp003301,Kiryandongo,,Kiryandongo,,UNHCR Field Unit,,,,,,UGAKR,3565897.2485999987,207090.62999999896
+Uganda,UGAp000364,Mbarara,,Mbarara,,UNHCR Sub-Office,Plot 88,Block 3Fort Portal road,P.O. Box 391,,Mbarara,UGAMB,3409565.1072000004,-66547.39050000161
+Uganda,UGAp000734,Kyaka II,,Kyaka II,,UNHCR Field Unit,,,,,,UGAKY,3459969.018599998,39787.398299999535
+Uganda,UGAp000715,Kisoro,,Kisoro,,UNHCR Field Unit,,,,,,UGAKS,3305170.289900001,-143451.26740000024
+Uganda,UGAp000362,Kampala,,Kampala,,UNHCR Country Office,Plot 18 Prince Charles,Kololo,,,Kampala,UGAKA,3628644.964200001,37270.90769999847
+Uganda,UGAp000736,Kyangwali,,Kyangwali,,UNHCR Sub-Office,,,,,,UGAKW,3430373.4985999987,135898.91010000184
+Uganda,UGAp000360,Adjumani-Pakelle,,Pakelle,,UNHCR Sub-Office,c/o UNHCR BO Kampala,P.O. Box 3813,Kampala,,Pakelle-Adjumani,UGAAD,3545813.6717999987,374144.2831000015
+Uganda,UGAp000738,Nakivale,,Nakivale,,UNHCR Field Unit,,,,,,UGANA,3445288.7786,-86998.87379999831
+Uganda,UGAp000361,Arua,,Arua,,UNHCR Sub-Office,P.O.Box 847,,,,Arua,UGAAR,3442215.4255000018,335775.5203999989
+Ukraine,UKRp002495,Dnipro,Dnipropetrovsk,Dnipro,,UNHCR Sub-Office,17,Lamana St,,,Dnipro,UKRDN,3902431.0973999985,6184848.5934000015
+Ukraine,UKRp000897,Odesa,Odesa,Odesa,,UNHCR Field Unit,,,,,,UKROD,3420308.7923999988,5855317.023900002
+Ukraine,UKRp000895,Lviv,Lviv,Lviv,,UNHCR Field Office,15,Paliya St,79000,,Lviv,UKRLV,2675797.6207999997,6417582.047399998
+Ukraine,UKRp004112,Donetsk,,Donetsk,,UNHCR Field Office,,,,,Donetsk,UKRDK,4219839.4866,6105260.1586000025
+Ukraine,UKRp004113,Luhansk,,Luhansk,,UNHCR Field Office,,,,,Luhansk,UKRLU,4377646.2793999985,6198976.076899998
+Ukraine,UKRp007779,Chernivtsi,,,,UNHCR Field Unit,150,Heroes of Maidan St,,,Chernivtsi,UKRCH,2886376.916700002,6152520.0207
+Ukraine,UKRp007780,Vinnytsia,,,,UNHCR Sub-Office,51,Ovodova St,,,Vinnytsia,UKRVI,3169353.734000001,6314608.998999998
+Ukraine,UKRp007781,Uzhhorod,,,,UNHCR Field Office,10-B,Lva Tolstogo St,,,Uzhhorod,UKRUZ,2481886.971500002,6210711.4636999965
+Ukraine,UKRp007782,Kyiv,,,,UNHCR Field Unit,75,Zhylianska,01032,,Kyiv,UKRKY,3395100.2093,6522643.636500001
+Ukraine,UKRp007783,Kyiv,,,,UNHCR Country Office,75,Zhylianska,01032,,Kyiv,,3395104.021899998,6522646.720200002
+Ukraine,UKRp007785,Poltava,,,,UNHCR Field Unit,,,,,Poltava,UKRPO,3844687.1950000003,6373865.839400001
+Uruguay,URYp000001,Montevideo,,Montevideo,,UNHCR Field Unit,,,,,,URUMO,-6254043.4505,-4150167.4912
+United States of America,USAp000660,San Diego,,San Diego,,UNHCR Field Office,,,,,,USASA,-13039628.5667,3860760.5273
+United States of America,USAp000370,Washington,,Washington DC,,UNHCR Multi-Country Office,1775 K Street,,,,Washington,USAWA,-8576196.7276,4707767.781800002
+United States of America,USAp000369,New York*,,New York*,,UNHCR Liaison Office,P.O. Box 20,Grand Central,,,New York,USANE,-8234713.3916,4975598.9592999965
+Uzbekistan,UZBp000373,Regional Humanitarian Logistics Hub,,,,Global Hub / Service Center,,,,,Termez,,7505323.708900001,4474570.496100001
+Bolivarian Republic of Venezuela,VENp000610,Caracas (FU),,Caracas,,UNHCR Field Unit,"Parque Cristal, Torre Oeste","Piso 4, Oficina 4-4, 4-5 y 4-6",Av. Francisco de Miranda,Urbanizacion Los Palos Grandes,Caracas,VENCR,-7441858.3522,1175329.8834000006
+Bolivarian Republic of Venezuela,VENp000609,Ciudad Guayana,,Ciudad Guayana,,UNHCR Field Office,,,,,Ciudad Guayana,VENCI,-6982656.3244,926693.9046999998
+Bolivarian Republic of Venezuela,VENp000608,Maracaibo,,Maracaibo,,UNHCR Field Office,,,,,Maracaibo,VENMR,-7971633.8201,1194111.6378999986
+Bolivarian Republic of Venezuela,VENp000466,Guasdualito,,Guasdualito,,UNHCR Field Office,,,,,Guasdualito,VENGU,-7873845.3247,808282.8214999996
+Bolivarian Republic of Venezuela,VENp000373,Caracas,,Caracas,,UNHCR Country Office,"Parque Cristal, Torre Oeste","Piso 4, Oficina 4-4, 4-5 y 4-6",Av. Francisco de Miranda,Urbanizacion Los Palos Grandes,Caracas,VENCA,-7441858.3522,1175329.8834000006
+Bolivarian Republic of Venezuela,VENp000374,San Cristobal,,San Cristòbal,,UNHCR Field Office,Avenida Isaias Medina Angarita,(7a. Avenida) Edificio Occidental,Piso 6,,San Cristobal,VENSC,-8041052.097999999,867054.1174999997
+Bolivarian Republic of Venezuela,VENp000611,San Antonio,,San Antonio,,UNHCR Field Unit,,,,,,VENSA,-8064513.901900001,872662.6592000015
+Yemen,YEMp004559,Hudaydah,,Hudaydah,,UNHCR Field Office,,,,,,YEMHO,4780615.5320999995,1665585.8913999982
+Yemen,YEMp006170,Ibb,,Ibb,,UNHCR Field Office,,,,,,YEMIB,4918005.809099998,1571748.044300001
+Yemen,YEMp000655,Sa'ada,,Sa'ada,,UNHCR Field Office,,,,,,YEMSD,4869361.9103999995,1912419.570700001
+Yemen,YEMp000506,Al Kharaz,,Al Kharaz,,UNHCR Field Office,,,,,,YEMAK,4901495.622499999,1433711.6037999988
+Yemen,YEMp000382,Aden,,Aden,,UNHCR Sub-Office,UNHCR Sub-Office Aden,Hoshi Mana Street,Beside German Consulate - Shop area Building #27 &,Khormakser,Aden,YEMAD,5012894.2313,1437767.570799999
+Yemen,YEMp000383,Sana'a,,Sana'a,,UNHCR Country Office,"Algeria Street, No.38",Building No.2,P.O. Box 12093 Sana'a,,Sana'a,YEMSA,4920989.41,1730377.7606000006
+Yemen,YEMp030010,Marib,,Marib,Marib,UNHCR Field Office,"UN building, Louvre hotel",,,,Marib,YEMMR,5044681.544100001,1742571.3801000006
+South Africa,ZAFp000712,Cape Town,,Cape Town,,UNHCR Field Office,,,,,,RSACT,2050590.3438999988,-4018361.584399998
+South Africa,ZAFp000279,Pretoria (RO),Pretoria,Prétoria,,UNHCR Regional Office,"Metro Park Building,8th Floor",,,,Pretoria,RSARB,3138787.893100001,-2968037.7054000013
+South Africa,ZAFp000715,Pretoria (LO),Pretoria,Pretoria,,UNHCR Liaison Office,"waterkloof house, 209 waterkloof road, brooklyn, p",,,,Pretoria,RSAPR,3143423.205499999,-2971096.9838999994
+Zambia,ZMBp000385,Lusaka,,Lusaka,,UNHCR Country Office,17C Leopards Hill Road,P.O. Box 32542,,,Lusaka,ZAMLU,3149005.7556000017,-1737305.2415999994
+Zambia,ZMBp000614,Solwezi,,Solwezi,,UNHCR Field Office,2410 Riverside,P.O. Box 110132,,,Solwezi,ZAMSO,2938901.3486,-1366247.1350999996
+Zambia,ZMBp000384,Kawambwa,,Kawambwa,,UNHCR Field Office,Chipatala Road,NAPSA Building,P.O. Box 730184,,Kawambwa,ZAMKA,3237504.7507000007,-1094143.1996
+Zambia,ZMBp000400,Kaoma ,Kaoma,Kaoma ,,UNHCR Field Unit,P.O. Box 940121,,,,Kaoma,ZAMKO,2760569.6394999996,-1664747.8249000013
+Zimbabwe,ZWEp000389,Harare,,Harare,,UNHCR Country Office,P.O. Box 4565,2nd Floor,,,Harare,ZIMHA,3456915.467099998,-2017426.0295000002
+Zimbabwe,ZWEp000597,Tongogara,,Tongogara,,UNHCR Field Office,,,,,,ZIMTO,3602007.399,-2304083.828400001

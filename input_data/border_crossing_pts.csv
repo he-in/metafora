@@ -1,0 +1,639 @@
+﻿pcode,Country 1,Border Name in Country 1,Country 2,Border Name in Country 2,loc_type,mod_by,mod_date,created_user,created_date,x,y
+AFGTKMc000023,Afghanistan,Andkhoi,Turkmenistan,,Not Official,,"November 15, 2012",,,7208453.1105,4421859.387500003
+AFGPAKc000042,Afghanistan,Rubat,Pakistan,,Not Official,,"November 15, 2012",,,6790804.751800001,3481071.6608000025
+AGOCODc000002,Angola,Kimbala,Democratic Republic of the Congo,,Official,,"August 23, 2017",,,1670979.0254000016,-654169.0773000009
+AGOCODc000001,Angola,Chissanda,Democratic Republic of the Congo,Tshibinda,Official,,"June 22, 2017",,,2323292.2599,-813251.0216999985
+AGOCODc000003,Angola,Luvo,Democratic Republic of the Congo,,Official,,"August 23, 2017",,,1567917.6453999989,-654686.6649999991
+AUTDEUc000003,Austria,Kollerschlag,Germany,Wegscheid,Not Official,,"November 4, 2015",,,1540746.3553999998,6208102.006399997
+AUTDEUc000004,Austria,Kufstein,Germany,Kiefersfelden,Official,,"November 4, 2015",,,1357392.4673999995,6041390.690099999
+AUTDEUc000005,Austria,Schärding,Germany,Neuhaus,Not Official,,"November 24, 2015",,,1495295.386500001,6184230.114
+AUTDEUc000001,Austria,Salzburg,Germany,Freilassing,Not Official,,"October 19, 2015",,,1448600.5337000005,6080860.180699997
+AUTDEUc000002,Austria,Oberndorf bei Salzburg,Germany,Laufen,Not Official,,"November 4, 2015",,,1440641.3013999984,6096878.7711
+BFAMLIc000051,Burkina Faso,Diguel,Mali,,Not Official,,"November 15, 2012",,,-198142.624499999,1630087.5315000005
+BFAMLIc000052,Burkina Faso,Nassoumbou,Mali,,Not Official,,"November 15, 2012",,,-137668.9835000001,1660515.1491999999
+BFAMLIc000054,Burkina Faso,Soum bellah,Mali,,Not Official,,"November 15, 2012",,,-119177.08839999884,1667053.207800001
+BFAMLIc000053,Burkina Faso,Rafnamane,Mali,,Not Official,,"November 15, 2012",,,-80194.03570000082,1697983.185800001
+BFAMLIc000050,Burkina Faso,Pétegoli,Mali,,Not Official,,"November 15, 2012",,,-221882.26289999858,1598402.0993999988
+BFAMLIc000060,Burkina Faso,Koloko,Mali,Heremakono,Not Official,,"November 15, 2012",,,-597252.8816,1245304.5337000005
+BGRGRCc000004,Bulgaria,Svilengrad,Greece,Ormenio,Official,,"October 4, 2016",,,2912563.1570999995,5124773.939599998
+BGRROUc000001,Bulgaria,Vidin,Romania,Calafat,Official,,"January 12, 2016",,,2547968.3363999985,5465709.2897000015
+BGRGRCc000003,Bulgaria,Kulata,Greece,Promachonas ,Official,,"October 4, 2016",,,2600774.6292000003,5068554.187799998
+BGRSRBc000001,Bulgaria,Kalotina,Serbia,Gradinje,Official,,"October 4, 2016",,,2545722.1317000017,5311295.449299999
+BGRGRCc000001,Bulgaria,Haskovo,Greece,Trigono,Official,,"October 4, 2016",,,2912821.9749,5123305.493600003
+BGRROUc000002,Bulgaria,Ruse,Romania,Giurgiu,Official,,"January 12, 2016",,,2895512.907299999,5447500.861400001
+BGRMKDc000002,Bulgaria,Zlatarevo,North Macedonia,Novo Selo,Official,,"October 4, 2016",,,2556471.4756999984,5070928.2136999965
+BGRTURc000001,Bulgaria,Balyarovo,Turkey,,Not Official,,"October 4, 2016",,,2928950.878800001,5163246.1699
+BGRGRCc000002,Bulgaria,Ivayalovgrad,Greece,,Official,,"October 4, 2016",,,2914232.9494999982,5093624.168300003
+BGRMKDc000001,Bulgaria,Gyueshevo,North Macedonia,Deve Bair,Official,,"October 4, 2016",,,2500177.7657999992,5193991.557700001
+BGRTURc000002,Bulgaria,Sredets,Turkey,,Not Official,,"October 4, 2016",,,3025775.0793000013,5212827.853100002
+BGRROUc000011,Bulgaria,Durankulak,Romania,Vama Veche,Other,KROLIKIE,"April 19, 2023",core_edit,"April 20, 2023",3179086.152899999,5424715.304099999
+BGRROUc000012,Bulgaria,Vama Veche,Romania,Durankulak,Other,KROLIKIE,"April 19, 2023",core_edit,"April 20, 2023",3179377.5691,5425172.227399997
+BGRSRBc000002,Bulgaria,Strezimirovtsi,Serbia,Strezimirovci,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2499091.215399999,5281324.630400002
+BGRGRCc000005,Bulgaria,Ilinden,Greece,Exochi,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2652282.7782000005,5078056.572800003
+BGRROUc000003,Bulgaria,Kaynardzha,Romania,Lipnita,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",3069098.0243000016,5467816.941699997
+BGRROUc000005,Bulgaria,Krushari,Romania,Dobromir,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",3093182.142000001,5459427.863700002
+BGRROUc000006,Bulgaria,Lom,Romania,Desa,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2587032.8106999993,5439244.726499997
+BGRGRCc000006,Bulgaria,Makaza,Greece,Nymphaia,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2830695.4880999997,5051617.940099999
+BGRROUc000007,Bulgaria,Oryahovo,Romania,Bechet,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2668665.5791999996,5424870.941600002
+BGRROUc000008,Bulgaria,Svishtov,Romania,Zimnich,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2822004.1776,5407167.434199996
+BGRROUc000009,Bulgaria,Silistra,Romania,Calarasi,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",3036563.9486999996,5484155.176299997
+BGRROUc000010,Bulgaria,Somovit-Nikopol,Romania,Turnu Magurele,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2770543.2694999985,5419923.080700003
+BGRROUc000004,Bulgaria,Kardam,Romania,Negru Voda,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",3133299.9243,5432194.686899997
+BGRMKDc000003,Bulgaria,Logodazh,North Macedonia,Delchevo,Official,krolikie,"May 2, 2023",core_edit,"May 3, 2023",2546527.3431,5158982.2619
+BLRUKRc000001,Belarus,Mochro,Ukraine,Dolsk,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2843883.4422999993,6788484.7751
+BLRUKRc000002,Belarus,Verchny Terebezhov,Ukraine,Gorodishche,null,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2973497.0879999995,6769199.7348000035
+BLRUKRc000003,Belarus,Tomashovka,Ukraine,Pulemets,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2628930.7434,6720319.117200002
+BLRUKRc000004,Belarus,Mokrany,Ukraine,Domanove,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2700696.6569,6770071.502099998
+BLRUKRc000005,Belarus,Novaya Rudnya,Ukraine,Vystupovichi,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",3240390.682,6736246.503899999
+BLRUKRc000006,Belarus,Komarin,No code (ISO user specified),Slavutych,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",3406512.042100001,6699823.359499998
+BLRUKRc000007,Belarus,Veselovka,Ukraine,Senkovka,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",3536076.180300001,6818560.748000003
+BLRUKRc000010,Belarus,Novaya Huta,Ukraine,Novye Yarilovichi,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",3449467.1147000007,6814185.042099997
+BLRLVAc000001,Belarus,Grigorovschina,Latvia,Paternieki,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",3074755.7342000008,7520761.831799999
+BLRLVAc000002,Belarus,Urbany,Latvia,Silene,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2991981.661800001,7502143.513700001
+BLRLTUc000001,Belarus,Privalka,Lithuania,Raigardas,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2669575.1937999986,7159936.487899996
+BLRLTUc000002,Belarus,Kamenny Log,Lithuania,Medininkai,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2861904.3621999994,7273476.350299999
+BLRLTUc000003,Belarus,Kotlovka,Lithuania,Lavoriskes,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2867376.355900001,7308170.617899999
+BLRLTUc000004,Belarus,Benyakoni,Lithuania,Salcininkai,Other,UNHCR Belarus,"April 5, 2022",core_edit,"April 6, 2022",2824758.8227000013,7222693.942299999
+BRAVEN000001,Brazil,Pacaraima,Bolivarian Republic of Venezuela,Santa Elena de Uairen,Not Official,,"February 8, 2018",,,-6806994.0155,499579.9074999988
+CAFCMRc000155,Central African Republic,Ngaoui,Cameroon,Gaigo,Official,,"October 22, 2014",,,1664192.9692000002,753117.1231999993
+CAFCMRc000154,Central African Republic,Gaudrot,Cameroon,Gbatoua Ngodole,Official,,"October 22, 2014",,,1638723.0920000002,704709.254999999
+CAFCMRc000150,Central African Republic,Gari Gombo,Cameroon,Mollaye,Official,,"October 22, 2014",,,1682129.9010999985,438139.2470000014
+CAFCMRc000151,Central African Republic,Kentzou,Cameroon,,Official,,"October 22, 2014",,,1681817.2490999997,460288.15890000015
+CAFCMRc000149,Central African Republic,Mboy,Cameroon,,Official,,"October 22, 2014",,,1723194.5480000004,385802.35060000047
+CAFCMRc000153,Central African Republic,Garoua Boulai,Cameroon,Cantonnier,Official,,"October 22, 2014",,,1618997.2894000001,657795.4912
+CAFCMRc000156,Central African Republic,Bouyangou,Cameroon,Yamba,Official,,"October 22, 2014",,,1692713.0450999998,793148.3357000016
+CAFCMRc000152,Central African Republic,Gbiti,Cameroon,Banga-Boumbe,Official,,"October 22, 2014",,,1637988.4056000002,523725.70010000095
+CAFSDNc000157,Central African Republic,Am-Dafock,Sudan,,Other,,,UNHCR_WRITER,"May 2, 2023",2593576.0430999994,1170919.761500001
+CAFSDNc000158,Central African Republic,Tissi 1,Sudan,,Other,,,UNHCR_WRITER,"May 2, 2023",2489898.6352999993,1135971.5617000014
+CIVLBRc000006,Cote d'Ivoire,Daobly,Liberia,,Official,,,,,-837031.2888000011,653362.8134999983
+CIVLBRc000004,Cote d'Ivoire,Pekan-Barrage,Liberia,,Official,,,,,-944563.6904999986,738540.9398000017
+CIVLBRc000003,Cote d'Ivoire,Dohouba,Liberia,Buutuo,Official,,,,,-926821.8984000012,759226.0881000012
+CIVLBRc000002,Cote d'Ivoire,Gbinta,Liberia,Kpantiaplay,Official,,,,,-930240.2115999982,808980.6887999997
+CIVLBRc000005,Cote d'Ivoire,Zilebly,Liberia,,Official,,,,,-905417.0784000009,700596.7732000016
+CIVLBRc000001,Cote d'Ivoire,Prollo,Liberia,,Official,,,,,-839395.7148000002,494147.6801000014
+CMRNGAc000170,Cameroon,Kolofata,Nigeria,Kirawa,Official,,"January 23, 2015",,,1559892.813099999,1250502.3927000016
+CMRNGAc000001,Cameroon,Ekok,Nigeria,Mfum,Not Official,,"April 27, 2018",,,984945.8376999982,648055.3165000007
+CMRGABc000001,Cameroon,Abang-Minko,Gabon,Eboro,Official,,"September 28, 2016",,,1273051.2551999986,259111.6981999986
+CMRGABc000002,Cameroon,Kye-Ossi,Gabon,Meyo Kye,Official,,"September 28, 2016",,,1262463.2131000012,242178.06379999965
+CMRNGAc000169,Cameroon,Assighassia,Nigeria,Ashigashiya,Official,,"January 23, 2015",,,1543989.8960999995,1246279.8401999995
+CMRNGAc000168,Cameroon,Fotokol,Nigeria,Gamboru,Official,,"January 23, 2015",,,1583524.0855999999,1388725.4532000013
+CMRNGAc000002,Cameroon,Ngale,Nigeria,Kureke,Not Official,,"April 30, 2018",,,1053464.6539999992,719518.8586000018
+CMRNGAc000171,Cameroon,Amchide,Nigeria,Banki,Official,,"February 25, 2015",,,1574490.5089000016,1259870.6532000005
+CODCAFc000162,Democratic Republic of the Congo,Ngele rive,Central African Republic,,Official,,"October 22, 2014",,,2117514.281199999,533825.2485999987
+CODCAFc000166,Democratic Republic of the Congo,Sidi,Central African Republic,,Official,,"October 22, 2014",,,2211871.022500001,559317.5573000014
+CODCAFc000163,Democratic Republic of the Congo,Gbuda,Central African Republic,,Official,,"October 22, 2014",,,2267176.6011000015,523047.09959999844
+CODCAFc000164,Democratic Republic of the Congo,Gbigu,Central African Republic,,Official,,"October 22, 2014",,,2106889.2391000018,518591.53599999845
+CODCAFc000165,Democratic Republic of the Congo,Pandu,Central African Republic,Possel,Official,,"October 22, 2014",,,2144519.6085,558512.808699999
+CODCAFc000160,Democratic Republic of the Congo,Mbobayi,Central African Republic,Mobaye,Official,,"October 22, 2014",,,2358469.327799998,479596.10599999875
+CODCAFc000167,Democratic Republic of the Congo,Banda Kilimoto,Central African Republic,,Official,,"October 22, 2014",,,2172682.9541000016,571781.2289999984
+CODCAFc000159,Democratic Republic of the Congo,Lembo,Central African Republic,,Official,,"October 22, 2014",,,2351517.8577000014,482456.1799999997
+SSDUGAc000134,Democratic Republic of the Congo,Kerei,Uganda,,Not Official,,"June 4, 2014",,,3443401.966600001,390597.5020000003
+CODCAFc000161,Democratic Republic of the Congo,Zongo,Central African Republic,Bangui,Official,,"October 22, 2014",,,2070566.1383000016,485149.8528999984
+CODCAFc000158,Democratic Republic of the Congo,Libenge,Central African Republic,,Official,,"October 22, 2014",,,2073861.953499999,405764.57030000165
+COBCODc000157,Republic of the Congo,Monzombo,Democratic Republic of the Congo,,Official,,"October 22, 2014",,,2046651.807599999,350317.3231000006
+COLVEN000003,Colombia,Arauca,Bolivarian Republic of Venezuela,El Amparo,Not Official,,"February 8, 2018",,,-7875853.9736,790529.3048
+COLECU000001,Colombia,Rumichaca,Ecuador,,Not Official,,"February 8, 2018",,,-8645523.1174,90623.29890000075
+COLVEN000002,Colombia,Paraguachón,Bolivarian Republic of Venezuela,Guarero,Not Official,,"February 8, 2018",,,-8029425.3956,1272960.2641999982
+COLVEN000001,Colombia,Villa del Rosario,Bolivarian Republic of Venezuela,San Antonio del Tachira,Not Official,,"February 8, 2018",,,-8065075.4625,872968.4508000016
+COLECU000002,Colombia,Chiles,Ecuador,Tufino,Official,,"May 17, 2018",,,-8665764.7115,90239.82660000026
+COLECU000003,Colombia,San Miguel,Ecuador,,Official,,,,,-8557790.9898,27972.203899998218
+DEUAUTc000001,Germany,Passau,Austria,Achleiten,Not Official,,"October 19, 2015",,,1496621.4243,6201370.7522
+DJISOMc000094,Djibouti,Loyado,Somalia,Lowyacado,Not Official,,"November 15, 2012",,,4814180.6963,1284704.2261999995
+DZANERc000001,Algeria,Ain Guezzam,Niger,Assamakka,Not Official,,"March 26, 2018",,,644627.3487999998,2206689.8577000014
+DZALBYc000001,Algeria,Debdeb,Libya,Ghardamis,Official,,"November 28, 2018",,,1051143.8680000007,3504722.533
+DZAMLIc000001,Algeria,Bordj Badji Mokhtar,Mali,El Khalil Bord,Not Official,,"March 26, 2018",,,116557.74080000073,2415002.226500001
+ECUPER000001,Ecuador,Tumbes,Peru,,Not Official,,"February 8, 2018",,,-8955653.0343,-397296.56379999965
+COLECU000004,Ecuador,Mataje,Colombia,Espriella,Official - Secondary,ayalacaj@unhcr.org,"January 4, 2022",core_edit,"April 19, 2022",-8761919.7213,151158.88659999892
+ECUPER000002,Ecuador,Huaquillas,Peru,Aguas Verdes,Official - Principal,ayalacaj@unhcr.org,"January 4, 2022",core_edit,"April 19, 2022",-8932622.7528,-387777.3929999992
+ECUPER000003,Ecuador,Macará,Peru,Piura,Official - Secondary,ayalacaj@unhcr.org,"January 4, 2022",core_edit,"April 19, 2022",-8901579.8661,-489466.39609999955
+EGYLBYc000013,Egypt,Saloum,Libya,Musa id,Not Official,,"November 15, 2012",,,2800722.8112999983,3707651.2967000008
+EGYSDNc000020,Egypt,Egyptian Arqeen,Sudan,Sudanese Arqeen,Official,,,UNHCR_WRITER,"June 21, 2023",3467713.098099999,2511984.0738999993
+EGYSDNc000021,Egypt,Qustol,Sudan,Ashkeet,Official,,,UNHCR_WRITER,"June 21, 2023",3508402.534400001,2512301.1928000003
+ETHSSDc000002,Ethiopia,Wanke,South Sudan,,Official,,"April 30, 2018",,,3797443.953499999,949875.1660000011
+ETHSOMc000088,Ethiopia,Feerfeer,Somalia,,Not Official,,"November 15, 2012",,,5026075.022700001,568480.5824999996
+ETHSOMc000093,Ethiopia,Korile,Somalia,,Not Official,,"November 15, 2012",,,5295097.166999999,893463.7606999986
+ETHSSDc000001,Ethiopia,Burbiey,South Sudan,,Official,,"April 30, 2018",,,3699206.3451999985,941179.5427000001
+ETHSOMc000087,Ethiopia,Dolo,Somalia,Doolow,Not Official,,"November 15, 2012",,,4681841.850400001,465228.96510000154
+ETHSOMc000089,Ethiopia,Geladi,Somalia,,Not Official,,"November 15, 2012",,,5209086.482999999,763121.432
+GINSLEc000001,Guinea,Madina-Oula,Sierra Leone,Sainya,Not Official,,"November 15, 2012",,,-1385469.0284999982,1104536.1884999983
+GRCMKDc000001,Greece,Idomeni,North Macedonia,Gevgelija,Not Official,,"September 1, 2015",,,2505664.8148000017,5031040.495999999
+HRVSVNc000001,Croatia,Harmica,Slovenia,Rigonce,Not Official,,"October 19, 2015",,,1746157.5326000005,5763011.501800001
+HRVSVNc000002,Croatia,Bregana,Slovenia,Obrežje,Official,,"October 19, 2015",,,1746361.4699000008,5754746.075900003
+HRVSVNc000003,Croatia,Mursko Središće,Slovenia,Petišovci,Official,,"October 19, 2015",,,1829981.1092000008,5862959.726499997
+HRVHUNc000001,Croatia,Botovo,Hungary,Zákány,Not Official,,"October 7, 2015",,,1886178.4164000005,5820019.880000003
+HRVSRBc000003,Croatia,Strošinci,Serbia,Jamena,Not Official,,"October 19, 2015",,,2124309.842799999,5606770.750200003
+HRVSRBc000002,Croatia,Tovarnik,Serbia,Šid,Not Official,,"October 7, 2015",,,2134901.894099999,5644065.035400003
+HRVSVNc000005,Croatia,Macelj,Slovenia,Gruškovje,Official,,"October 19, 2015",,,1765041.7710000016,5822595.7883
+HRVSRBc000001,Croatia,Bapska,Serbia,Berkasovo,Not Official,,"October 7, 2015",,,2146177.1733999997,5649104.054099999
+HRVHUNc000002,Croatia,Baranjsko Petrovo Selo,Hungary,Beremend,Official,,"October 7, 2015",,,2054321.163899999,5743248.684
+HRVSVNc000004,Croatia,Trnovec,Slovenia,Središće of Dravi ,Not Official,,"October 19, 2015",,,1815620.8948,5842019.797200002
+HTIDOMc000001,Haiti,Ouanaminthe,Dominican Republic,Dajabón,Official,,"January 27, 2016",,,-7983054.643300001,2219938.327799998
+HTIDOcM000003,Haiti,Malpasse,Dominican Republic,Jimani,Official,,"January 27, 2016",,,-8001644.998199999,2095103.1482000016
+HTIDOMc000004,Haiti,Anse-à-Pitres,Dominican Republic,PedePrnales,Official,,"January 27, 2016",,,-7987841.3814,2042403.5747999996
+HTIDOMc000002,Haiti,Belladère,Dominican Republic,Elías Piña,Official,,"January 27, 2016",,,-7983978.899599999,2140097.689199999
+HUNAUTc000001,Hungary,Hegyeshalom,Austria,Nickelsdorf,Not Official,,"October 19, 2015",,,1905046.2908000015,6094718.817000002
+HUNSRBc000001,Hungary,Tompa,Serbia,Kelebija,Official,,"September 1, 2015",,,2177075.281399999,5807861.2742
+HUNAUTc000002,Hungary,Szentgotthárd,Austria,Heiligenkreuz,Not Official,,"October 19, 2015",,,1811279.434700001,5935633.452500001
+HUNSVNc000001,Hungary,Rédics,Slovenia,Lendava,Official,,"October 20, 2015",,,1833988.6108000018,5879572.5239999965
+HUNHRVc000002,Hungary,Barcs,Croatia,Terezino Polje,Official,,"October 20, 2015",,,1943968.3715000004,5772340.3024
+HUNHRVc000001,Hungary,Letenye,Croatia,Goričan,Official,,"October 20, 2015",,,1859146.8156999983,5847859.3939
+HUNUKRc000004,Hungary,Beregsurány,Ukraine,Astei,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2512746.0062999986,6134298.4026999995
+HUNUKRc000007,Hungary,Tiszaszentmarton,Ukraine,Salovka,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2477560.227400001,6169388.701399997
+HUNUKRc000010,Hungary,Lonya,Ukraine,Horonhlab,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2484423.280699998,6159962.248000003
+HUNUKRc000009,Hungary,Barabas,Ukraine,Koson,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2498803.4153000005,6148213.3169
+HUNUKRc000002,Hungary,Záhony,Ukraine,Chop,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2468102.980300002,6175952.444300003
+HUNUKRc000006,Hungary,Tiszabecs,Ukraine,Vylok,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2541884.4285000004,6122375.072400004
+HUNUKRc000005,Hungary,Tiszabecs,Ukraine,Vylok,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2541992.817400001,6122469.0233
+HUNROUc000003,Hungary,Csengersima,Romania,Petea,Other,sacksfer@unhcr.org,"March 15, 2022",core_edit,"March 16, 2022",2535429.1207999997,6082388.849699996
+HUNROUc000002,Hungary,Artand,Romania,Borş,Other,sacksfer,"March 15, 2022",core_edit,"March 16, 2022",2425801.1744000018,5961449.958800003
+HUNROUc000005,Hungary,Nagykereki,Romania,Bors II,Other,sacksfer,"March 15, 2022",core_edit,"March 16, 2022",2433349.814199999,5974253.765100002
+HUNROUc000001,Hungary,Csanádpalota Autópálya Határátkelő,Romania,Nădlac II,Other,sacksfer,"March 15, 2022",core_edit,"March 16, 2022",2310927.2487999983,5814574.387999997
+HUNROUc000004,Hungary,Gyula,Romania,Vărșand,Other,sacksfer,"March 15, 2022",core_edit,"March 16, 2022",2374296.6944000013,5882040.963200003
+HUNROUc000006,Hungary,Vallaj,Romania,Urziceni,Other,sacksfer,"March 15, 2022",core_edit,"March 16, 2022",2492825.371100001,6064891.388700001
+HUNAUTc000003,Hungary,Sopron,Austria,Klingenbach,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1841798.383299999,6063924.9586
+HUNAUTc000004,Hungary,Kópháza,Austria,Deutschkreuz,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1850800.1772000007,6045020.377999999
+HUNAUTc000005,Hungary,Bucsu,Austria,Schachendorf,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1833432.260499999,5983867.842200004
+HUNAUTc000006,Hungary,Sopron,Austria,Loipersbach-Schattendorf,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1836114.7551999986,6056915.524700001
+HUNAUTc000007,Hungary,Rábafuzes,Austria,Heiligenkreuz im Lafnitztal,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1811883.7448000014,5939592.225100003
+HUNHRVc000003,Hungary,Udvar,Croatia,Dubosevica,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2077367.7883000001,5763823.8653
+HUNROUc000007,Hungary,Nyírábrány,Romania,Valea lui Mihai,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2452410.2249,6028274.359899998
+HUNROUc000008,Hungary,Lokosháza,Romania,Curtici,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2365848.8880000003,5846265.2348000035
+HUNSVKc000001,Hungary,Tornyosnémeti,Slovakia,Milhost,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2365939.4230000004,6195717.740599997
+HUNSVKc000002,Hungary,Somoskoújfalu,Slovakia,Siatorská Bukovinka,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2206590.9230999984,6134992.1021
+HUNSVKc000003,Hungary,Parassapuszta,Slovakia,Sahy,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2111457.403099999,6116342.5449
+HUNSVKc000004,Hungary,Esztergom,Slovakia,Stúrovo,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2085011.6937000006,6072932.829000004
+HUNSVKc000005,Hungary,Komárom,Slovakia,Komárno,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2017207.9001999982,6065579.277099997
+HUNSVKc000006,Hungary,Vámosszabadi,Slovakia,Medvedov,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1964972.4235999994,6072605.620899998
+HUNSVKc000007,Hungary,Rajka,Slovakia,Cunovo,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1911939.1268999986,6108980.744000003
+HUNSVKc000008,Hungary,Tornyosnémeti,Slovakia,Milhost,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2366800.3033999987,6195236.172499999
+HUNSVKc000009,Hungary,Szob,Slovakia,Cunovo,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",2098706.1873999983,6077564.565899998
+HUNSVNc000002,Hungary,Tornyiszentmiklós,Slovenia,Pince,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1839537.1171000004,5864044.0473000035
+HUNSVNc000003,Hungary,Bajánsenye,Slovenia,Hodos,Other,Lopesi,"May 16, 2022",core_edit,"May 17, 2022",1819029.9039999992,5912662.364200003
+IRNAFGc000016,Islamic Republic of Iran,Ghargharook,Afghanistan,Rubat                                                                                               ,Not Official,,"November 15, 2012",,,6778005.4727,3486670.7617999986
+IRNAFGc000021,Islamic Republic of Iran,Dogharoun,Afghanistan,Islam-Qala                                                                                          ,Official,,"November 15, 2012",,,6791027.273200002,4124282.9672000036
+IRNPAKc000005,Islamic Republic of Iran,Kalagan,Pakistan,,Not Official,,,,,6995762.079399999,3188999.9133
+IRNPAKc000004,Islamic Republic of Iran,Kuhak,Pakistan,Chadgi,Official,,,,,7048800.250799999,3141224.0018000007
+IRNPAKc000003,Islamic Republic of Iran,Pishin,Pakistan,Mand,Official,SHUBINAE,"July 6, 2021",,,6884776.5471,3010939.6259999983
+IRNAFGc000022,Islamic Republic of Iran,Mil 78 (Mahirood),Afghanistan,Abu Nasr-e-Farahi,Official,,,,,6775794.7656,3784652.997299999
+IRNPAKc000002,Islamic Republic of Iran,Rimdan,Pakistan,Gabd,Official,,,,,6863625.843800001,2922425.688099999
+IRNPAKc000006,Islamic Republic of Iran,Jalq,Pakistan,,Official,,,,,6994537.565000001,3210433.343600001
+IRNTURc000001,Islamic Republic of Iran,Razi,Turkey,Kapikoy Border Gate,Other,Lopesi,"September 17, 2021",,,4933786.645399999,4649895.870999999
+IRNPAKc000001,Islamic Republic of Iran,Mirjaveh,Pakistan,Taftan,Official,,,,,6851714.658300001,3372784.127700001
+IRNAFGc000018,Islamic Republic of Iran,Milak,Afghanistan,Nimroz (Zaranj),Official,,"November 15, 2012",,,6881899.736400001,3628604.980800003
+IRNIRQc000008,Islamic Republic of Iran,Omran,Iraq,Omran                                                                                               ,Not Official,,"November 15, 2012",,,5013829.8609,4355801.2729
+IRNIRQc000003,Islamic Republic of Iran,Shalamchah,Iraq,Shalamchah                                                                                          ,Not Official,,"November 15, 2012",,,5381426.5275,3537897.3731999993
+IRNIRQc000010,Islamic Republic of Iran,Khosravi,Iraq,Khosravi                                                                                            ,Not Official,,"November 15, 2012",,,5058357.6526999995,4076704.8906000033
+IRQSYRc000152,Iraq,Sahel,Syrian Arab Republic,,Not Official,,"June 18, 2014",,,4713573.689399999,4443408.445299998
+JORSYRc000082,Jordan,Ramtha,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4013178.975900002,3840216.205799997
+JORIRQc000012,Jordan,Karameh,Iraq,Trebil                                                                                              ,Not Official,,"November 15, 2012",,,4338564.627500001,3858793.981700003
+JORSYRc000080,Jordan,Tal Shihab,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4005052.644200001,3850525.583999999
+JORSYRc000081,Jordan,Tiba,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4039005.079999998,3825560.6319999993
+JORSYRc000078,Jordan,Al Naseeb,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4027768.285799999,3831982.1724999994
+JORSYRc000079,Jordan,Al Hayt,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,3995556.7487999983,3859388.234099999
+KAZUZBc000001,Kazakhstan,Tajen/Oazis,Uzbekistan,,Other,,,UNHCR_WRITER,"March 1, 2023",6233394.359700002,5605490.038800001
+KAZUZBc000002,Kazakhstan,Tselinnyi,Uzbekistan,,Other,,,UNHCR_WRITER,"March 1, 2023",7616268.0693,4954987.0211
+KAZUZBc000003,Kazakhstan,Syrdariya,Uzbekistan,,Other,,,UNHCR_WRITER,"March 1, 2023",7634011.6581000015,4981026.044299997
+KAZUZBc000004,Kazakhstan,Atameken/Makhtaral,Uzbekistan,,Other,,,UNHCR_WRITER,"March 1, 2023",7632250.887499999,4988313.112899996
+KAZUZBc000005,Kazakhstan,B. Konysbayev,Uzbekistan,,Other,,,UNHCR_WRITER,"March 1, 2023",7650700.2195000015,5007965.184100002
+KAZUZBc000008,Kazakhstan,Kazygurt,Uzbekistan,,Other,,,UNHCR_WRITER,"March 1, 2023",7726485.3598,5090012.519500002
+KAZKGZc000001,Kazakhstan,Aisha Bibi,Kyrgyzstan,,Other,,,UNHCR_WRITER,"March 1, 2023",7959693.149599999,5280500.854699999
+KAZKGZc000002,Kazakhstan,Sypatai Batyr/Chaldovar,Kyrgyzstan,,Other,,,UNHCR_WRITER,"March 1, 2023",8183190.5297,5285147.594400004
+KAZKGZc000003,Kazakhstan,Korday,Kyrgyzstan,,Other,,,UNHCR_WRITER,"March 1, 2023",8316262.563299999,5315989.919699997
+KAZKGZc000004,Kazakhstan,Karasu,Kyrgyzstan,,Other,,,UNHCR_WRITER,"March 1, 2023",8333862.733800001,5311432.619400002
+KAZKGZc000005,Kazakhstan,Aukhatty,Kyrgyzstan,,Other,,,UNHCR_WRITER,"March 1, 2023",8365562.988200001,5293988.891900003
+KAZKGZc000006,Kazakhstan,Sartobe,Kyrgyzstan,,Other,,,UNHCR_WRITER,"March 1, 2023",8380757.191500001,5290554.454999998
+KAZKGZc000007,Kazakhstan,Kegen,Kyrgyzstan,,Other,,,UNHCR_WRITER,"March 1, 2023",8814532.7658,5281819.362300001
+KAZCHNc000001,Kazakhstan,Kolzhat,China,,Other,,,UNHCR_WRITER,"March 1, 2023",8973444.822999999,5410233.2086
+KAZCHNc000002,Kazakhstan,Nur Zholy,China,,Other,,,UNHCR_WRITER,"March 1, 2023",8950057.0194,5498524.675300002
+KAZCHNc000003,Kazakhstan,Dostyk,China,,Other,,,UNHCR_WRITER,"March 1, 2023",9186067.484499998,5658557.616899997
+KAZCHNc000004,Kazakhstan,Bakhty,China,,Other,,,UNHCR_WRITER,"March 1, 2023",9214613.386300001,5889875.580499999
+KAZCHNc000005,Kazakhstan,Maykapchagay,China,,Other,,,UNHCR_WRITER,"March 1, 2023",9529854.393399999,6022989.581299998
+KAZRUSc000001,Kazakhstan,UBA,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",9122770.3099,6582814.1074
+KAZRUSc000002,Kazakhstan,Shemonaikha,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",9114885.472199999,6554745.627899997
+KAZRUSc000003,Kazakhstan,Zhezkent,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",9060864.644299999,6614102.710699998
+KAZRUSc000004,Kazakhstan,Auyl,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",9029665.1939,6658326.351999998
+KAZRUSc000005,Kazakhstan,Baytanat,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8927380.045699999,6595211.7183
+KAZRUSc000006,Kazakhstan,Koyanbay,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8842279.611299999,6727100.629900001
+KAZRUSc000007,Kazakhstan,Sharbakty,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8752206.4349,6896910.975199997
+KAZRUSc000008,Kazakhstan,Naiza,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8713375.906100001,6966250.9695999995
+KAZRUSc000009,Kazakhstan,Kosak,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8649926.455400001,7057063.821900003
+KAZRUSc000010,Kazakhstan,Mynkol,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8529226.089899998,7123886.194399998
+KAZRUSc000011,Kazakhstan,Urlytobe,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8354802.224800002,7131304.207400002
+KAZRUSc000012,Kazakhstan,Ertis,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8352961.5108,7131111.045900002
+KAZRUSc000013,Kazakhstan,Amangeldi,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8341244.002599999,7136489.0273
+KAZRUSc000014,Kazakhstan,Bidaik,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",8100260.596999999,7193284.761100002
+KAZRUSc000015,Kazakhstan,Valikhanovo,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7996532.601,6943590.0493
+KAZRUSc000016,Kazakhstan,Karakoga/Bulayevo,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7902168.022,7346637.228399999
+KAZRUSc000017,Kazakhstan,Kyzylzhar,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7719525.560400002,7431992.478299998
+KAZRUSc000018,Kazakhstan,Zhanazhol,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7599099.9043000005,7380036.336199999
+KAZRUSc000019,Kazakhstan,Mamlyukta,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7629625.6248,7349570.426299997
+KAZRUSc000020,Kazakhstan,Ubagan,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7327852.488499999,7293224.107799999
+KAZRUSc000021,Kazakhstan,Presnogorkovka,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7320082.438299999,7264937.173600003
+KAZRUSc000022,Kazakhstan,Akbalshyk,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",7212106.668200001,7238572.819700003
+KAZRUSc000023,Kazakhstan,Kayrak,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6861597.572099999,7170260.297499999
+KAZRUSc000024,Kazakhstan,Boskol,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6819324.223099999,7118359.187200002
+KAZRUSc000025,Kazakhstan,Magnay,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6834360.809,7148148.982799999
+KAZRUSc000026,Kazakhstan,Ayat,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6922466.571699999,6978754.264600001
+KAZRUSc000027,Kazakhstan,Aksu,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6966615.7423,6926469.640500002
+KAZRUSc000028,Kazakhstan,Zhelkuar,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6792700.232099999,6858192.504500002
+KAZRUSc000029,Kazakhstan,Kondybay,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6747717.066799998,6731744.375
+KAZRUSc000030,Kazakhstan,Karashatau,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6792914.916299999,6569237.586800002
+KAZRUSc000031,Kazakhstan,Alimbet/Kirgildy,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6509370.4048000015,6635548.892300002
+KAZRUSc000032,Kazakhstan,Zhaisan,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6250260.362799998,6596048.975100003
+KAZRUSc000033,Kazakhstan,Shyngyrlau,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",6020242.410700001,6636986.649899997
+KAZRUSc000034,Kazakhstan,Aksay,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5941731.912799999,6707923.752999999
+KAZRUSc000035,Kazakhstan,Shagan,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5738033.7826999985,6710250.931199998
+KAZRUSc000036,Kazakhstan,Syrym,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5677927.613899998,6740035.070299998
+KAZRUSc000037,Kazakhstan,Taskala,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5556065.3511000015,6656831.443300001
+KAZRUSc000038,Kazakhstan,Zhaiyk,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5571830.486900002,6655942.8627
+KAZRUSc000039,Kazakhstan,Zhanibek,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5211341.506499998,6348074.747000001
+KAZRUSc000040,Kazakhstan,Orda,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5205335.003400002,6242741.234499998
+KAZRUSc000041,Kazakhstan,Saikhin,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5206964.539799999,6255443.240199998
+KAZRUSc000042,Kazakhstan,Kurmangazy,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5428379.877999999,5869681.8510000035
+KAZRUSc000043,Kazakhstan,Ganyushkino,Russian Federation,,Other,,,UNHCR_WRITER,"March 1, 2023",5460425.4496,5886919.650899999
+KAZAZEc000001,Kazakhstan,Port Bautino,Azerbaijan,,Other,,,UNHCR_WRITER,"March 1, 2023",5593704.7128,5550892.1338
+KAZAZEc000002,Kazakhstan,Port Aktau,Azerbaijan,,Other,,,UNHCR_WRITER,"March 1, 2023",5701916.103,5404292.699500002
+KAZAZEc000003,Kazakhstan,Port Kuryk,Azerbaijan,,Other,,,UNHCR_WRITER,"March 1, 2023",5751352.062899999,5338312.881300002
+KAZTKMc000001,Kazakhstan,Temir Baba,Turkmenistan,,Other,,,UNHCR_WRITER,"March 1, 2023",5862226.8352999985,5149767.4174000025
+KAZTKMc000002,Kazakhstan,Bolashak,Turkmenistan,,Other,,,UNHCR_WRITER,"March 1, 2023",5970787.9355,5209496.643799998
+KENSOMc000090,Kenya,Amuma,Somalia,,Not Official,,"November 15, 2012",,,4563388.7973,-46157.24199999869
+KENSOMc000091,Kenya,Dhobley,Somalia,Liboi,Not Official,,"November 15, 2012",,,4576574.2392,45988.70659999922
+KENUGAc000004,Kenya,Lokitanyala,Uganda,Lokitanyala,Official,,"May 12, 2016",,,3887721.896499999,263190.6328999996
+KENSOMc000092,Kenya,Lamu,Somalia,,Not Official,,"November 15, 2012",,,4553713.005100001,-255005.12579999864
+KENSOMc000084,Kenya,Kolbio,Somalia,Diriye,Not Official,,"November 15, 2012",,,4586449.725200001,-127459.73270000145
+KENUGAc000002,Kenya,Malaba,Uganda,Malaba,Official,,"May 12, 2016",,,3815475.5469000004,70730.84849999845
+KENSOMc000086,Kenya,Mandera,Somalia,Bulahawa,Not Official,,"November 15, 2012",,,4661456.3706,438877.13699999824
+KENSOMc000085,Kenya,El Wak,Somalia,Ceel Waaq,Not Official,,"November 15, 2012",,,4562779.7773,311439.10489999875
+KENUGAc000005,Kenya,Lwakhakha,Uganda,Lwakhakha,Official,,"May 12, 2016",,,3827164.0934999995,87945.18430000171
+KENUGAc000003,Kenya,Suam,Uganda,Suam,Official,,"May 12, 2016",,,3866571.1931999996,135356.06929999962
+KENUGAc000001,Kenya,Busia,Uganda,Busia,Official,,"May 12, 2016",,,3798777.623300001,50428.25470000133
+KENSOMc000083,Kenya,Liboi,Somalia,Dhobley,Not Official,,"November 15, 2012",,,4558533.147999998,44528.15249999985
+KWTIRQc000011,Kuwait,Sabriyah,Iraq,Safwa                                                                                               ,Not Official,,"November 15, 2012",,,5311813.899099998,3515934.460699998
+LBNSYRc000074,Lebanon,Aarsal,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4073922.8828999996,4069656.396399997
+LBNSYRc000077,Lebanon,Al Dabbousieh,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4010183.0078000017,4114730.009999998
+LBNSYRc000072,Lebanon,Kneiseh,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4052269.469700001,4114664.9482000023
+LBNSYRc000068,Lebanon,Jussieh,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4068907.6147999987,4085694.4180999994
+LBNSYRc000069,Lebanon,Jisr Gharbi,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4041184.960499998,4118639.3680000007
+LBNSYRc000070,Lebanon,Noura & West Debebiyeh,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4026099.3616999984,4113619.811800003
+LBNSYRc000071,Lebanon,Khat el Petrol,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4044682.8282000013,4121964.091600001
+LBNSYRc000075,Lebanon,Al Bqayaa,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4049989.642099999,4114247.286399998
+LBNSYRc000076,Lebanon,Al Arida,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4007561.901299998,4115847.642099999
+LBNSYRc000073,Lebanon,Nsoub,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4053327.890999999,4104033.7475999966
+LBNSYRc000067,Lebanon,Yabous,Syrian Arab Republic,,Not Official,,"November 15, 2012",,,4004214.835900001,3986343.783
+MDAROUc000001,Republic of Moldova,Giurgiulesti (railroad),Romania,,Official,,,UNHCR_WRITER,"February 24, 2022",3140794.3847000003,5695822.2119999975
+MDAROUc000002,Republic of Moldova,Giurgiulesti / maritim Port,Romania,Galati,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",3139076.993900001,5696047.8882
+MDAROUc000009,Republic of Moldova,Giurgiulesti- Galati (road),Romania,,Official,,,UNHCR_WRITER,"February 24, 2022",3139051.3841999993,5696347.712200001
+MDAROUc000004,Republic of Moldova,Cahul,Romania,Oancea,Official,krolikie,"March 2, 2022",core_edit,"March 3, 2022",3131412.4893000014,5766968.2880000025
+MDAROUc000008,Republic of Moldova,Leuseni,Romania,Râșești,Official,krolikie,"March 2, 2022",core_edit,"March 3, 2022",3134986.9580999985,5908579.9021999985
+MDAROUc000005,Republic of Moldova,Ungheni,Romania,Ungheni,Official,krolikie,"March 2, 2022",core_edit,"March 3, 2022",3093417.8112000003,5974714.127300002
+MDAROUc000003,Republic of Moldova,Sculeni,Romania,Sculeni,Official,krolikie,"March 2, 2022",core_edit,"March 3, 2022",3073570.6719999984,5994248.476300001
+MDAROUc000006,Republic of Moldova,Costesti,Romania,Stânca,Official,krolikie,"March 2, 2022",core_edit,"March 3, 2022",3031157.821899999,6080493.965499997
+MDAROUc000007,Republic of Moldova,Lipcani,Romania,Rădăuți-Prut,Official,krolikie,"March 2, 2022",core_edit,"March 3, 2022",2983637.423700001,6149130.792599998
+MDAUKRc000003,Republic of Moldova,Palanca - Maiki - Udobnoe,Ukraine,Maiaky,Other,skah,"March 18, 2022",core_edit,"March 19, 2022",3353366.1043,5846626.5163
+MDAUKRc000013,Republic of Moldova,Caplani-Crutoiarovca,Ukraine,Krutoyarivka,Other,skah@unhcr.org,"March 18, 2022",core_edit,"March 19, 2022",3323400.8489000015,5840806.572899997
+MDAUKRc000011,Republic of Moldova,Săiți-Lesnoe,Ukraine,Lisne - Seits,Other,skah,"March 18, 2022",core_edit,"March 19, 2022",3268490.1242999993,5860265.189000003
+MDAUKRc000012,Republic of Moldova,Ceadîr-Lunga - Novîe Troianî,Ukraine,Novi Troyany,Other,skah@unhcr.org,"March 18, 2022",core_edit,"March 19, 2022",3211289.6779999994,5778719.496399999
+MDAUKRc000010,Republic of Moldova,Ceadîr-Lunga - Maloiaroslaveț,Ukraine,Maloyaroslavets,Other,skah@unhcr.org,"March 18, 2022",core_edit,"March 19, 2022",3227056.9384000003,5793685.584899999
+MDAUKRc000004,Republic of Moldova,Vulcănești-Vinogradovka,Ukraine,Vynohradivka,Other,skah@unhcr.org,"March 18, 2022",core_edit,"March 19, 2022",3173752.2760999985,5731986.174199998
+MDAUKRc000005,Republic of Moldova,Basarabeasca-Serpniovo,Ukraine,Serpneve 1 - Besarabyaska,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3226854.537799999,5832497.377599999
+MDAUKRc000014,Republic of Moldova,Briceni-Rossoșanî,Ukraine,Rososhany Brychen,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3008864.4640000015,6171164.1743
+MDAUKRc000006,Republic of Moldova,Cairaclia-Zaliznicinoe,Ukraine,Zaliznychne,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3185908.0397000015,5743395.527599998
+MDAUKRc000007,Republic of Moldova,Cișmichioi-Dolinscoe,Ukraine,Dolynske-cimichioi,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3155414.8872000016,5706915.321800001
+MDAUKRc000015,Republic of Moldova,Clocușna-Sokireanî,Ukraine,Sokyryany,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3046860.2831999995,6179147.929300003
+MDAUKRc000016,Republic of Moldova,Criva-Mamaliga,Ukraine,Mamalyha,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",2963470.2456,6150942.605899997
+MDAUKRc000017,Republic of Moldova,Grimăncăuți-Vașkivțî,Ukraine,Vashkivtsi,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3017943.7522,6173745.908399999
+MDAUKRc000018,Republic of Moldova,Larga-Kelmențî,Ukraine,Kelmentsy-Larga,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",2987853.1094999984,6176791.779200003
+MDAUKRc000019,Republic of Moldova,Medveja-Zelionaia,Ukraine,Zelena,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",2980813.9838999994,6167353.5942
+MDAUKRc000008,Republic of Moldova,Mirnoe-Tabaki,Ukraine,Tabaky - Myrne,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3181717.0348000005,5737997.027400002
+MDAUKRc000020,Republic of Moldova,Ocnița-Sokireani,Ukraine,Sokyryany,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3057681.8988999985,6179878.696599998
+MDAUKRc000021,Republic of Moldova,Otaci-Moghileov-Podolsk,Ukraine,"Mohyliv-Podil's'kyi,",Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3093427.2694999985,6180873.201700002
+MDAUKRc000009,Republic of Moldova,Pervomaisc-Kuciurgan,Ukraine,Kuchurhan,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3336041.9021999985,5899427.442900002
+MDAUKRc000022,Republic of Moldova,Unguri-Bronița,Ukraine,Bronnytsya,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3103112.482900001,6173432.982699998
+MDAUKRc000023,Republic of Moldova,Giurgiulești-Reni,Ukraine,Punk Propusku Reni,Other,skah,"March 20, 2022",core_edit,"March 21, 2022",3141648.6985,5697437.798199996
+MEXUSAc000006,Mexico,Nuevo laredo,United States of America,Laredo,Official,,"August 15, 2019",,,-11081856.0379,3186078.5760999992
+MEXUSAc000003,Mexico,Mexicali,United States of America,Calexico,Official,,"August 15, 2019",,,-12855393.2028,3849193.8901000023
+MEXUSAc000002,Mexico,Ciudad Juarez,United States of America,ElPaso,Official,,"August 15, 2019",,,-11854634.5362,3722990.6389999986
+MEXUSAc000004,Mexico,Heroica Nogales,United States of America,Nogales,Official,,"August 15, 2019",,,-12350340.4352,3672422.8721999973
+MEXUSAc000007,Mexico,Tijuana,United States of America,San Ysidro,Official,,"August 15, 2019",,,-13033502.1458,3829382.986299999
+MEXUSAc000005,Mexico,Matamoros,United States of America,Brownsville,Official,,"August 15, 2019",,,-10853650.6289,2984223.8170999996
+MEXUSAc000001,Mexico,Reynosa,United States of America,McAllen,Official,,"August 15, 2019",,,-10942709.4148,3008992.1625999995
+MLIMRTc000001,Mali,Fassala,Mauritania,Fassala,Official,,"February 14, 2019",,,-611929.9200999998,1752594.3524000011
+NAMAGOc000096,Namibia,Katwitwi,Angola,,Official,,"November 15, 2012",,,2049751.3066000007,-1967055.3301
+NAMAGOc000099,Namibia,Nankudu,Angola,,Official,,"November 15, 2012",,,2320359.936900001,-2042235.574099999
+NAMAGOc000097,Namibia,Nkurekuru,Angola,,Official,,"November 15, 2012",,,2063539.8737999983,-1982919.9006999992
+NAMAGOc000098,Namibia,Kahenge,Angola,,Official,,"November 15, 2012",,,2331574.489500001,-2035734.3845000006
+NERMLIc000061,Niger,Tankademi,Mali,Tamalate,Not Official,,"November 15, 2012",,,433771.17909999937,1775010.2934000008
+NERMLIc000059,Niger,Sine Godar,Mali,Anderamboukane,Not Official,,"November 15, 2012",,,336906.6123000011,1736345.4710999988
+NERMLIc000057,Niger,Zongodey,Mali,Akabar,Not Official,,"November 15, 2012",,,228171.47569999844,1725958.0722000003
+NERMLIc000058,Niger,Tiapsa Tondi,Mali,,Not Official,,"November 15, 2012",,,293143.2567999996,1731364.4323999994
+NERMLIc000055,Niger,Sebbu,Burkina Faso,,Not Official,,"November 15, 2012",,,36504.9338000007,1615502.2091999985
+NERMLIc000056,Niger,Koutougou,Mali,Labbezenga,Not Official,,"November 15, 2012",,,85358.8236999996,1685221.5172000006
+PAKAFGc000040,Pakistan,Chaman,Afghanistan,Boldak                                                                                              ,Official,,"November 15, 2012",,,7395898.515999999,3626889.150200002
+PAKAFGc000033,Pakistan,Torkham,Afghanistan,Torkham                                                                                             ,Official,,"November 15, 2012",,,7913855.690699998,4045423.7902999967
+PAKAFGc000030,Pakistan,Ghashi,Afghanistan,Chegai                                                                                              ,Not Official,,"November 15, 2012",,,7952836.646899998,4153862.241899997
+PAKAFGc000045,Pakistan,Anjini,Afghanistan,Maruf                                                                                               ,Not Official,,"November 15, 2012",,,7545851.5689,3677696.6043
+PAKAFGc000035,Pakistan,Parachinar,Afghanistan,Dand Wa Patan                                                                                       ,Not Official,,"November 15, 2012",,,7784518.891800001,4007138.6890999973
+PAKAFGc000039,Pakistan,Sobai Hadda,Afghanistan,Sobai Pass                                                                                          ,Not Official,,"November 15, 2012",,,7898661.436000001,4030857.708899997
+PAKAFGc000029,Pakistan,Chitral,Afghanistan,Barikot                                                                                             ,Not Official,,"November 15, 2012",,,7965695.156800002,4207097.393100001
+PAKAFGc000041,Pakistan,Choto,Afghanistan,Choto                                                                                               ,Not Official,,"November 15, 2012",,,7123140.533300001,3430267.5603
+PAKAFGc000043,Pakistan,Badini,Afghanistan,Darwazgai                                                                                           ,Not Official,,"November 15, 2012",,,7568487.942000002,3717674.819799997
+PAKAFGc000032,Pakistan,Gandav,Afghanistan,Mazari China                                                                                        ,Not Official,,"November 15, 2012",,,7908971.295000002,4086772.3158000037
+PAKAFGc000038,Pakistan,Miran Shah,Afghanistan,Gulam Khan                                                                                          ,Not Official,,"November 15, 2012",,,7791160.4441,3913897.2699000016
+PAKAFGc000046,Pakistan,Serlat,Afghanistan,Serlat                                                                                              ,Not Official,,"November 15, 2012",,,7379503.620999999,3528514.409199998
+PAKAFGc000044,Pakistan,Qamarddin Kariz,Afghanistan,Darwazgai                                                                                           ,Not Official,,"November 15, 2012",,,7566011.426199999,3716128.1646
+PAKAFGc000034,Pakistan,Parachinar,Afghanistan,Jaji                                                                                                ,Not Official,,"November 15, 2012",,,7778533.688000001,4023595.074000001
+PAKAFGc000037,Pakistan,Alisai,Afghanistan,Babrak Tana                                                                                         ,Not Official,,"November 15, 2012",,,7820352.528999999,3953930.408200003
+PAKAFGc000036,Pakistan,Alisai,Afghanistan,Jaj Maidan                                                                                          ,Not Official,,"November 15, 2012",,,7810930.6521000005,3981158.3363000005
+PAKAFGc000031,Pakistan,Nawa Pass ,Afghanistan,Nawa Pass                                                                                           ,Official,,"November 15, 2012",,,7924346.3156,4128594.1824999973
+PERCHL000001,Peru,Arica,Chile,Tacna,Not Official,,"February 8, 2018",,,-7828327.2302,-2073816.3605000004
+POLRUSc000001,Poland,Bezledy,Russian Federation,Bagrationowsk,Official,,,UNHCR_WRITER,"November 23, 2021",2299877.7754999995,7240871.634499997
+POLBLRc000001,Poland,Bobrowniki,Belarus,Bierestowica,Official,,,UNHCR_WRITER,"November 23, 2021",2659520.217700001,7005932.4848000035
+POLRUSc000002,Poland,Braniewo,Russian Federation,Mamonowo,Official,,,UNHCR_WRITER,"November 23, 2021",2212318.8489999995,7253285.862599999
+POLUKRc000001,Poland,Dorohusk ,Ukraine,Jagodzin,Official,,,UNHCR_WRITER,"November 23, 2021",2650268.900899999,6654122.8662
+POLRUSc000003,Poland,Gołdap,Russian Federation,Gusiew,Official,,,UNHCR_WRITER,"November 23, 2021",2482198.0315999985,7235048.495099999
+POLRUSc000004,Poland,Gronowo,Russian Federation,Mamonowo,Official,,,UNHCR_WRITER,"November 23, 2021",2214942.5868999995,7252805.743500002
+POLBLRc000002,Poland,Kukuryki,Belarus,Kozłowiczy ,Official,,,UNHCR_WRITER,"November 23, 2021",2623292.7547999993,6821127.504199997
+POLBLRc000003,Poland,Kuźnica Białostocka,Belarus,Bruzgi,Official,,,UNHCR_WRITER,"November 23, 2021",2633514.348299999,7079922.509400003
+POLBLRc000004,Poland,Kuźnica Białostocka,Belarus,Grodno,Official,,,UNHCR_WRITER,"November 23, 2021",2632871.6526000015,7084350.041500002
+POLBLRc000005,Poland,Terespol,Belarus,Brześć,Official,,,UNHCR_WRITER,"November 23, 2021",2633051.4910999984,6813242.574900001
+POLBLRc000006,Poland,Terespol,Belarus,Brześć,Official,,,UNHCR_WRITER,"November 23, 2021",2630086.0940999985,6816166.581799999
+POLBLRc000007,Poland,Domachevo,Belarus,Sławatycze,Official,,,UNHCR_WRITER,"February 24, 2022",2628216.1083000004,6758674.908
+POLBLRc000008,Poland,Połowce,Belarus,Peschatka,Official,,,UNHCR_WRITER,"February 24, 2022",2601051.035599999,6885456.125100002
+POLBLRc000009,Poland,Terespol,Belarus,Brest,Official,,,UNHCR_WRITER,"February 24, 2022",2633073.3115999997,6813226.904200003
+POLUKRc000007,Poland,Medyka,Ukraine,Szeginie ,Official,,,UNHCR_WRITER,"February 24, 2022",2554488.3095000014,6411661.2456
+POLUKRc000006,Poland,Korczowa,Ukraine,Krakowiec ,Official,,,UNHCR_WRITER,"February 24, 2022",2573026.1174000017,6438483.9494
+POLUKRc000003,Poland,Hrebenne ,Ukraine,Rawa Ruska ,Official,,,UNHCR_WRITER,"February 24, 2022",2625860.7032999992,6493958.094899997
+POLUKRc000014,Poland,Zosin,Ukraine,Ustyluh,Official,,,UNHCR_WRITER,"February 24, 2022",2686660.844700001,6596436.985299997
+POLUKRc000015,Poland,Dołhobyczów,Ukraine,Uhryniv,Official,,,UNHCR_WRITER,"February 24, 2022",2680980.656300001,6547075.600199997
+POLUKRc000016,Poland,Budomierz,Ukraine,Hrushiv,Official,,,UNHCR_WRITER,"February 24, 2022",2591535.5568000004,6463076.759400003
+POLUKRc000017,Poland,Krościenko,Ukraine,Smilnytsia,Official,,,UNHCR_WRITER,"February 24, 2022",2527097.9356000014,6356969.747299999
+ROUUKRc000001,Romania,Vicovu de Sus,Ukraine,Krasnoilsk,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2852094.409699999,6098025.428800002
+ROUUKRc000004,Romania,Halmeu,Ukraine,Dyakove,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2560592.9684999995,6106735.718800001
+ROUUKRc000007,Romania,Sighetu Marmatiei,Ukraine,Solotvyno,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2657877.582899999,6096723.4673999995
+ROUUKRc000005,Romania,Siret,Ukraine,Terebleche,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2901185.2760999985,6104769.804099999
+RWAUGAc000144,Rwanda,Cyanika,Uganda,,Official,,"February 19, 2018",,,3310985.8561000004,-149813.07290000096
+SAUIRQc000004,Saudi Arabia,Ar'ar,Iraq,Ar'ar                                                                                               ,Not Official,,"November 15, 2012",,,4611158.7782000005,3660683.1767999977
+SAUYEMc000173,Saudi Arabia,Al-Wadiah,Yemen,Al-Wadiah,Official,,"April 20, 2015",,,5241310.546599999,1920623.827399999
+SAUYEMc000174,Saudi Arabia,Al-Khadra,Yemen,,Official,,"April 20, 2015",,,4977957.4934,1972337.7184999995
+SAUYEMc000175,Saudi Arabia,Al-Twal,Yemen,,Official,,"April 20, 2015",,,4783441.743299998,1864371.767099999
+SAUIRQc000005,Saudi Arabia,Rafha,Iraq,Rafha                                                                                               ,Not Official,,"November 15, 2012",,,4855793.351300001,3488273.181400001
+SDNETHc000138,Sudan,Gallabat,Ethiopia,Metema,Official,orand@unhcr.org,"June 28, 2021",,,4024231.8748000003,1452982.1805999987
+SDNETHc000132,Sudan,Hamdayet,Ethiopia,,Official,orand@unhcr.org,"May 31, 2021",,,4069367.648400001,1604327.9670000002
+SDNETHc000131,Sudan,Yabus,Ethiopia,,Not Official,,"June 4, 2014",,,3805623.772,1104119.0276000015
+SDNETHc000130,Sudan,Bamza,Ethiopia,Bameza                                                                                              ,Not Official,,"June 4, 2014",,,3895435.6515000015,1262256.566300001
+SDNSSDc000136,Sudan,Joda,South Sudan,Joda      ,Not Official,,"June 4, 2014",,,3647173.4879,1372655.1220999993
+SDNSSDc000137,Sudan,Al Kueik,South Sudan,Al Kueik                                                                                ,Not Official,,"June 4, 2014",,,3616390.865699999,1340541.6887999997
+SDNETHc000129,Sudan,Gengen,Ethiopia,,Not Official,,"June 4, 2014",,,3872186.932,1199116.0932999998
+SDNETHc000128,Sudan,Gizen,Ethiopia,Geissan                                                                                             ,Not Official,,"June 4, 2014",,,3883610.3154999986,1209557.2580999993
+TCDSDNc000051,Sudan,Adré,Rep. of Chad,, ,,,UNHCR_WRITER,"May 2, 2023",2467582.4169999994,1515006.086100001
+TCDSDNc000052,Sudan,Borota,Rep. of Chad,, ,,,UNHCR_WRITER,"May 2, 2023",2432330.8737999983,1459732.2718999982
+TCDSDNc000053,Sudan,Dizé Birte,Rep. of Chad,, ,,,UNHCR_WRITER,"May 2, 2023",2460194.1424000002,1541608.120000001
+TCDSDNc000054,Sudan,Midjiguilta,Rep. of Chad,, ,,,UNHCR_WRITER,"May 2, 2023",2460160.7465000004,1537529.1323999986
+TCDSDNc000055,Sudan,Ardebé,Rep. of Chad,, ,,,UNHCR_WRITER,"May 2, 2023",2137334.223200001,1560834.6917000003
+EGYSDNc000014,Sudan,Arkien,Egypt,,Official,,,UNHCR_WRITER,"May 2, 2023",3467730.1556,2632582.1955000013
+EGYSDNc000015,Sudan,Aswan,Egypt,,Official,,,UNHCR_WRITER,"May 2, 2023",3662557.0755999982,2765858.0419999994
+EGYSDNc000016,Sudan,Edfu,Egypt,,Official,,,UNHCR_WRITER,"May 2, 2023",3659278.716600001,2872756.527800001
+EGYSDNc000017,Sudan,Cairo Airport,Egypt,, ,,,UNHCR_WRITER,"May 2, 2023",3495354.087299999,3518012.447300002
+EGYSDNc000018,Sudan,Khartoum airport,Egypt,, ,,,UNHCR_WRITER,"May 2, 2023",3621472.3911999986,1752679.8585
+EGYSDNc000019,Sudan,Shalateen,Egypt,, ,,,UNHCR_WRITER,"May 2, 2023",3954408.9505999982,2567948.7126
+SDNEGYc000002,Sudan,Ashkeet,Egypt,Qustol,Official,,,UNHCR_WRITER,"June 21, 2023",3507855.328499999,2511249.0769999996
+SDNEGYc000001,Sudan,Sudanese Arqeen,Egypt,Egyptian Arqeen,Official,,"June 21, 2023",UNHCR_WRITER,"June 21, 2023",3467678.8718999997,2511249.0769999996
+SRBBGRc000001,Serbia,Mokranje,Bulgaria,Bregovo,Official,,"September 1, 2015",,,2518792.6110000014,5489315.444600001
+SRBHUNc000001,Serbia,Bački Vinogradi,Hungary,Asotthalom,Official,,"September 1, 2015",,,2209222.4580000006,5803190.325900003
+SRBBGRc000010,Serbia,Radejna,Bulgaria,,Not Official,,"October 20, 2015",,,2541423.974800002,5319322.683200002
+SRBBGRc000003,Serbia,Vratarnica,Bulgaria,Rakovitsa,Not Official,,"October 20, 2015",,,2483811.9081999995,5431922.114600003
+SRBHUNc000002,Serbia,Horgoš,Hungary,Roszke,Official,,"September 1, 2015",,,2224361.018100001,5808437.579700001
+SRBBGRc000008,Serbia,Donja Nevlja,Bulgaria,,Not Official,,"October 20, 2015",,,2534410.846900001,5300692.262599997
+SRBBGRc000009,Serbia,Halovo,Bulgaria,,Not Official,,"October 20, 2015",,,2493690.399799999,5460955.462800004
+SRBBGRc000005,Serbia,Vlkovija,Bulgaria,,Not Official,,"October 20, 2015",,,2551220.09,5325566.183700003
+SRBHRVc000000,Serbia,Batrovci,Croatia,Bajakovo,Official,,"November 13, 2015",,,2129080.2168999985,5627505.7936
+SRBBGRc000011,Serbia,Vrška Čuka,Bulgaria,Vrashka Chuka ,Official,,"February 4, 2016",,,2491340.4453000017,5442104.243799999
+SRBBGRc000002,Serbia,Ribarci,Bulgaria,Otomanci,Official,,"September 1, 2015",,,2507738.696899999,5223735.643299997
+SRBBGRc000007,Serbia,Dimitrovgrad,Bulgaria,Dragoman,Official,,"October 22, 2015",,,2540576.610800002,5312276.2722999975
+SRBBGRc000006,Serbia,Senokos,Bulgaria,,Not Official,,"October 20, 2015",,,2552072.1294,5333763.2962
+SRBBGRc000004,Serbia,Selacka,Bulgaria,,Not Official,,"October 20, 2015",,,2484984.9930000007,5419145.885399997
+SRBMKDc000002,Serbia,Miratovac,North Macedonia,Tabanovce,Official,,"September 1, 2015",,,2411734.3189999983,5197462.837300003
+SSDETHc000126,South Sudan,Maiwut,Ethiopia,Pagak,Not Official,,"June 4, 2014",,,3785283.3500000015,944500.2664999999
+SSDKENc000135,South Sudan,Narus,Kenya,Nadapal,Not Official,,"June 4, 2014",,,3811624.885499999,498575.6469999999
+SSDETHc000124,South Sudan,Raad,Ethiopia,,Not Official,,"June 4, 2014",,,3870561.649599999,736900.7492999993
+SSDUGAc000133,South Sudan,Elegu,Uganda,Nimule,Official,,"February 19, 2018",,,3570101.4518,397395.38430000097
+SSDETHc000125,South Sudan,Akobo-Tiergol,Ethiopia,,Not Official,,"June 4, 2014",,,3678338.6261,873024.9811999984
+SDNETHc000139,South Sudan,Kumruk,Ethiopia,,Official,,,UNHCR_WRITER,"May 2, 2023",3817465.9393999986,1181939.3148000017
+SDNETHc000140,South Sudan,Mameza,Ethiopia,,Official,,,UNHCR_WRITER,"May 2, 2023",3905467.3365,1258581.0857999995
+SSDSDNc000138,South Sudan,Kiir Adem,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2991213.7168999985,1066967.6508000009
+SSDSDNc000139,South Sudan,Majokyinthiu,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3115362.779100001,1056688.9715000018
+SSDSDNc000140,South Sudan,Shatta,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3770391.1532000005,1114855.9136999995
+SSDSDNc000141,South Sudan,Panakuach,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3289972.9662999995,1087526.4987999983
+SSDSDNc000142,South Sudan,Timsha,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2737013.4332999997,1033427.1963
+SSDSDNc000143,South Sudan,Bormadina,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2766498.6268999986,1103237.7019999996
+SSDSDNc000144,South Sudan,Kaka,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3575116.7287999988,1201391.9858000018
+SSDSDNc000145,South Sudan,Tonga,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3457642.3834000006,1087462.122200001
+SSDSDNc000146,South Sudan,Abroch,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3532953.3585,1146924.8354999982
+SSDSDNc000147,South Sudan,Elfoj,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3729504.6174000017,1188566.5368999988
+SSDSDNc000148,South Sudan,Yabous,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3763375.7989000008,1150920.6031000018
+SSDSDNc000149,South Sudan,El kuek,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3201302.539099999,1056738.6257999986
+SSDSDNc000150,South Sudan,Jau,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3326683.908,1147270.9970000014
+SSDSDNc000151,South Sudan,El Fau,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",3523747.2366000004,1136438.6253999993
+SVKUKRc000006,Slovakia,Vyšné Nemecké,Ukraine,Uzhorod,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2478557.516899999,6216512.622000001
+SVKUKRc000007,Slovakia,Veľké Slemence,Ukraine,Mali Selmentsi,Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2466926.0549999997,6192726.784500003
+SVKUKRc000001,Slovakia,Čierna nad Tisou,Ukraine,Chop (Strazh),Official,leo,"February 23, 2022",UNHCR_WRITER,"February 24, 2022",2464523.913400002,6179598.139600001
+SVKUKRc000005,Slovakia,Ubľa,Ukraine,Malyj Bereznyj,Official,,,UNHCR_WRITER,"February 24, 2022",2495788.1043,6255216.559199996
+SVNAUTc000001,Slovenia,Sentilj,Austria,Spielfeld,Not Official,,"October 19, 2015",,,1740702.8775000013,5894145.052199997
+SVNAUTc000002,Slovenia,Gornja Radgona,Austria,Bad Radkersburg,Not Official,,"October 19, 2015",,,1779887.3383000009,5891575.048500001
+SVNHRVc000000,Slovenia,Dobova,Croatia,Harmica,Not Official,,"November 5, 2015",,,1743681.0078999996,5763698.7817
+SVNAUTc000003,Slovenia,Jesenice ,Austria,St. Jakob im Rosental ,Official,,"November 26, 2015",,,1561038.2287999988,5864074.789800003
+SYRIRQc000006,Syrian Arab Republic,Abu Kamal,Iraq,Al Qahim                                                                                            ,Not Official,,"November 15, 2012",,,4561703.763099998,4083421.683799997
+SYRIRQc000002,Syrian Arab Republic,Al Ya'rubiyah,Iraq,Al Ya'rubiyah                                                                                       ,Not Official,,"November 15, 2012",,,4683818.9058,4412193.9243
+SYRIRQc000009,Syrian Arab Republic,Al Tanaf,Iraq,Al Waleed                                                                                           ,Not Official,,"November 15, 2012",,,4334275.5988,3953515.9323000014
+TCDCAFc000172,Rep. of Chad,Sido,Central African Republic,Sido,Not Official,,"June 2, 2014",,,2082253.3436000012,921078.6532000005
+TCDTCDc000102,Rep. of Chad,Bitoye,Central African Republic,Sourou,Official,,"June 2, 2014",,,1730366.2589999996,838005.7615999989
+TCDNGAc000103,Rep. of Chad,Tchoukoutalia,Nigeria,Tchoukoutalia,Not Official,,"February 20, 2015",,,1551391.8383000009,1537414.563000001
+TCDTCDc000101,Rep. of Chad,Bekoninga,Rep. of Chad,Bembere,Not Official,,"June 2, 2014",,,1854551.7875999995,859003.0333999991
+TCDSDNc000001,Rep. of Chad,Kariari,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2565991.6297999993,1770336.7705000006
+TCDSDNc000002,Rep. of Chad,Bahai,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2550884.127799999,1752344.4221
+TCDSDNc000003,Rep. of Chad,Bamina,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2558533.4466000013,1721514.8753999993
+TCDSDNc000004,Rep. of Chad,Tine,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2537357.4738,1692350.0256000012
+TCDSDNc000005,Rep. of Chad,Koulbous,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2498966.9437000006,1616165.2633999996
+TCDSDNc000006,Rep. of Chad,Birak,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2496493.2019000016,1600040.6246999986
+TCDSDNc000007,Rep. of Chad,Koufroun,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2462046.4987000003,1535783.1477000006
+TCDSDNc000008,Rep. of Chad,Hile Moursal,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2469249.982999999,1526168.5036999993
+TCDSDNc000009,Rep. of Chad,Hileta,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2469310.206799999,1524141.3187999986
+TCDSDNc000010,Rep. of Chad,Agang,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2472652.5744999982,1521053.7650999986
+TCDSDNc000011,Rep. of Chad,Ardebe,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2472690.757100001,1515787.9591999985
+TCDSDNc000012,Rep. of Chad,Adre,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2472129.3729000017,1511666.3770000003
+TCDSDNc000013,Rep. of Chad,Mamata,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2479645.664900001,1502268.8150999993
+TCDSDNc000014,Rep. of Chad,Wandalou,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2479589.782499999,1499995.0086000003
+TCDSDNc000015,Rep. of Chad,Absogo,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2477561.096099999,1498776.0883000009
+TCDSDNc000016,Rep. of Chad,Yakata,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2476349.2721999995,1497992.6394999996
+TCDSDNc000017,Rep. of Chad,Tabari,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2469436.9996999986,1499747.4217999987
+TCDSDNc000018,Rep. of Chad,Tougoul-Tougli,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2474824.083799999,1495656.2677999996
+TCDSDNc000019,Rep. of Chad,Ferrik Tchoyo,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2473491.2556000017,1494537.6292999983
+TCDSDNc000020,Rep. of Chad,Nderta,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2473314.2575999983,1493714.0364999995
+TCDSDNc000021,Rep. of Chad,Tarchana,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2471115.6975999996,1493018.5771000013
+TCDSDNc000022,Rep. of Chad,Abelouk,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2468695.723200001,1489645.388799999
+TCDSDNc000023,Rep. of Chad,Andabarta,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2465617.2939999998,1484805.1231999993
+TCDSDNc000024,Rep. of Chad,Tcharkerie,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2464875.3495999984,1483613.8548999988
+TCDSDNc000025,Rep. of Chad,Boata,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2464814.235199999,1482859.3044999987
+TCDSDNc000026,Rep. of Chad,Bahou,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2461130.339299999,1480536.4373000003
+TCDSDNc000027,Rep. of Chad,Goungour,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2454594.772,1480685.0694000013
+TCDSDNc000028,Rep. of Chad,Adjine,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2448401.697999999,1476880.3359999992
+TCDSDNc000029,Rep. of Chad,Katarfa,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2445318.5188000016,1471159.3451000005
+TCDSDNc000030,Rep. of Chad,Ade,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2437223.3654999994,1421311.8169
+TCDSDNc000031,Rep. of Chad,Koumou,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2464058.5984999985,1417074.2980000004
+TCDSDNc000032,Rep. of Chad,Konoye,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2469174.063099999,1407116.1579000019
+TCDSDNc000033,Rep. of Chad,Moudeina,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2486163.6437,1410695.3924999982
+TCDSDNc000034,Rep. of Chad,Awin Rado,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",2493280.298799999,1377519.4671999998
+TCDSDNc000035,Rep. of Chad,Daguessa,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2495364.4222999997,1350536.0023999996
+TCDSDNc000036,Rep. of Chad,Sarafborgou,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2492914.0577000007,1301930.3403999992
+TCDSDNc000037,Rep. of Chad,Haraza,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2540181.537999999,1262250.8872999996
+TCDSDNc000038,Rep. of Chad,Kalma,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2553523.6242000014,1247760.7795999981
+TCDSDNc000039,Rep. of Chad,Tissi,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",2544919.406800002,1225926.9074999988
+TCDSDNc000040,Rep. of Chad,Mashi Bargo,Sudan,,Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000041,Rep. of Chad,Um Dukum,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000042,Rep. of Chad,Beida,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000043,Rep. of Chad,Werwerta,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000044,Rep. of Chad,Andjemena,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000045,Rep. of Chad,Dize Birte,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000046,Rep. of Chad,Midjiguilta,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000047,Rep. of Chad,Tandousssa,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000048,Rep. of Chad,Talassa,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000049,Rep. of Chad,Andressa,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000050,Rep. of Chad,Hile hissein,Sudan,,Not Official,,,UNHCR_WRITER,"May 1, 2023",NaN,NaN
+TCDSDNc000057,Rep. of Chad,Hiléta,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2469944.6165999994,1526256.6854000017
+TCDSDNc000059,Rep. of Chad,Werwerta,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2476215.2435000017,1504095.3874999993
+TCDSDNc000062,Rep. of Chad,Birkandji,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2426764.8993000016,1440696.9803000018
+TCDSDNc000063,Rep. of Chad,Amdjerema,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2489845.9811999984,1383667.5377999991
+TCDSDNc000064,Rep. of Chad,Dogdoré,Sudan,,Not Official,,,UNHCR_WRITER,"May 2, 2023",2480569.2826999985,1353296.4820999987
+THAMMRc000066,Thailand,Ban Perng Kel,Myanmar,,Not Official,,"November 15, 2012",,,10975433.8664,1783540.0001999997
+THAMMRc000065,Thailand,Mae Sot,Myanmar,Myawaddy,Official,,"November 15, 2012",,,10967196.2463,1884187.7833999991
+THAMMRc000063,Thailand,Ban Valley,Myanmar,,Not Official,,"November 15, 2012",,,10989014.848700002,1838098.989500001
+THAMMRc000064,Thailand,Ban Wang Pha,Myanmar,,Not Official,,"November 15, 2012",,,10965081.167100001,1902673.2465000004
+THAMMRc000062,Thailand,Ban Tha Song Yang,Myanmar,,Not Official,,"November 15, 2012",,,10900070.593400002,1986578.0084000006
+TJKAFGc000028,Tajikistan,Eshkashim,Afghanistan,Ishkashim                                                                                           ,Official,,"November 15, 2012",,,7966382.5636,4399243.0918999985
+TJKAFGc000026,Tajikistan,Kurgan Tube,Afghanistan,Ai Khanum                                                                                           ,Not Official,,"November 15, 2012",,,7718644.3407999985,4458248.965400003
+TJKAFGc000025,Tajikistan,Nijni Pianj,Afghanistan,Sherkhan-Bandar                                                                                     ,Official,,"November 15, 2012",,,7637138.4494,4466712.007399999
+TJKAFGc000027,Tajikistan,Kalaikumb,Afghanistan,Nursai                                                                                              ,Not Official,,"November 15, 2012",,,7877809.202500001,4644377.9014
+TKMAFGc000047,Turkmenistan,Serkhetabad,Afghanistan,Turgundi                                                                                            ,Official,,"November 15, 2012",,,6932699.4855,4200645.195200004
+TKMAFGc000022,Turkmenistan,Durdive,Afghanistan,Mori Chaq                                                                                           ,Not Official,,"November 15, 2012",,,7026254.732099999,4280888.423100002
+TKMAFGc000048,Turkmenistan,Imamnazar,Afghanistan,Sultan-i-Rakhat                                                                                     ,Official,,"November 15, 2012",,,7263637.730900001,4472538.874799997
+TUNDZAc000004,Tunisia,Hazoua,Algeria,Teleb Larbi,Official,,"November 28, 2018",,,844449.1744000018,3993046.4365999997
+TUNDZAc000002,Tunisia,Sakiet Sidi Youssef,Algeria,Heddada,Official,,"November 28, 2018",,,929607.5830000006,4331407.879900001
+TUNDZAc000005,Tunisia,Malloula CP,Algeria,,Not Official,,"August 6, 2019",,,963068.2181000002,4427161.212700002
+TUNDZAc000009,Tunisia,Haidra CP,Algeria,Ras El Ayoun,Not Official,,"August 6, 2019",,,931021.7857999988,4238608.713299997
+TUNDZAc000001,Tunisia,Oum Teboul,Algeria,Malloula,Official,,"November 28, 2018",,,962941.4252000004,4427176.388800003
+TUNLBYc000015,Tunisia,Dhahiba CP,Libya,Wazin,Not Official,,"November 15, 2012",,,1189328.3114,3760250.5600000024
+TUNDZAc000003,Tunisia,Bou Chebka,Algeria,,Official,,"November 28, 2018",,,937502.3612000011,4186729.7277000025
+TUNLBYc000014,Tunisia,Ras Jdir CP,Libya,,Not Official,,"November 15, 2012",,,1286675.9816000015,3915064.1911000013
+TUNDZAc000008,Tunisia,Kalaat Sinan CP,Algeria,El Meridj,Not Official,,"August 6, 2019",,,920376.9708000012,4271176.691200003
+TUNDZAc000007,Tunisia,Ouled Moumen CP,Algeria,,Not Official,,"August 6, 2019",,,931985.4785999991,4359951.304399997
+TUNDZAc000006,Tunisia,Babouch,Algeria,,Official,,"August 6, 2019",,,961510.5245000012,4411846.204999998
+TURIRNc000002,Turkey,Gurbulak Border Gate,Islamic Republic of Iran,Bazargan,Other,Lopesi,"September 17, 2021",,,4939977.400600001,4781017.459600002
+TURIRNc000001,Turkey,Esendere Border Gate,Islamic Republic of Iran,Serow,Other,Lopesi,"September 17, 2021",,,4967172.7852,4539516.0145
+TURSYRc000108,Turkey,Topraktutan,Syrian Arab Republic,,Official,,"June 4, 2014",,,4023377.2661999986,4274951.068899997
+TURBGRc000002,Turkey,Hamzabeyli,Bulgaria,Lesovo,Official,,"October 28, 2015",,,2962322.9695000015,5154678.446199998
+TURSYRc000118,Turkey,Oncupinar,Syrian Arab Republic,Bal el Salaam                                                                                       ,Official,,"June 4, 2014",,,4128503.4125000015,4388516.813299999
+TURSYRc000111,Turkey,Arfali (Yukaripulluyazi),Syrian Arab Republic,,Official,,"June 4, 2014",,,4023936.3126999997,4283505.361699998
+TURSYRc000106,Turkey,Cilvegozu,Syrian Arab Republic,Bab el Hawa                                                                                         ,Official,,"June 4, 2014",,,4083045.199000001,4332952.802699998
+TURSYRc000114,Turkey,Karbeyaz Yigitoglu,Syrian Arab Republic,,Official,,"June 4, 2014",,,4034570.579,4295374.0788
+TURSYRc000105,Turkey,Yayladagi,Syrian Arab Republic,Kasab                                                                                               ,Official,,"June 4, 2014",,,4008585.2569000013,4287641.764700003
+TURSYRc000109,Turkey,Guvecci,Syrian Arab Republic,,Official,,"June 4, 2014",,,4026766.7309999987,4285731.048
+TURSYRc000112,Turkey,Bukulmez,Syrian Arab Republic,,Official,,"June 4, 2014",,,4078392.489599999,4347752.5264
+TURSYRc000121,Turkey,Akcakale,Syrian Arab Republic,Tal Abyad                                                                                           ,Official,,"June 4, 2014",,,4336690.759799998,4398146.3989999965
+TURGRCc000002,Turkey,Karaagac,Greece,Kastanies,Official,,"October 28, 2015",,,2948964.6306000017,5109362.816500001
+TURSYRc000120,Turkey,Senyurt,Syrian Arab Republic,Dar Basiyah                                                                                         ,Official,,"June 4, 2014",,,4524598.745999999,4449979.826399997
+TURBGRc000001,Turkey,Kapıkule,Bulgaria,Kapitan Andreevo,Official,,"October 28, 2015",,,2933464.8365,5122775.982799999
+TURBGRc000003,Turkey,Dereköy,Bulgaria,Malko Tarnovo,Official,,"October 28, 2015",,,3056610.5782000013,5156068.4767
+TURSYRc000115,Turkey,Akpinar,Syrian Arab Republic,,Not Official,,"June 4, 2014",,,4072057.7514999993,4356829.4575999975
+TURSYRc000117,Turkey,Suriyehamam,Syrian Arab Republic,,Not Official,,"June 4, 2014",,,4078045.279599998,4347757.235200003
+TURIRQc000007,Turkey,Silopi,Iraq,Ibrahim Kalil (Zakho)                                                                               ,Not Official,,"November 15, 2012",,,4739923.453699999,4459186.821000002
+TURGRCc000001,Turkey,Ipsala,Greece,Kipoi,Official,,"October 28, 2015",,,2931083.6033999994,5002464.196400002
+TURSYRc000107,Turkey,Asagipullyazi,Syrian Arab Republic,,Official,,"June 4, 2014",,,4026806.3651,4281290.455600001
+TURSYRc000104,Turkey,Tahtakopru,Syrian Arab Republic,,Official,,"June 4, 2014",,,4089553.0210000016,4414142.8028
+TURSYRc000113,Turkey,Hacipasa,Syrian Arab Republic,,Official,,"June 4, 2014",,,4050486.3718999997,4311292.015699998
+TURSYRc000122,Turkey,Ceylanpinar,Syrian Arab Republic,Ras el Ain                                                                                          ,Official,,"June 4, 2014",,,4458594.632399999,4417197.841499999
+TURSYRc000119,Turkey,Nusabayin,Syrian Arab Republic,Qamlishi                                                                                            ,Official,,"June 4, 2014",,,4588640.385899998,4448855.261299998
+TURSYRc000116,Turkey,Hatayhamam,Syrian Arab Republic,Hemame,Not Official,,"June 4, 2014",,,4073948.8114,4352047.265799999
+TURSYRc000103,Turkey,Karkamis,Syrian Arab Republic,Jarablus                                                                                            ,Official,,"June 4, 2014",,,4230484.832199998,4415355.893600002
+TURGRCc000003,Turkey,Uzunkopru,Greece,Pythio,Official,,"October 28, 2015",,,2930950.3027999997,5025972.749700002
+TURSYRc000123,Turkey,Cirze,Syrian Arab Republic,Ain Diwar                                                                                           ,Official,,"June 4, 2014",,,4698307.0315999985,4478226.401299998
+TZABDIc000178,United Republic of Tanzania,Migongo,Burundi,,Official,,"June 2, 2015",,,3347179.0507999994,-473653.9120000005
+TZABDIc000181,United Republic of Tanzania,Kilelema,Burundi,,Official,,"October 9, 2015",,,3353263.662799999,-462979.7186000012
+TZABDIc000176,United Republic of Tanzania,Manyovu,Burundi,,Official,,"June 2, 2015",,,3313623.0031000003,-494919.3467000015
+TZABDIc000183,United Republic of Tanzania,Mabamba,Burundi,Gisuru,Official,,"October 9, 2015",,,3394521.449099999,-396960.8423999995
+TZABDIc000177,United Republic of Tanzania,Biharu,Burundi,,Official,,"June 2, 2015",,,3342011.2661000006,-482807.7822000012
+TZABDIc000186,United Republic of Tanzania,Bugarama,Burundi,,Official,,"October 9, 2015",,,3398718.527899999,-319291.15349999815
+TZABDIc000182,United Republic of Tanzania,Kabanga,Burundi,,Official,,"October 9, 2015",,,3390450.4952999987,-294791.85979999974
+TZABDIc000184,United Republic of Tanzania,Murusagamba,Burundi,Rubangabanga,Official,,"October 9, 2015",,,3433043.7815000005,-330142.8233000003
+TZABDIc000179,United Republic of Tanzania,Kagunga,Burundi,,Official,,"June 2, 2015",,,3301875.2463000007,-495758.8594999984
+TZABDIc000185,United Republic of Tanzania,Kasenge,Burundi,,Official,,"October 9, 2015",,,3399427.2991000004,-272210.5533000007
+TZABDIc000187,United Republic of Tanzania,Kigadye,Burundi,,Official,,"October 9, 2015",,,3368871.546,-452679.11620000005
+UGACODc000146,Uganda,Busunga,Democratic Republic of the Congo,Nobili,Official,,"February 19, 2018",,,3334895.3902000003,70133.91699999943
+UGACODc000160,Uganda,Gobolo,Democratic Poeple's Rep. of Korea,,Official,,,,,3501741.3770000003,405044.2274999991
+UGACODc000150,Uganda,Oraba,Democratic Republic of the Congo,,Official,,"February 19, 2018",,,3437928.592099998,393611.94220000133
+UGACODc000143,Uganda,Nteko,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3293731.557599999,-114517.06159999967
+UGATZAc000003,Uganda,Bugango,United Republic of Tanzania,,Not Official,,"February 19, 2018",,,3463094.923300002,-111221.2659999989
+UGACODc000155,Uganda,Rwebisengo,Democratic Republic of the Congo,,Official,,"February 19, 2018",,,3369831.787900001,116459.34840000048
+UGASSDc000006,Uganda,Keyi,South Sudan,,Official,,"November 8, 2016",,,3476335.9530999996,422655.8482999988
+UGARWAc000001,Uganda,Katuna,Rwanda,Gatuna,Official,,"February 19, 2018",,,3340836.400199998,-158532.82699999958
+UGACODc000153,Uganda,Sebagoro,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3440784.0483999997,160623.17060000077
+UGASSDc000004,Uganda,Busia,South Sudan,,Not Official,,"February 19, 2018",,,3450383.796,412645.3502999991
+UGACODc000141,Uganda,Busanja,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3293252.8838,-129328.71379999816
+UGASSDc000003,Uganda,Pomoju,South Sudan,,Official,,"August 26, 2016",,,3525942.8280000016,413147.87099999934
+UGATZAc000002,Uganda,Kikagati,United Republic of Tanzania,Murongo,Official,,"February 19, 2018",,,3411746.9158000015,-118592.0353000015
+UGASSDc000008,Uganda,Waligo,South Sudan,,Official,,"February 19, 2018",,,3602731.643599998,401757.74760000035
+UGASSDc000009,Uganda,Aweno-Olwiyo,South Sudan,Labone,Official,,"February 19, 2018",,,3646424.5436999984,416692.89460000023
+UGASSDc000007,Uganda,Angilia,South Sudan,,Not Official,,"February 19, 2018",,,3490463.154100001,418687.44509999827
+UGACODc000159,Uganda,Paiha,Democratic Poeple's Rep. of Korea,,Official,,"May 7, 2018",,,3449199.8018999994,269085.564199999
+UGACODc000154,Uganda,Mpondwe,Democratic Republic of the Congo,Kyasenda,Official,,"February 19, 2018",,,3308462.2432000004,4663.062600001693
+UGACODc000148,Uganda,Nyankanda,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3366617.9941999987,102618.73360000178
+UGACODc000138,Uganda,Ishasa,Democratic Poeple's Rep. of Korea,,Official,,"February 19, 2018",,,3298206.6011999995,-80973.52360000089
+UGASSDc000001,Uganda,Madi-Opei,South Sudan,,Official,,"February 19, 2018",,,3695972.2925000004,420418.8627999984
+UGACODc000139,Uganda,Kyeshero,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3297513.4147000015,-100283.84589999914
+UGASSDc000002,Uganda,Ngomoromo,South Sudan,Pajok,Official,,"February 19, 2018",,,3626417.9822000004,412075.7646000013
+UGASSDc000010,Uganda,Afoji,South Sudan,,Official,,"February 19, 2018",,,3525885.0161000006,413807.62310000136
+UGACODc000152,Uganda,Nsonga,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3421789.4923,136958.54450000077
+UGARWAc000002,Uganda,Mirama Hills,Rwanda,,Official,,"February 19, 2018",,,3390701.7434,-117055.0075000003
+UGACODc000147,Uganda,Bulyantano,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3336603.8104999997,66496.01000000164
+UGATZAc000001,Uganda,Mutukula,United Republic of Tanzania,,Official,,"February 19, 2018",,,3497291.714299999,-111325.14290000126
+UGACODc000151,Uganda,Kasiri,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3336409.3352999985,78184.75329999998
+UGASSDc000005,Uganda,Chakulia,South Sudan,,Official,,"November 8, 2016",,,3465172.519699998,418037.58669999987
+UGACODc000140,Uganda,Butogota,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3298540.0029999986,-98907.32389999926
+UGACODc000145,Uganda,Butogo,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3336404.6598999985,80577.63980000094
+UGACODc000142,Uganda,Bunagana,Democratic Republic of the Congo,,Official,,"February 19, 2018",,,3294994.1433000006,-144093.74060000107
+UGACODc000157,Uganda,Makindo,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3376979.0557999983,127988.26579999924
+UGACODc000158,Uganda,Canara,Democratic Republic of the Congo,,Official,,"February 19, 2018",,,3399425.4065999985,117312.31030000001
+UGACODc000156,Uganda,Budiba,Democratic Republic of the Congo,,Not Official,,"February 19, 2018",,,3366544.1893999986,123636.05160000175
+UKRMDAc000008,Ukraine,Mamalyha,Republic of Moldova,Criva,Official,,,UNHCR_WRITER,"February 24, 2022",2963910.657200001,6151082.9695999995
+UKRMDAc000009,Ukraine,Rososhany,Republic of Moldova,Briceni,Official,,,UNHCR_WRITER,"February 24, 2022",3010752.2798999995,6169801.085900001
+UKRMDAc000010,Ukraine,Sokyriany,Republic of Moldova,Birnova,Official,,,UNHCR_WRITER,"February 24, 2022",3057189.9811000004,6180066.283799998
+UKRMDAc000011,Ukraine,Mohyliv-Podildky,Republic of Moldova,Otaci,Official,,,UNHCR_WRITER,"February 24, 2022",3093583.5786000006,6181027.497299999
+UKRMDAc000012,Ukraine,Bronnytsia,Republic of Moldova,Unguri,Official,,,UNHCR_WRITER,"February 24, 2022",3103305.7908000015,6173504.862400003
+UKRMDAc000007,Ukraine,Yampil,Republic of Moldova,Soroca,Official,,,UNHCR_WRITER,"February 24, 2022",3150158.1986000016,6146621.163199998
+UKRMDAc000013,Ukraine,Maiaky,Republic of Moldova,Palanca,Official,leo,"March 7, 2022",UNHCR_WRITER,"February 24, 2022",3357603.5744000003,5846818.4234
+UKRMDA000014,Ukraine,Udobne,Republic of Moldova,Palanca,Official,,,UNHCR_WRITER,"February 24, 2022",3349280.7047000006,5842281.990999997
+UKRMDAc000001,Ukraine,Udobne,Republic of Moldova,Tudora,Official,,,UNHCR_WRITER,"February 24, 2022",3337367.531800002,5842666.286899999
+UKRMDAc000002,Ukraine,Serpneve,Republic of Moldova,Basarabeasca,Official,,,UNHCR_WRITER,"February 24, 2022",3227067.148400001,5832399.971199997
+UKRMDAc000003,Ukraine,Novi Troiany,Republic of Moldova,Ceadir-Lunga,Official,,,UNHCR_WRITER,"February 24, 2022",3210824.396499999,5777342.0942
+UKRMDAc000004,Ukraine,Bolhrad,Republic of Moldova,Vulcanesti,Official,,,UNHCR_WRITER,"February 24, 2022",3172882.4802,5732233.387900002
+UKRMDAc000005,Ukraine,Kuchurhany,Republic of Moldova,Pervomaisc,Official,,,UNHCR_WRITER,"February 24, 2022",3336721.2084,5899278.634900004
+UKRMDAc000006,Ukraine,Platnove,Republic of Moldova,Dubau,Official,,,UNHCR_WRITER,"February 24, 2022",3265000.5516000018,6008188.973200001
+ROUUKRc000008,Ukraine,Orlivka,Romania,Isaccea,Official,krolikie,"February 24, 2022",core_edit,"February 25, 2022",3167378.3812000006,5666316.016199999
+UZBAFGc000024,Uzbekistan,Termez,Afghanistan,Hairaton                                                                                            ,Not Official,,"November 15, 2012",,,7505996.717,4471062.696900003
+UZBAFGc000051,Uzbekistan,Yallama,Kazakhstan,,Official,,,core_edit,"June 20, 2022",7650680.464000002,5007839.5612
+UZBAFGc000053,Uzbekistan,Navoi,Kazakhstan,Kaplanbek,Official,,,core_edit,"June 20, 2022",7704058.988400001,5079918.0923999995
+UZBAFGc000052,Uzbekistan,Gisht-Ko'prik,Kazakhstan,Zhibek Zholy,Official,,,core_edit,"June 20, 2022",7720728.632199999,5081373.292499997
+UZBAFGc000055,Uzbekistan,Dautota,Kazakhstan,,Official,,,core_edit,"June 20, 2022",6233900.431600001,5604073.957000002
+UZBAFGc000057,Uzbekistan,Alat,Turkmenistan,,Official,,,core_edit,"June 20, 2022",7092749.998100001,4753385.827799998
+UZBAFGc000056,Uzbekistan,Sariosiyo,Tajikistan,,Official,,,core_edit,"June 20, 2022",7581787.408599999,4650905.5233
+UZBAFGc000050,Uzbekistan,Jartepa,Tajikistan,Panjakent,Official,,,core_edit,"June 20, 2022",7502942.839000002,4796155.0266999975
+UZBAFGc000054,Uzbekistan,Oybek,Tajikistan,,Official,,,core_edit,"June 20, 2022",7710520.313999999,4895034.235699996
+YEMSOMc000095,Yemen,Hisn Bal'id,Somalia,,Not Official,,"November 15, 2012",,,5228503.830499999,1522798.3361999989
+ZMBCODc000002,Zambia,Sakania,Democratic Republic of the Congo,,Official,,"September 4, 2017",,,3170845.726500001,-1430627.4486000016
+ZMBCODc000001,Zambia,Chembe,Democratic Republic of the Congo,Malashio,Official,,"September 4, 2017",,,3199964.3106000014,-1340426.2003000006
+ZMBTZAc000002,Zambia,Nakonde,United Republic of Tanzania,Tunduma,Official,,"September 5, 2017",,,3647237.4716,-1041677.6369000003
+ZMBCODc000003,Zambia,Murundi,Democratic Republic of the Congo,Mokambo,Official,,"September 4, 2017",,,3153713.2256999984,-1394614.2325999998
+ZMBTZAc000001,Zambia,Mpulungu,United Republic of Tanzania,,Official,,"September 4, 2017",,,3472189.8797999993,-968574.4367000014
+ZMBCODc000004,Zambia,Chiliabombwe,Democratic Republic of the Congo,Kasumbalese,Official,,"September 4, 2017",,,3095322.8658000007,-1375034.2316999994
+ZMBCODc000006,Zambia,Nsumbu,Democratic Republic of the Congo,,Official,,"September 4, 2017",,,3399999.6325999983,-949577.0031999983
+ZMBCODc000007,Zambia,Kalima,Democratic Republic of the Congo,Chiengi,Official,,"May 7, 2018",,,3226741.1363999993,-951498.7604999989
+ZMBCODc000005,Zambia,Kaputa,Democratic Republic of the Congo,,Official,,"September 4, 2017",,,3303285.4257999994,-935415.2800999992
