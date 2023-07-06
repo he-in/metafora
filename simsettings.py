@@ -5,6 +5,7 @@ import random
 seed = 12345
 random.seed(seed)
 
+no_of_agents = 1
 class Parameters:
   Softening = 0.0
   #TurnBackAllowed = True # feature disabled for now.

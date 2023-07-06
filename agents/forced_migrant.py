@@ -37,7 +37,7 @@ class Migrant:
         self.leaving_fleeing = 'fleeing'  # 'leaving', 'fleeing'
         self.dest_plan = 'since_beg'  # 'since_beg', 'throughout', 'none'
         self.plan = 'long_term'  # 'long_term', 'aspirations_only', 'short_term', 'none'
-        self.routing = 'key_transit'  # 'key_transit', 'optimisation', 'next_stop_only', 'random'
+        self.routing = 'key_transit'  # 'key_transit', 'optimisation', 'next_stop_only', 'random_routing'
 
     def plan(self):
         if self.leaving_fleeing == 'leaving':
@@ -54,7 +54,7 @@ class Migrant:
                 self.routing = 'next_stop_only'
             else:
                 self.dest_plan = 'none'
-                self.routing = 'random'
+                self.routing = 'random-routing'
 
 
 class MigrantKPIs:
